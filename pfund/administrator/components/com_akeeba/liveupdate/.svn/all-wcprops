@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/pfund/!svn/ver/449/administrator/components/com_akeeba/liveupdate
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/pfund/!svn/ver/449/administrator/components/com_akeeba/liveupdate/LICENSE.txt
+END
+liveupdate.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/pfund/!svn/ver/449/administrator/components/com_akeeba/liveupdate/liveupdate.php
+END
+config.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/pfund/!svn/ver/449/administrator/components/com_akeeba/liveupdate/config.php
+END

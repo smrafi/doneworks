@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/pfund/!svn/ver/2/administrator/components/com_newsfeeds/views/newsfeed/tmpl
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/pfund/!svn/ver/2/administrator/components/com_newsfeeds/views/newsfeed/tmpl/index.html
+END
+edit.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/pfund/!svn/ver/2/administrator/components/com_newsfeeds/views/newsfeed/tmpl/edit.php
+END
+edit_metadata.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/pfund/!svn/ver/2/administrator/components/com_newsfeeds/views/newsfeed/tmpl/edit_metadata.php
+END
+edit_params.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/pfund/!svn/ver/2/administrator/components/com_newsfeeds/views/newsfeed/tmpl/edit_params.php
+END

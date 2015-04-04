@@ -1,0 +1,37 @@
+/* 
+    Document   : print
+    Created on : Jan 9, 2012, 7:10:52 PM
+    Author     : Reebo
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+#left_out, .comp-button, #bottom, #footer, #header, #pathway_out{
+    display: none;
+}
+.container{
+    margin: 0;
+}
+.content-table td#left-column{
+    display: none;
+}
+.comp-print{
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+#maincontent{
+    float: none;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+body{
+    background: none;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 20px;
+}
+
+
+
+	

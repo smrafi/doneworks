@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/pfund/!svn/ver/449/administrator/components/com_akeeba/liveupdate/classes
+END
+abstractconfig.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/pfund/!svn/ver/449/administrator/components/com_akeeba/liveupdate/classes/abstractconfig.php
+END
+view.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/pfund/!svn/ver/449/administrator/components/com_akeeba/liveupdate/classes/view.php
+END
+updatefetch.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/pfund/!svn/ver/449/administrator/components/com_akeeba/liveupdate/classes/updatefetch.php
+END
+inihelper.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/pfund/!svn/ver/449/administrator/components/com_akeeba/liveupdate/classes/inihelper.php
+END
+model.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/pfund/!svn/ver/449/administrator/components/com_akeeba/liveupdate/classes/model.php
+END
+controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/pfund/!svn/ver/449/administrator/components/com_akeeba/liveupdate/classes/controller.php
+END
+xmlslurp.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/pfund/!svn/ver/449/administrator/components/com_akeeba/liveupdate/classes/xmlslurp.php
+END
+download.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/pfund/!svn/ver/449/administrator/components/com_akeeba/liveupdate/classes/download.php
+END

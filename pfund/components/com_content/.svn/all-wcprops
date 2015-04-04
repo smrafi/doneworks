@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/pfund/!svn/ver/2/components/com_content
+END
+metadata.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/pfund/!svn/ver/2/components/com_content/metadata.xml
+END
+content.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/pfund/!svn/ver/2/components/com_content/content.php
+END
+router.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/pfund/!svn/ver/2/components/com_content/router.php
+END
+controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/pfund/!svn/ver/2/components/com_content/controller.php
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/pfund/!svn/ver/2/components/com_content/index.html
+END

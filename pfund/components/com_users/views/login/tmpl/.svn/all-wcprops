@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/pfund/!svn/ver/2/components/com_users/views/login/tmpl
+END
+default_login.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/pfund/!svn/ver/2/components/com_users/views/login/tmpl/default_login.php
+END
+default.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/pfund/!svn/ver/2/components/com_users/views/login/tmpl/default.xml
+END
+default_logout.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/pfund/!svn/ver/2/components/com_users/views/login/tmpl/default_logout.php
+END
+default.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/pfund/!svn/ver/2/components/com_users/views/login/tmpl/default.php
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/pfund/!svn/ver/2/components/com_users/views/login/tmpl/index.html
+END

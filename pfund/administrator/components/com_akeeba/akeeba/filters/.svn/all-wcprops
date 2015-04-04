@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/pfund/!svn/ver/449/administrator/components/com_akeeba/akeeba/filters
+END
+skipfiles.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/pfund/!svn/ver/449/administrator/components/com_akeeba/akeeba/filters/skipfiles.php
+END
+tables.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/pfund/!svn/ver/449/administrator/components/com_akeeba/akeeba/filters/tables.php
+END
+directories.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/pfund/!svn/ver/449/administrator/components/com_akeeba/akeeba/filters/directories.php
+END
+srpdata.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/pfund/!svn/ver/449/administrator/components/com_akeeba/akeeba/filters/srpdata.php
+END
+srpskipfiles.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/pfund/!svn/ver/449/administrator/components/com_akeeba/akeeba/filters/srpskipfiles.php
+END
+incremental.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/pfund/!svn/ver/449/administrator/components/com_akeeba/akeeba/filters/incremental.php
+END
+tabledata.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/pfund/!svn/ver/449/administrator/components/com_akeeba/akeeba/filters/tabledata.php
+END
+files.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/pfund/!svn/ver/449/administrator/components/com_akeeba/akeeba/filters/files.php
+END
+srpskipdata.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/pfund/!svn/ver/449/administrator/components/com_akeeba/akeeba/filters/srpskipdata.php
+END
+srpdirs.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/pfund/!svn/ver/449/administrator/components/com_akeeba/akeeba/filters/srpdirs.php
+END
+srpfiles.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/pfund/!svn/ver/449/administrator/components/com_akeeba/akeeba/filters/srpfiles.php
+END
+skipdirs.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/pfund/!svn/ver/449/administrator/components/com_akeeba/akeeba/filters/skipdirs.php
+END

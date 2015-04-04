@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/pfund/!svn/ver/2/libraries/phputf8/utils
+END
+validation.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/pfund/!svn/ver/2/libraries/phputf8/utils/validation.php
+END
+patterns.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/pfund/!svn/ver/2/libraries/phputf8/utils/patterns.php
+END
+specials.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/pfund/!svn/ver/2/libraries/phputf8/utils/specials.php
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/pfund/!svn/ver/2/libraries/phputf8/utils/index.html
+END
+position.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/pfund/!svn/ver/2/libraries/phputf8/utils/position.php
+END
+bad.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/pfund/!svn/ver/2/libraries/phputf8/utils/bad.php
+END
+unicode.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/pfund/!svn/ver/2/libraries/phputf8/utils/unicode.php
+END
+ascii.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/pfund/!svn/ver/2/libraries/phputf8/utils/ascii.php
+END

@@ -1,0 +1,59 @@
+<?php
+
+/* * *****************************************************************************
+ * Developer        :   Mohamed Asfaran
+ * Developer Email  :   asfaransl@gmail.com
+ * Copyright        :   Maadya Digitel.
+ * Licence          :   Deifined/Closed
+ * Prduct           :   President Fund Process
+ * Date             :   
+ * ***************************************************************************** */
+defined( '_JEXEC' ) or die( 'Restricted access' );
+
+JHTML::_('behavior.modal');
+JHTML::_('behavior.mootools');
+JHTML::_('behavior.tooltip');
+
+if($this->openbalancepayable_list->id == 0)
+    echo '<h1>New payable Details</h1>';
+else
+    echo '<h1>Edit payable Details</h1>';
+
+?>
+<div class="comp-button">
+    <button type="button" name="apply_btn" class="apply_btn">Apply</button>
+    <button type="button" name="save_btn" class="save_btn">Save</button>
+    <button type="button" name="cancel_btn" class="cancel_btn">Back</button>
+</div>
+<div class="comp-content">
+<form  action="index.php" method="post" name="adminForm" class="submit-form" enctype="multipart/form-data">
+    <input type="hidden" name="option" value="<?php echo OPTION_NAME; ?>" />
+    <input type="hidden" name="task" value="" id="task" />
+    <input type="hidden" name="controller" value="openbalancepayable" />
+    <input type="hidden" name="id" value="<?php echo $this->openbalancepayable_list->id; ?>" />
+     
+    <table  >
+        <tr>
+        <td >To Whom</td>
+        <td><input type="Text"  name="pl_whom" value="<?php echo $this->openbalancepayable_list->pl_whom; ?>" /></td>
+        </tr>
+        <tr>
+        <td >Payable on</td>
+        <td><?php echo JHtml::calendar($this->openbalancepayable_list->pl_date, 'pl_date', 'pl_date'); ?></td>
+        </tr>
+        <tr>
+        <td >Ledger Item</td>
+        <td ><?php echo PFundHelper::createList('pl_type', (int)$this->openbalancepayable_list->pl_type, $this->ledger_list); ?></td>
+        </tr>
+        <tr>
+        <td >Amount</td>
+        <td ><input type="Text"  name="pl_amount" value="<?php echo $this->openbalancepayable_list->pl_amount; ?>" /></td>
+        </tr>
+        <tr>
+        <td valign="top">Remarks</td>
+        <td><textarea name="pl_remark" cols="40" rows="5"><?php echo $this->openbalancepayable_list->pl_remark; ?></textarea></td>
+        </tr>                
+     </table>
+     
+</form>
+</div>

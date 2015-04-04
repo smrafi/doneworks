@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/pfund/!svn/ver/628/administrator/components/com_presidentfund/helpers
+END
+pfund_helper.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/pfund/!svn/ver/628/administrator/components/com_presidentfund/helpers/pfund_helper.php
+END
+general_helper.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/pfund/!svn/ver/634/administrator/components/com_presidentfund/helpers/general_helper.php
+END
+permission_helper.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/pfund/!svn/ver/552/administrator/components/com_presidentfund/helpers/permission_helper.php
+END

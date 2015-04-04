@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/pfund/!svn/ver/2/administrator/components/com_newsfeeds/sql
+END
+uninstall.mysql.utf8.sql
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/pfund/!svn/ver/2/administrator/components/com_newsfeeds/sql/uninstall.mysql.utf8.sql
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/pfund/!svn/ver/2/administrator/components/com_newsfeeds/sql/index.html
+END
+install.mysql.utf8.sql
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/pfund/!svn/ver/2/administrator/components/com_newsfeeds/sql/install.mysql.utf8.sql
+END

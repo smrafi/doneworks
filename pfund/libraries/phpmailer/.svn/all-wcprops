@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/pfund/!svn/ver/2/libraries/phpmailer
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/pfund/!svn/ver/2/libraries/phpmailer/LICENSE
+END
+phpmailer.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/pfund/!svn/ver/2/libraries/phpmailer/phpmailer.php
+END
+smtp.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/pfund/!svn/ver/2/libraries/phpmailer/smtp.php
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/pfund/!svn/ver/2/libraries/phpmailer/index.html
+END

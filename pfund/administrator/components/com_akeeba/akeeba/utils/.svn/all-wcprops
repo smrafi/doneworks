@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/pfund/!svn/ver/449/administrator/components/com_akeeba/akeeba/utils
+END
+scanner.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/pfund/!svn/ver/449/administrator/components/com_akeeba/akeeba/utils/scanner.php
+END
+statistics.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/pfund/!svn/ver/449/administrator/components/com_akeeba/akeeba/utils/statistics.php
+END
+quirks.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/pfund/!svn/ver/449/administrator/components/com_akeeba/akeeba/utils/quirks.php
+END
+ini.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/pfund/!svn/ver/449/administrator/components/com_akeeba/akeeba/utils/ini.php
+END
+inihelper.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/pfund/!svn/ver/449/administrator/components/com_akeeba/akeeba/utils/inihelper.php
+END
+jconfig.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/pfund/!svn/ver/449/administrator/components/com_akeeba/akeeba/utils/jconfig.php
+END
+logger.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/pfund/!svn/ver/449/administrator/components/com_akeeba/akeeba/utils/logger.php
+END
+tempvars.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/pfund/!svn/ver/449/administrator/components/com_akeeba/akeeba/utils/tempvars.php
+END
+scripting.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/pfund/!svn/ver/449/administrator/components/com_akeeba/akeeba/utils/scripting.php
+END
+comconfig.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/pfund/!svn/ver/449/administrator/components/com_akeeba/akeeba/utils/comconfig.php
+END
+encrypt.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/pfund/!svn/ver/449/administrator/components/com_akeeba/akeeba/utils/encrypt.php
+END
+filesystem.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/pfund/!svn/ver/449/administrator/components/com_akeeba/akeeba/utils/filesystem.php
+END
+securesettings.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/pfund/!svn/ver/449/administrator/components/com_akeeba/akeeba/utils/securesettings.php
+END
+tempfiles.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/pfund/!svn/ver/449/administrator/components/com_akeeba/akeeba/utils/tempfiles.php
+END

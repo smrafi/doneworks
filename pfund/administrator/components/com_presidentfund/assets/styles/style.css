@@ -1,0 +1,15 @@
+
+div.appendlink{
+    padding-left: 100px;
+    padding-top: 10px;
+}
+input#etc_relation, input#othertitle_patient, input#othertitle_applicant, input#martial_other, input#illness_explained{
+    margin-left: 20px;
+}
+div.income-list{
+    margin-top: 30px;
+}
+img.property-file{
+    width: 100%;
+    margin-top: 10px;
+}

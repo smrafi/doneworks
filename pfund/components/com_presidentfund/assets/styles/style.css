@@ -1,0 +1,231 @@
+/* 
+    Document   : style
+    Created on : Dec 18, 2011, 10:13:59 PM
+    Author     : Reebo
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/*style for front end*/
+.comp-button{
+    margin-bottom: 20px;
+    float: right;
+}
+.comp-content, .comp-appcontent, .comp-print{
+    float: left;
+    width: 700px;
+}
+.comp-content{
+    background: none repeat scroll 0 0 #F5F5F5;
+    border: 1px solid #CCCCCC;
+    border-radius: 8px;
+    -moz-border-radius: 8px;
+    -webkit-border-radius: 8px;
+/*    padding: 10px;*/
+}
+.comp-content form, .comp-appcontent form{
+    padding: 10px;
+}
+.comp-button button, .comp-button button:hover{
+    background: #d0e4f7; /* Old browsers */
+    background: -moz-linear-gradient(top, #d0e4f7 0%, #73b1e7 17%, #0a77d5 47%, #539fe1 75%, #87bcea 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#d0e4f7), color-stop(17%,#73b1e7), color-stop(47%,#0a77d5), color-stop(75%,#539fe1), color-stop(100%,#87bcea)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top, #d0e4f7 0%,#73b1e7 17%,#0a77d5 47%,#539fe1 75%,#87bcea 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top, #d0e4f7 0%,#73b1e7 17%,#0a77d5 47%,#539fe1 75%,#87bcea 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top, #d0e4f7 0%,#73b1e7 17%,#0a77d5 47%,#539fe1 75%,#87bcea 100%); /* IE10+ */
+    background: linear-gradient(top, #d0e4f7 0%,#73b1e7 17%,#0a77d5 47%,#539fe1 75%,#87bcea 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d0e4f7', endColorstr='#87bcea',GradientType=0 ); /* IE6-9 */
+    border: 1px solid #DFDFDF;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    color: #FFFFFF;
+    font-size: 13px;
+    font-weight: bold;
+    height: 25px;
+    min-width: 100px;
+    margin-right: 15px;
+    cursor: pointer;
+    padding-bottom: 3px;
+}
+/*#income-table input{
+    width: 200px;
+}*/
+#othertitle_patient, #martial_other, #etc_relation, #othertitle_applicant{
+    margin-top: 10px;
+}
+table.income-data-table{
+    border-bottom: 1px dotted;
+    margin-bottom: 15px;
+}
+div.appendlink{
+    padding-left: 10px;
+    padding-top: 10px;
+}
+.notes-table{
+    float: left;
+    margin-top: 20px;
+}
+.search-input{
+    margin: 15px 0 30px;
+}
+.search-input select{
+    padding: 2px !important;
+    width: 150px !important;
+    margin: 0 10px;
+}
+.search-input input{
+    height: 18px !important;
+    vertical-align: top;
+    width: 200px !important;
+    margin-right: 10px;
+}
+#nic_num{
+    margin: 0 15px;
+    width: 150px !important;
+}
+span.instant-error{
+    color: red;
+    margin-left: 15px;
+    display: none;
+}
+span.instant-note{
+    color: #F5802C;
+    font-weight: bold;
+    margin-left: 15px;
+    display: none;
+}
+#component table.finance-table td:first-child{
+    width: 310px;
+}
+.extra-finance{
+    margin-top: 15px;
+}
+button#search_btn{
+    padding: 1px 15px;
+}
+.comp-print table.application-list{
+    border: 1px solid #000000;
+    border-left: none;
+    border-spacing: 0;
+}
+.comp-print table.application-list td,.comp-print table.application-list th{
+    border: 1px solid #000000;
+    padding: 5px !important;
+    vertical-align: middle !important;
+}
+.comp-print table.application-list td{
+    border-bottom: none;
+    border-top: none;
+    border-right: none;
+}
+.comp-print table.application-list th{
+    border-top: none;
+    border-right: none;
+}
+.comp-print table.application-list th:first-child, .comp-print table.application-list td:first-child{
+    width: 5% !important;
+    text-align: center;
+}
+button#done_btn{
+    margin-left: 20px;
+    padding: 4px 25px;
+    vertical-align: middle;
+}
+.numlist{
+    border: 1px solid;
+    border-spacing: 0;
+    width: auto !important;
+    border-bottom: none;
+    border-left: none;
+}
+.numlist td{
+    border: 1px solid;
+    min-width: 150px;
+    padding: 5px 10px !important;
+    width: auto !important;
+    border-top: none;
+    border-right: none;
+}
+div#grant-input, div#grant-input div#note-input{
+    margin-top: 10px;
+}
+div#amount-input span{
+    font-weight: bold;
+}
+div#amount-input input{
+    width: 200px;
+}
+div#note-input textarea{
+    margin-top: 10px;
+}
+#component input#letterfile_num{
+    vertical-align: middle;
+}
+#component input#prfile_reply{
+    height: 25px !important;
+    vertical-align: middle;
+}
+
+/*style the link tables links*/
+#component table.link-list td{
+    vertical-align: middle;
+    padding-left: 10px;
+    padding-bottom: 0;
+    background: #ffffff; /* Old browsers */
+    background: -moz-linear-gradient(top, #ffffff 0%, #f3f3f3 50%, #ededed 51%, #ffffff 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ffffff), color-stop(50%,#f3f3f3), color-stop(51%,#ededed), color-stop(100%,#ffffff)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top, #ffffff 0%,#f3f3f3 50%,#ededed 51%,#ffffff 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top, #ffffff 0%,#f3f3f3 50%,#ededed 51%,#ffffff 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top, #ffffff 0%,#f3f3f3 50%,#ededed 51%,#ffffff 100%); /* IE10+ */
+    background: linear-gradient(top, #ffffff 0%,#f3f3f3 50%,#ededed 51%,#ffffff 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#ffffff',GradientType=0 ); /* IE6-9 */
+}
+#component table.link-list td:first-child{
+    width: 40px;
+    padding: 5px 10px;
+}
+#component table.link-list td a{
+    font-size: 13px;
+}
+/*Dev :asfaran  related to Voucher Receipt print*/
+.printvoucher_table  td, .printvoucher_table th{
+    border: 1px solid #DFDFDF;
+}
+
+/*Dev Asfaran*/
+#component table.journaltable td input{
+    width: 70px;
+    height: auto;
+} 
+#component table.journaltable td select{
+    height: auto;
+    padding: 2px;
+    width: 250px;
+}
+#date_img,#period_end_img ,#period_start_img ,#ob_date_img ,#date_from_img ,#date_to_img{
+    vertical-align: middle;
+}
+
+#component table.acctable td input{
+    width: 150px;
+    height: auto;
+} 
+
+#component table.acctable td {
+    align:left;
+} 
+#component table.acctable td select{
+    height: auto;
+    padding: 2px;
+    width: 180px;
+}
+
+/*Dev Rafi*/
+.comp-button button.disabled{
+    background: none repeat scroll 0 0 #F7F7F7;
+    color: #117BD6;
+}
+a.disabled, a.disabled:hover{
+    text-decoration: none !important;
+}

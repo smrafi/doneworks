@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/pfund/!svn/ver/449/administrator/components/com_akeeba/backup
+END
+.htaccess
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/pfund/!svn/ver/449/administrator/components/com_akeeba/backup/.htaccess
+END
+akeeba.backend.log
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/pfund/!svn/ver/449/administrator/components/com_akeeba/backup/akeeba.backend.log
+END

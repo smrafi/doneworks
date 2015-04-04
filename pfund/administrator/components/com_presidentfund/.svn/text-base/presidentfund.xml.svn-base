@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<extension type="component" version="1.7" method="upgrade">
+    <name>com_presidentfund</name>
+    <author>Maadya Digital</author>
+    <creationDate>December 2011</creationDate>
+    <copyright>Maadya Digital (Pvt) Ltd.</copyright>
+    <license>Limited Licence. Licence difined by Maadya Digital</license>
+    <authorEmail>rafiitfac@gmail.com</authorEmail>
+    <authorUrl>www.maadya.com</authorUrl>
+    <version>1.0</version>
+    <description>
+        A workflow application to handle presdient fund handling process. Entire work flow and form process.
+    </description>
+    <administration>
+        <menu img="class:banners">com_presidentfund</menu>
+        <submenu>
+            <menu link="option=com_presidentfund&amp;controller=configure" img="class:banners"
+            alt="Configurations">com_presidentfund_configuration</menu>
+        </submenu>
+    </administration>
+</extension>

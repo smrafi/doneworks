@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<!-- $Id: metadata.xml 15576 2010-03-25 12:43:26Z Rafi $ -->
+<metadata>
+	<menu title="Application">
+		<message><![CDATA[Choose a contact layout.]]></message>
+        <options var="controller">
+            <option value="application" name="Application" msg="Application management link."></option>
+            <option value="accountentry" name="Account Entry" msg="Account entry link."></option>
+            <option value="account" name="Accounts" msg="Account management link."></option>
+            <option value="accountsetting&amp;task=banks" name="Bank Settings" msg=""></option>
+            <option value="bankaccount" name="Bank Accounts" msg="Bank Account management link."></option>
+            <option value="bankbalance" name="Bank Balance" msg="Bank Balance management link."></option>
+            <option value="bankreconcilate" name="Bank Reconcilate" msg="Bank Reconcilate link."></option>
+            <option value="category" name="Categories" msg="Category management link."></option>
+            <option value="contact" name="Contacts" msg="Contact management link."></option>
+            <option value="disease" name="Diseases" msg="Disease management link."></option>
+            <option value="dsoffice" name="DS Offices" msg="DS Office management link."></option>
+            <option value="fd" name="Fixed Deposit" msg="Fixed Deposit management link."></option>
+            <option value="file" name="Files" msg="File management link."></option>
+            <option value="hospital" name="Hospitals" msg="Hospital management link."></option>
+            <option value="income" name="Incomes" msg="Income management link."></option>
+            <option value="interest" name="Interests" msg="Interest management link."></option>
+            <option value="journalentry" name="Journalentry" msg="Journalentry link."></option>
+            <option value="ledgeritem&amp;task=ledger" name="Ledger Settings" msg=""></option>
+            <option value="letter" name="Letters" msg="Letter management link."></option>
+            <option value="loan" name="Loans" msg="Loan management link."></option>
+            <option value="manageapp" name="Manage Application" msg="Application management link."></option>
+            <option value="medicalpayment" name="Medical Payment" msg=""></option>
+            <option value="openbalance" name="Open Balance" msg=""></option>
+            <option value="openbalancefd" name="Open Balance Fixed Deposit" msg=""></option>
+            <option value="openbalanceloan" name="Open Balance Loan" msg=""></option>
+            <option value="openbalancepayable" name="Open Balance Payable" msg=""></option>
+            <option value="openbalancereceivable" name="Open Balance Receivable" msg=""></option>
+            <option value="payable" name="Payable" msg=""></option>
+            <option value="paysetting" name="Payment Settings" msg=""></option>
+            <option value="receivable" name="Receivable" msg=""></option>
+            <option value="template" name="Templates" msg=""></option>
+            <option value="voucher" name="Vouchers" msg="."></option>
+            <option value="accountreport" name="Account Report" msg="Account Report Links"></option>
+            <option value="configure" name="Configure" msg="Configure Links"></option>
+            <option value="accountview" name="Account Views" msg=""></option>
+            <option value="configure&amp;task=accountlinks" name="Account Links" msg=""></option>
+            <option value="application&amp;task=applist" name="Application List" msg="Application List Link"></option>
+            <option value="special&amp;task=reimbursact" name="Reimbursment" msg="Reimbursment Link"></option>
+            <option value="special&amp;task=recommendationlist" name="Recommendation" msg="Recommendation Link"></option>
+            <option value="special&amp;task=hmletters" name="Health Ministry Letters" msg="Health Ministry Link"></option>
+            <option value="asstsec" name="Assistant Secretary" msg="Assistant Secretary Link"></option>
+            <option value="prsec" name="Secretary of President" msg="Secretary of President Link"></option>
+            <option value="special&amp;task=presidentlist" name="President List" msg="President List Link"></option>
+            <option value="special&amp;task=upprresponse" name="Upload Letters" msg="President List Link"></option>
+            <option value="account&amp;task=accountapps" name="Account Head" msg="Account Head Link"></option>
+            <option value="application&amp;task=appnic" name="Account Head" msg="Account Head Link"></option>
+        </options>
+	</menu>
+</metadata>
