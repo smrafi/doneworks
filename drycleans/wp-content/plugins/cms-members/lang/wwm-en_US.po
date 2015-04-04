@@ -1,0 +1,297 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2009-04-29 10:05+0330\n"
+"Last-Translator: Hassan Jahangiry <hassan.jahan@gmail.com>\n"
+"Language-Team: WordPress Wave <info@wordpresswave.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#wwwm-register.php
+#payment.php
+#cms-members.php
+#wwm-install.php
+msgid "Register"
+msgstr ""
+
+msgid "Registration has been disabled."
+msgstr ""
+
+msgid "Your account has been successfully activated."
+msgstr ""
+
+msgid "We think you did it before!"
+msgstr ""
+
+msgid "-Select-"
+msgstr ""
+
+msgid "Please choose a plan."
+msgstr ""
+
+msgid "Your activation key is not valid for the plan!"
+msgstr ""
+
+msgid "Please enter %s."
+msgstr ""
+
+msgid "Please enter a username(at least 4 characters)."
+msgstr ""
+
+msgid "%s already exists."
+msgstr ""
+
+msgid "%s is not allowed."
+msgstr ""
+
+msgid "if ( (!empty($pass)) && ((strlen($pass2)>30) || ($pass!==$pass2) )) $msgerror.=__('Please re-type password to confirm.', 'wwm')."<br/>";."
+msgstr ""
+
+msgid "Please re-type password to confirm."
+msgstr ""
+
+msgid "Please enter a correct email address."
+msgstr ""
+
+msgid "That email already exists."
+msgstr ""
+
+msgid "Please enter a correct URL."
+msgstr ""
+
+msgid "Please choose your country."
+msgstr ""
+
+msgid "Please choose your birthdate."
+msgstr ""
+
+msgid "Please choose your gender."
+msgstr ""
+
+msgid "Please accept %s."
+msgstr ""
+
+msgid "Please upload a photo as %s."
+msgstr ""
+
+msgid "Please enter a correct %s."
+msgstr ""
+
+msgid "%s is not valid."
+msgstr ""
+
+msgid "Thank you for your registration."
+msgstr ""
+
+msgid "Please check your mail for activation link."
+msgstr ""
+
+msgid "Plan"
+msgstr ""
+
+msgid "Price"
+msgstr ""
+
+msgid "Male"
+msgstr ""
+
+msgid "Female"
+msgstr ""
+
+msgid "Januaray"
+msgstr ""
+
+msgid "February"
+msgstr ""
+
+msgid "March"
+msgstr ""
+
+msgid "April"
+msgstr ""
+
+msgid "May"
+msgstr ""
+
+msgid "June"
+msgstr ""
+
+msgid "July"
+msgstr ""
+
+msgid "August"
+msgstr ""
+
+msgid "September"
+msgstr ""
+
+msgid "October"
+msgstr ""
+
+msgid "November"
+msgstr ""
+
+msgid "December"
+msgstr ""
+
+msgid "Go back and edit"
+msgstr ""
+
+msgid "Confirm"
+msgstr ""
+
+msgid "Thank you for your order."
+msgstr ""
+
+msgid "Username"
+msgstr ""
+
+msgid "Password"
+msgstr ""
+
+msgid "Confirm Password"
+msgstr ""
+
+msgid "[Uploaded]"
+msgstr ""
+
+msgid "Change it below"
+msgstr ""
+
+msgid "Upload"
+msgstr ""
+
+msgid "-Day-"
+msgstr ""
+
+msgid "-Month-"
+msgstr ""
+
+msgid "-Year-"
+msgstr ""
+
+msgid "Select your country"
+msgstr ""
+
+msgid "Thank you for your payment."
+msgstr ""
+
+msgid "The payment was canceled."
+msgstr ""
+
+msgid "Your registration is incomplete.<br>Check your mail for activation link."
+msgstr ""
+
+msgid "Your account status: %s."
+msgstr ""
+
+msgid "Your account was expired."
+msgstr ""
+
+msgid "%s Invalid file type."
+msgstr ""
+
+msgid "Max allowed file size: %s KB"
+msgstr ""
+
+msgid "Email"
+msgstr ""
+
+msgid "First name"
+msgstr ""
+
+msgid "Last name"
+msgstr ""
+
+msgid "Nickname"
+msgstr ""
+
+msgid "Company"
+msgstr ""
+
+msgid "URI"
+msgstr ""
+
+msgid "Starts with http://"
+msgstr ""
+
+msgid "Yahoo IM"
+msgstr ""
+
+msgid "AOL IM"
+msgstr ""
+
+msgid "Jabber IM"
+msgstr ""
+
+msgid "Birth Date"
+msgstr ""
+
+msgid "Gender"
+msgstr ""
+
+msgid "Country"
+msgstr ""
+
+msgid "State/Province"
+msgstr ""
+
+msgid "City"
+msgstr ""
+
+msgid "Address"
+msgstr ""
+
+msgid "ZIP/Postal Code"
+msgstr ""
+
+msgid "Phone"
+msgstr ""
+
+msgid "Note"
+msgstr ""
+
+msgid "Any comment here."
+msgstr ""
+
+msgid "Terms"
+msgstr ""
+
+msgid "Avatar"
+msgstr ""
+
+msgid "Allowed file types: jpg,gif,png. Max size: 100KB"
+msgstr ""
+
+msgid "CAPTCHA"
+msgstr ""
+
+msgid "Type above text in the field"
+msgstr ""
+
+msgid "Promo Code"
+msgstr ""
+
+msgid "If you have a promo code type it above otherwise leave it blank."
+msgstr ""
+
+msgid "I read and accept terms."
+msgstr ""
+
+
+msgid "Image is very little."
+msgstr ""
+/////////////////
+msgid "Change Password"
+msgstr ""
+
+msgid "Save Changes"
+msgstr ""
+
+msgid "User settings updated."
+msgstr ""
+
+msgid "Expire"
+msgstr ""

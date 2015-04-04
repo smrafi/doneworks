@@ -1,0 +1,106 @@
+
+#login {
+	/*background:url(../images/login-bkg-tile.jpg) center top no-repeat;*/
+	width: 380px;
+}
+
+#login form {
+	margin-top: 0px;
+}
+
+/*  This makes the core background color for the login form transparent so 
+    your graphic will show through in all three form states. 
+*/
+#loginform, #registerform, #lostpasswordform {
+	background-color: transparent; border:0px;
+}
+
+form {
+-moz-border-radius:0 0 0 0 !important;
+-moz-box-shadow: 0 0 0 !important;
+padding:45px 16px 40px;
+}
+
+/*  If you have a light background as your login form graphic, change the color
+    here. #fff = white, #000 = black. This changes the Username, Password and 
+    'Remeber Me' text color. 
+*/
+
+/*  This hides the WordPress logo. The height parameter also adjust where the 
+    first input or message box begins. 
+*/
+h1 a {
+	background: transparent;
+	height: 122px;
+	width: 380px;
+}
+
+/*  Even though this is the navigation div for the links at the bottom of the 
+    login form, it also controls the bottom image that gives the login form a 
+    nice curved corner feel. 
+*/
+
+#nav {
+	/*background:url(../images/login-bkg-bottom.gif) center bottom no-repeat;*/
+	/*background:url(../images/login-bkg-tile.jpg) center bottom no-repeat;*/
+	width:380px;
+	height:45px;
+	text-indent: 26px;
+	margin:0px; padding: 0px;
+	padding-top:20px;
+	text-shadow: 0 0px 0 #FFFFFF;
+}
+
+h1 {
+padding-bottom:15px;
+}
+
+#nav a {
+	color:#21759B !important;
+}
+
+#login form .submit input {	
+	margin-right: 11px;
+}
+
+/*  Attributes for the errors and messages box. These can be broken up if you 
+    want to display a differnet color scheme for messages and errors. 
+*/
+#login p.message {
+	/*color: #FFFFFF;*/
+	padding: 12px;
+	margin: 0px 38px 10px 35px;
+	
+	
+}
+
+#login #login_error {
+	padding: 12px;
+	margin: 15px 26px 12px 24px;
+}
+
+/*  Form input box attributes. 
+*/
+#user_pass, #user_login, #user_email {
+	font-size: 20px;
+	width: 94%;
+	/* width:318px; this width is the same as 94% */
+}
+/*
+#login {
+
+	background:url(../images/login-bkg-tile.jpg ) center top no-repeat;
+}
+*/
+th {
+font-weight:normal;
+text-shadow:0 0px 0 #FFFFFF;
+}
+.paypal_form {
+    padding:10px 0px 20px 0;
+    background:none repeat scroll 0 0 transparent !important;
+    border: 0px solid;
+}
+		/*Custom class*/
+		
+.heading_custom{ font-family:Arial, Helvetica, sans-serif; font-size:13px; color:#fff; padding:0px 0px 10px 25px; width:100%; float:left; font-weight:bold;}		

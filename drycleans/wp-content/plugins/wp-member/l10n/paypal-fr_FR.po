@@ -1,0 +1,1772 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR wp-Member.com
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: wp-Member 2.2\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/wp-member\n"
+"POT-Creation-Date: 2009-06-11 15:13-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: admin/paypal-admin.php:23
+msgid ""
+"Unable to remove wpb-paypal directory from the server. Please delete it "
+"manually."
+msgstr ""
+"Impossible de supprimer gtpp paypal-répertoire du serveur. S&#39;il vous plaît supprimer manuellement."
+
+#: admin/paypal-admin.php:50 wp-member-main.php:1285 wp-member-main.php:1292
+#: wp-member-main.php:1819
+msgid "WP-MEMBER"
+msgstr "WP-MEMBRES"
+#: admin/paypal-admin.php:53
+msgid "wp-Member homepage"
+msgstr "wp-membre d&#39;accueil"
+#: admin/paypal-admin.php:54
+msgid "Affiliate"
+msgstr "Affiliation"
+#: admin/paypal-admin.php:55
+msgid "Hosting"
+msgstr "Hébergement"
+#: admin/paypal-admin.php:56
+msgid "Paypal Homepage"
+msgstr "Page d&#39;accueil Paypal"
+#: admin/paypal-admin.php:66 admin/paypal-admin.php:70
+msgid "Support"
+msgstr "Soutenir"
+#: admin/paypal-admin.php:69
+msgid "Interactive FAQ"
+msgstr "Interactive FAQ"
+#: admin/paypal-admin.php:80
+msgid "WP-MEMBER Services"
+msgstr "WP-Services aux membres"
+#: admin/paypal-admin.php:84
+msgid "Wordpress theme and plugin design"
+msgstr "Wordpress plugin thème et design"
+#: admin/paypal-admin.php:85
+msgid ""
+"High quality low priced <strong>PSD to XHTML/CSS</strong> and <strong>PSD to "
+"WordPress Theme</strong> coding & php services."
+msgstr ""
+"De haute qualité à bas prix <strong>PSD à XHTML / CSS</strong> et <strong>PSD pour WordPress Thème</strong> de codage php et services."
+
+#: admin/paypal-admin.php:89
+msgid ""
+"<a href=\"http://5starservers.com/?p=70\">Contact us</a> for a free quote if "
+"you need a custom WordPress theme or a WordPress plugin to be developed</a>."
+msgstr ""
+"<a href=\"http://5starservers.com/?p=70\">Contactez-nous</a> pour un devis gratuit si vous avez besoin d&#39;une coutume ou d&#39;un thème WordPress plugin WordPress d&#39;être développées."
+
+#: admin/paypal-backuprestore.php:61
+#, php-format
+msgid ""
+"Backup file created. Right click <a href=\"%s\">HERE</a> and select Save "
+"Link As or Save Target As."
+msgstr ""
+"Le fichier de sauvegarde créé. Cliquez avec le bouton droit <a href=\"%s\">ICI</a> et choisissez Enregistrer le lien sous ou Enregistrer la cible sous."
+
+#: admin/paypal-backuprestore.php:63
+#, php-format
+msgid ""
+"Backup file could not be created.  Please check that the %s directory is "
+"writeable."
+msgstr ""
+"Le fichier de sauvegarde n&#39;a pas pu être créé. S&#39;il vous plaît vérifiez que le répertoire est %s écriture."
+
+#: admin/paypal-backuprestore.php:69
+msgid "No file was uploaded."
+msgstr "Aucun fichier a été téléchargé."
+#: admin/paypal-backuprestore.php:95
+msgid "Backup data has been restored!"
+msgstr "Sauvegarde de données a été restaurée!"
+#: admin/paypal-backuprestore.php:117
+msgid "Backup Data"
+msgstr "Sauvegarde de données"
+#: admin/paypal-backuprestore.php:119
+msgid ""
+"Click the button below to download a backup file of your users, posts, "
+"categories and PayPal data."
+msgstr ""
+"Cliquez sur le bouton ci-dessous pour télécharger un fichier de sauvegarde de vos utilisateurs, les postes, les catégories de données et PayPal."
+
+#: admin/paypal-backuprestore.php:121
+msgid "Download Backup File"
+msgstr "Télécharger le fichier de sauvegarde"
+#: admin/paypal-backuprestore.php:127 admin/paypal-backuprestore.php:135
+msgid "Restore Data"
+msgstr "Restauration des données"
+#: admin/paypal-backuprestore.php:129
+msgid "Restore a previously generated PayPAL backup file."
+msgstr "Restaurer un précédemment PayPal fichier de sauvegarde."
+#: admin/paypal-backuprestore.php:130
+msgid ""
+"<strong>Important: This tool replaces all existing users (except for admin), "
+"posts, pages and categories!</strong>"
+msgstr ""
+"<strong>Important: Cet outil remplace tous les utilisateurs existants (à l&#39;exception de l&#39;administrateur),</strong> les <strong>postes,</strong> les <strong>pages et les catégories!</strong>"
+
+#: admin/paypal-backuprestore.php:131
+msgid "Backup File:"
+msgstr "Fichier de sauvegarde:"
+#: admin/paypal-customfields.php:43
+msgid "Custom Field Deleted"
+msgstr "Champ personnalisé supprimé"
+#: admin/paypal-customfields.php:55 admin/paypal-customfields.php:112
+msgid "Name is required"
+msgstr "Le nom est requis"
+#: admin/paypal-customfields.php:75
+msgid "Custom Field Created"
+msgstr "Création des champs personnalisés"
+#: admin/paypal-customfields.php:101
+msgid "Custom Fields Sorting Updated"
+msgstr "Personnaliser les champs de tri Mise à jour"
+#: admin/paypal-customfields.php:177
+msgid " Registration customization"
+msgstr "Enregistrement de personnalisation"
+#: admin/paypal-customfields.php:179
+msgid ""
+"Drag the fields from the Custom Fields container into the Registration Form "
+"block. Once there, you can drag the fields to change the order that they "
+"will be shown on the registration form."
+msgstr ""
+"Faites glisser les champs de la Custom Fields contenant le formulaire d&#39;inscription en bloc. Une fois là, vous pouvez faire glisser les champs à modifier l&#39;ordre dans lequel elles seront indiquées sur le formulaire d&#39;inscription."
+
+#: admin/paypal-customfields.php:189
+msgid "Registration field order"
+msgstr "Inscription domaine afin"
+#: admin/paypal-customfields.php:211
+msgid "Custom Fields"
+msgstr "Personnaliser les champs"
+#: admin/paypal-customfields.php:255
+msgid " Custom Registration Fields"
+msgstr "Inscription Les champs personnalisés"
+#: admin/paypal-customfields.php:260
+msgid "Name"
+msgstr "Nom"
+#: admin/paypal-customfields.php:261
+msgid "Type"
+msgstr "Type"
+#: admin/paypal-customfields.php:262
+msgid "Required"
+msgstr "Nécessaire"
+#: admin/paypal-customfields.php:263
+msgid "Read Only"
+msgstr "Read Only"
+#: admin/paypal-customfields.php:264 admin/paypal-modules.php:71
+msgid "Action"
+msgstr "Action"
+#: admin/paypal-customfields.php:270 admin/paypal-customfields.php:271
+#: admin/paypal-settings.php:71 modules/paypal_paypal.php:832
+msgid "Yes"
+msgstr "Oui"
+#: admin/paypal-customfields.php:270 admin/paypal-customfields.php:271
+#: admin/paypal-settings.php:72 modules/paypal_paypal.php:831
+msgid "No"
+msgstr "Non"
+#: admin/paypal-customfields.php:273 admin/paypal-profile.php:22
+#: admin/paypal-profile.php:131 wp-member-main.php:712 wp-member-main.php:891
+msgid "Terms and Conditions"
+msgstr "Termes et Conditions"
+#: admin/paypal-customfields.php:273 admin/paypal-profile.php:22
+#: admin/paypal-profile.php:131 wp-member-main.php:712 wp-member-main.php:788
+#: wp-member-main.php:895
+msgid "Subscription Introduction"
+msgstr "Abonnement Introduction"
+#: admin/paypal-customfields.php:274 admin/paypal-customfields.php:276
+#: admin/paypal-customfields.php:282
+msgid "Edit"
+msgstr "Modifier"
+#: admin/paypal-customfields.php:275 admin/paypal-profile.php:22
+#: admin/paypal-profile.php:131 wp-member-main.php:710 wp-member-main.php:790
+#: wp-member-main.php:897
+msgid "Subscription Options"
+msgstr "Options d&#39;abonnement"
+#: admin/paypal-customfields.php:277 admin/paypal-customfields.php:333
+#: admin/paypal-customfields.php:334 admin/paypal-profile.php:24
+#: admin/paypal-profile.php:133 wp-member-main.php:714 wp-member-main.php:848
+#: wp-member-main.php:901
+msgid "Birthdate"
+msgstr "Date de naissance"
+#: admin/paypal-customfields.php:277 admin/paypal-customfields.php:333
+#: admin/paypal-customfields.php:334 admin/paypal-profile.php:28
+#: admin/paypal-profile.php:141 wp-member-main.php:718 wp-member-main.php:851
+#: wp-member-main.php:905
+msgid "Country"
+msgstr "Pays"
+#: admin/paypal-customfields.php:282
+msgid "Are you sure you want to delete this field?"
+msgstr "Êtes-vous sûr de vouloir supprimer ce domaine?"
+#: admin/paypal-customfields.php:282 admin/paypal-subscription.php:107
+#: includes/admin-functions.php:334
+msgid "Delete"
+msgstr "Supprimer"
+#: admin/paypal-customfields.php:296
+msgid "There are no custom fields set"
+msgstr "Il n&#39;y a pas de champs personnalisés ensemble"
+#: admin/paypal-customfields.php:338
+msgid "Edit Custom Field"
+msgstr "Modifier les champs personnalisés"
+#: admin/paypal-customfields.php:340 admin/paypal-customfields.php:371
+msgid "Name:"
+msgstr "Nom:"
+#: admin/paypal-customfields.php:343 admin/paypal-customfields.php:374
+msgid "Input Type:"
+msgstr "Type d&#39;entrée:"
+#: admin/paypal-customfields.php:345 admin/paypal-customfields.php:376
+msgid "Text Field (Single Line)"
+msgstr "Text Field (Single Line)"
+#: admin/paypal-customfields.php:346 admin/paypal-customfields.php:377
+msgid "Text Area (Multi-Line)"
+msgstr "Zone de texte (Multi-Line)"
+#: admin/paypal-customfields.php:349 admin/paypal-customfields.php:381
+msgid "Initial Value:"
+msgstr "Valeur initiale:"
+#: admin/paypal-customfields.php:352 admin/paypal-customfields.php:384
+msgid "Readonly"
+msgstr "Readonly"
+#: admin/paypal-customfields.php:354 admin/paypal-customfields.php:386
+msgid "Required Field"
+msgstr "Champ obligatoire"
+#: admin/paypal-customfields.php:358
+msgid "Update Custom Field"
+msgstr "Mise à jour des champs personnalisés"
+#: admin/paypal-customfields.php:369
+msgid " Create Custom Field"
+msgstr "Créer des champs personnalisés"
+#: admin/paypal-customfields.php:389
+msgid "Create Custom Field"
+msgstr "Créer des champs personnalisés"
+#: admin/paypal-members.php:7
+msgid "Status, Account Type and Expire Date are set. No changes applied."
+msgstr "Status, Type de compte et Date d&#39;expiration sont fixés. Aucune modification appliquée."
+#: admin/paypal-members.php:10
+msgid "Status value not set"
+msgstr "Situation valeur non définie"
+#: admin/paypal-members.php:18
+msgid "Expire Month is not set"
+msgstr "Mois d&#39;expiration n&#39;est pas"
+#: admin/paypal-members.php:20
+msgid "Expire Year not set"
+msgstr "Expire Année pas"
+#: admin/paypal-members.php:53
+msgid "No users selected."
+msgstr "Aucun utilisateur sélectionné."
+#: admin/paypal-members.php:58
+msgid "Selected user(s) updated."
+msgstr "Sélection de l&#39;utilisateur (s) à jour."
+#: admin/paypal-members.php:98
+msgid "&laquo; Previous"
+msgstr "«Précédent"
+#: admin/paypal-members.php:100
+msgid "Next &raquo;"
+msgstr "Suivant »"
+#: admin/paypal-members.php:102
+msgid "Page"
+msgstr "Page"
+#: admin/paypal-members.php:111
+msgid "Number of members per page: "
+msgstr "Nombre de membres par page:"
+#: admin/paypal-members.php:113
+msgid "Reload"
+msgstr "Recharger"
+#: admin/paypal-members.php:188
+msgid " Members"
+msgstr "Membres"
+#: admin/paypal-members.php:198
+msgid "Update controls"
+msgstr "Mise à jour du contrôle"
+#: admin/paypal-members.php:222 admin/paypal-subscription.php:106
+#: includes/admin-functions.php:274 includes/admin-functions.php:382
+msgid "Account Type"
+msgstr "Type de compte"
+#: admin/paypal-members.php:244
+msgid "Expire Date:"
+msgstr "Date d&#39;expiration:"
+#: admin/paypal-members.php:244 wp-member-main.php:1690
+msgid "Day"
+msgstr "Jour"
+#: admin/paypal-members.php:245 wp-member-main.php:1682
+msgid "Month"
+msgstr "Mois"
+#: admin/paypal-members.php:253 wp-member-main.php:1698
+msgid "Year"
+msgstr "Année"
+#: admin/paypal-members.php:255
+msgid ""
+"<b>Tip</b>: If you leave the -Day- box blank, the system will automatically "
+"assign the last day of the month.<br /><b>Note</b>: All fields are required"
+msgstr ""
+"<b>Astuce:</b> Si vous laissez le-Jour-zone, le système va automatiquement attribuer le dernier jour du mois. <br /> <b>Note:</b> Tous les champs sont obligatoires"
+
+#: admin/paypal-members.php:260
+msgid "Update &raquo;"
+msgstr "Mise à jour »"
+#: admin/paypal-members.php:271
+msgid "There are no subscribed users."
+msgstr "Il n&#39;y a pas d&#39;utilisateurs inscrits."
+#: admin/paypal-messages.php:8
+msgid "Messages Saved"
+msgstr "Messages enregistrés"
+#: admin/paypal-messages.php:25
+msgid " Messages"
+msgstr "Messages"
+#: admin/paypal-messages.php:29
+msgid "Main Messages"
+msgstr "Principaux messages"
+#: admin/paypal-messages.php:31
+msgid ""
+"<strong>Subscription Introduction</strong> - Text that appears before the "
+"subscription options."
+msgstr ""
+"<strong>Abonnement Introduction</strong> - texte qui apparaît devant les options de souscription."
+
+#: admin/paypal-messages.php:31
+msgid "<strong>Hint:</strong> Use HTML format."
+msgstr "<strong>Astuce:</strong> Utilisez le format HTML."
+#: admin/paypal-messages.php:34
+msgid ""
+"<strong>Terms &amp; Conditions</strong> - Terms &amp; Conditions text that "
+"appears on registration screen, if user did not agree to this he can not "
+"register."
+msgstr ""
+"<strong>Conditions d&#39;utilisation</strong> - Conditions générales de texte qui apparaît sur l&#39;écran d&#39;enregistrement, si l&#39;utilisateur ne sont pas d&#39;accord à ce qu&#39;il ne peut pas s&#39;inscrire."
+
+#: admin/paypal-messages.php:37
+msgid ""
+"<strong>Message to replace private parts of a post</strong> - This replaces "
+"the text inside the [private]...[/private] tags in your posts and pages when "
+"the viewer is not logged in or do not have the correct account type."
+msgstr ""
+"<strong>Message privé pour remplacer les pièces d&#39;un poste</strong> - Ce texte remplace l&#39;intérieur de la [privée ]...[/ privé] tags dans vos messages et de pages lorsque le spectateur n&#39;est pas connecté ou n&#39;avez pas le bon type de compte."
+
+#: admin/paypal-messages.php:42
+msgid "Error Messages"
+msgstr "Messages d&#39;erreur"
+#: admin/paypal-messages.php:44
+msgid ""
+"In the below fields you can configure error messages that appear to users on "
+"some steps. If you want to show some user username just use <strong>&quot;"
+"[[USERNAME]]&quot;</strong> without the quotes and it will be replaced "
+"automatically by username."
+msgstr ""
+"Dans le champs ci-dessous, vous pouvez configurer les messages d&#39;erreur qui apparaissent aux utilisateurs sur certaines étapes. Si vous voulez faire preuve de l&#39;utilisateur il suffit d&#39;utiliser le nom d&#39;utilisateur <strong>&quot;[[USERNAME]]&quot;</strong> sans les guillemets, et il sera automatiquement remplacé par le nom d&#39;utilisateur."
+
+#: admin/paypal-messages.php:45
+msgid ""
+"<strong>Login error message for Inactive accounts</strong> - Error message "
+"that appears when login fails because the user has not subscribed yet, or "
+"his/her account is inactive for another reason."
+msgstr ""
+"<strong>Login message d&#39;erreur pour les comptes inactifs</strong> - Message d&#39;erreur qui apparaît lorsque la connexion échoue parce que l&#39;utilisateur n&#39;a pas encore abonné, ou de son compte est inactif pour une autre raison."
+
+#: admin/paypal-messages.php:48
+msgid ""
+"<strong>Login error message for Expired accounts</strong> - Error message "
+"that appears when login fails because the user's subscription has expired."
+msgstr ""
+"<strong>Login message d&#39;erreur pour Expired comptes</strong> - Message d&#39;erreur qui apparaît lorsque la connexion échoue parce que l&#39;utilisateur de l&#39;abonnement a expiré."
+
+#: admin/paypal-messages.php:51
+msgid ""
+"<strong>Login error message for Expired TRIAL accounts</strong> - Error "
+"message that appears when login fails because the user's trial account has "
+"expired."
+msgstr ""
+"<strong>Login Expired message d&#39;erreur pour les comptes d&#39;essai</strong> - Un message d&#39;erreur qui apparaît lorsque la connexion échoue parce que l&#39;utilisateur du compte d&#39;essai a expiré."
+
+#: admin/paypal-messages.php:54
+msgid ""
+"<strong>Login error message for Pending accounts</strong> - Error message "
+"that appears when login fails because the user's subscription payment is "
+"pending."
+msgstr ""
+"<strong>Login message d&#39;erreur pour l&#39;attente des comptes</strong> - Un message d&#39;erreur qui apparaît lorsque la connexion échoue parce que l&#39;utilisateur de l&#39;abonnement est en attente de paiement."
+
+#: admin/paypal-messages.php:57
+msgid ""
+"<strong>Login error message for unexpected reason</strong> - Error message "
+"that appears when login fails for an unexpected reason. This will never show "
+"up if all systems work as designed."
+msgstr ""
+"<strong>Login message d&#39;erreur pour des raisons imprévues</strong> - Message d&#39;erreur qui apparaît lorsque connexion échoue pour une raison inattendue. Ce ne sera jamais apparaître si tous les systèmes fonctionnent comme prévu."
+
+#: admin/paypal-messages.php:61
+msgid "Save Messages"
+msgstr "Enregistrer des messages"
+#: admin/paypal-modules.php:62
+msgid " Payment Gateways"
+msgstr "Passerelles de paiement"
+#: admin/paypal-modules.php:67
+msgid "Gateway"
+msgstr "Gateway"
+#: admin/paypal-modules.php:68
+msgid "Version"
+msgstr "Version"
+#: admin/paypal-modules.php:69
+msgid "Description"
+msgstr "Description"
+#: admin/paypal-modules.php:70 includes/admin-functions.php:385
+msgid "Status"
+msgstr "État"
+#: admin/paypal-modules.php:89
+#, php-format
+msgid "<a href=\"%1$s\">Edit</a> | <a href=\"%2$s\">Deactivate</a>"
+msgstr "<a href=\"%1$s\">Modifier</a> | <a href=\"%2$s\">Désactiver</a>"
+#: admin/paypal-modules.php:93
+#, php-format
+msgid "<a href=\"%s\">Activate</a>"
+msgstr "<a href=\"%s\">Activer</a>"
+#: admin/paypal-profile.php:40
+msgid "Information Updated."
+msgstr "Information à jour."
+#: admin/paypal-profile.php:53
+msgid "Your Membership Information"
+msgstr "Votre Adhésion"
+#: admin/paypal-profile.php:60 admin/paypal-profile.php:173
+msgid "Update Information &raquo;"
+msgstr "Mise à jour de l&#39;information »"
+#: admin/paypal-profile.php:64
+msgid "Subscription Information"
+msgstr "Abonnement"
+#: admin/paypal-profile.php:68 admin/paypal-setup.php:500
+#: includes/admin-functions.php:299 modules/paypal_paypal.php:193
+#: wp-member-main.php:794 wp-member-main.php:976 wp-member-main.php:1128
+#: wp-member-main.php:1209
+msgid "Days"
+msgstr "Jours"
+#: admin/paypal-profile.php:69 admin/paypal-setup.php:501
+#: includes/admin-functions.php:300 modules/paypal_paypal.php:194
+#: wp-member-main.php:795 wp-member-main.php:977 wp-member-main.php:1129
+#: wp-member-main.php:1210
+msgid "Months"
+msgstr "Mois"
+#: admin/paypal-profile.php:70 admin/paypal-setup.php:502
+#: includes/admin-functions.php:301 modules/paypal_paypal.php:195
+#: wp-member-main.php:796 wp-member-main.php:978 wp-member-main.php:1130
+#: wp-member-main.php:1211
+msgid "Years"
+msgstr "Années"
+#: admin/paypal-profile.php:74
+#, php-format
+msgid "%1$s %2$s"
+msgstr "%1$s %2$s"
+#: admin/paypal-profile.php:74 modules/paypal_free.php:13
+#: wp-member-main.php:810
+msgid "Free"
+msgstr "Gratuit"
+#: admin/paypal-profile.php:79
+msgid "Subscription Duration:"
+msgstr "Durée d&#39;abonnement:"
+#: admin/paypal-profile.php:83
+msgid "Last Payment Date:"
+msgstr "Dernière date de paiement:"
+#: admin/paypal-profile.php:87
+msgid "Account Expiration Date:"
+msgstr "Compte Date d&#39;expiration:"
+#: admin/paypal-profile.php:91
+msgid "Amount Paid:"
+msgstr "Montant payé:"
+#: admin/paypal-profile.php:98
+msgid "Account Type:"
+msgstr "Type de compte:"
+#: admin/paypal-profile.php:102
+msgid "Upgrade / Downgrade your account"
+msgstr "Upgrade / Downgrade de votre compte"
+#: admin/paypal-profile.php:116
+msgid "Membership Information"
+msgstr "Membership Information"
+#: admin/paypal-profile.php:167
+msgid "There are no fields defined."
+msgstr "Il n&#39;y a pas de champs définis."
+#: admin/paypal-settings.php:13
+msgid "System Updated"
+msgstr "Mise à jour du système"
+#: admin/paypal-settings.php:25
+msgid " General Settings"
+msgstr "Paramètres généraux"
+#: admin/paypal-settings.php:29 modules/paypal_free.php:171
+#: modules/paypal_paypal.php:698 modules/paypal_trial.php:188
+msgid "Main Settings"
+msgstr "Paramètres principaux"
+#: admin/paypal-settings.php:30
+msgid "Your Email Address"
+msgstr "Votre Adresse Email"
+#: admin/paypal-settings.php:32
+msgid "Email address where you want to receive notifications."
+msgstr "Adresse e-mail où vous souhaitez recevoir des notifications."
+#: admin/paypal-settings.php:34
+msgid "Your Subscription Name"
+msgstr "Nom de votre abonnement"
+#: admin/paypal-settings.php:36
+msgid "The name of the membership to display on the order form."
+msgstr "Le nom de l&#39;adhésion à l&#39;affichage sur le formulaire de commande."
+#: admin/paypal-settings.php:38
+msgid "Your name or your site name"
+msgstr "Votre nom ou votre nom de site"
+#: admin/paypal-settings.php:40
+msgid "The name that appears as the email sender."
+msgstr "Le nom qui apparaît comme l&#39;e-mail expéditeur."
+#: admin/paypal-settings.php:44
+msgid "Email Settings"
+msgstr "Email Settings"
+#: admin/paypal-settings.php:46
+msgid "From Name"
+msgstr "De Nom"
+#: admin/paypal-settings.php:48
+msgid "Name of the sender (you or your site&rsquo;s name)"
+msgstr "Nom de l&#39;expéditeur (vous ou votre nom du site)"
+#: admin/paypal-settings.php:50
+msgid "From Email"
+msgstr "De Courrier électronique"
+#: admin/paypal-settings.php:53
+msgid "Mailer"
+msgstr "Mailer"
+#: admin/paypal-settings.php:55
+msgid "PHP Mail"
+msgstr "PHP Mail"
+#: admin/paypal-settings.php:56
+msgid "SMTP"
+msgstr "SMTP"
+#: admin/paypal-settings.php:59
+msgid "SMTP Server"
+msgstr "SMTP Server"
+#: admin/paypal-settings.php:61
+msgid "Enter <em>ssl://smtp.gmail.com:465</em> to use GMail"
+msgstr "Entrez <em>ssl: / / smtp.gmail.com: 465</em> à utiliser GMail"
+#: admin/paypal-settings.php:63
+msgid "SMTP Username"
+msgstr "Nom d&#39;utilisateur SMTP"
+#: admin/paypal-settings.php:66
+msgid "SMTP Password"
+msgstr "Mot de passe SMTP"
+#: admin/paypal-settings.php:69
+msgid "SMTP Server Requires Authentication"
+msgstr "Le serveur SMTP requiert une authentification"
+#: admin/paypal-settings.php:77
+msgid "Access Settings"
+msgstr "Paramètres d&#39;accès"
+#: admin/paypal-settings.php:78
+msgid ""
+"Here you can configure if you want to make whole blog available only to "
+"registered and logged in users or not. You can set also if you want all your "
+"private posts to be visible to everyone after deactivation of <strong>wp-"
+"Member</strong>."
+msgstr ""
+"Ici, vous pouvez configurer si vous voulez faire tout le blog uniquement aux personnes inscrites et les utilisateurs enregistrés ou non. Vous pouvez aussi si vous voulez que tous vos postes pour être visible à tout le monde après la désactivation de <strong>wp-membres.</strong>"
+
+#: admin/paypal-settings.php:81 admin/paypal-settings.php:82
+msgid "Public access"
+msgstr "L&#39;accès du public"
+#: admin/paypal-settings.php:83
+msgid ""
+"<p><strong>Enables/disables public access</strong> <br />CHECKED = All "
+"website visitors can access your website content.<br />UNCHECKED = All "
+"website visitors will be redirected to Login / Signup page.</p>"
+msgstr ""
+"<p> <strong>Active / désactive l&#39;accès du public</strong> <br /> CHECKED = Tous les visiteurs du site peuvent accéder à votre contenu de site Web. <br /> Désactivé = Tous les visiteurs seront redirigés vers Login / Signup page. </p>"
+
+#: admin/paypal-settings.php:87
+msgid "Plugin Deactivation Protection"
+msgstr "Plugin Protection Deactivation"
+#: admin/paypal-settings.php:88
+msgid "Private Status"
+msgstr "Statut privé"
+#: admin/paypal-settings.php:89
+msgid ""
+"<p>If checked, all content assigned to account types different than "
+"<strong>Free and Guest</strong> will be modified to have the &quot;"
+"<strong>Private</strong>&quot; status when PayPAL is deactivated.<br />If "
+"unchecked, all visitors will be able to view ALL posts/pages once PayPAL is "
+"deactivated.</p>"
+msgstr ""
+"<p> Si elle est cochée, le contenu attribué à différents types de compte <strong>client et</strong> que <strong>Free</strong> sera modifiée de façon à avoir le <strong>&quot;Privé&quot;</strong> lorsque le statut PayPal est désactivé. <br /> Si rien n&#39;est fait, tous les visiteurs seront en mesure d&#39;afficher tous les messages / pages une fois que PayPal est désactivé. </p>"
+
+#: admin/paypal-settings.php:93
+msgid "Enable use of Account Types"
+msgstr "Activer l&#39;utilisation des Types de compte"
+#: admin/paypal-settings.php:95
+msgid ""
+"If checked, you will be able to specify which posts, pages and categories "
+"can be seen and accessed by a specific account type.<br />If unchecked, all "
+"the posts and pages under public categories will be available to all "
+"subscribers.<br /><strong>NOTE:</strong> The \"Guest\", \"Trial\" and \"Free"
+"\" account types will still work even if this is disabled."
+msgstr ""
+"Si elle est cochée, vous serez en mesure de préciser quels postes, des pages et des catégories peut être vu et consulté par un type de compte. <br /> Si rien n&#39;est fait, tous les postes et les pages de catégories de public seront disponibles à tous les abonnés. <br /> <strong>REMARQUE:</strong> Le \"Guest\", \"Trial\" et \"Free\" types de compte toujours fonctionner même si cette option est désactivée."
+
+#: admin/paypal-settings.php:101
+msgid "Save Settings"
+msgstr "Enregistrer les paramètres"
+#: admin/paypal-setup.php:14 admin/paypal-setup.php:246
+msgid "Please make sure the form is complete. All fields are required."
+msgstr "S&#39;il vous plaît assurez-vous que le formulaire est complet. Tous les champs sont obligatoires."
+#: admin/paypal-setup.php:93 wp-member-main.php:92
+#, php-format
+msgid ""
+"Your trial account has expired. To continue using this site, please make a "
+"<a href=\"%s\">subscription payment</a> to re-activate your account."
+msgstr ""
+"Votre compte d&#39;essai a expiré. Pour continuer à utiliser ce site, s&#39;il vous plaît faire un <a href=\"%s\">paiement d&#39;abonnement</a> de re-activer votre compte."
+
+#: admin/paypal-setup.php:217
+msgid "Data Successfully Updated!"
+msgstr "Mise à jour des données avec succès!"
+#: admin/paypal-setup.php:249
+msgid "Please enter a valid duration (numeric) value."
+msgstr "S&#39;il vous plaît entrer une durée de validité (numérique) de valeur."
+#: admin/paypal-setup.php:303
+msgid "Data Successfully Converted!"
+msgstr "Données réussi!"
+#: admin/paypal-setup.php:328
+msgid ""
+"WP-MEMBER needs to be setup or migrated from a previous install. Please "
+"complete the setup form below."
+msgstr ""
+"WP-membres doit être mise en place ou la migration d&#39;une précédente installation. S&#39;il vous plaît remplir le formulaire ci-dessous la configuration."
+
+#: admin/paypal-setup.php:343
+msgid "Data Migration"
+msgstr "Migration des données"
+#: admin/paypal-setup.php:345
+#, php-format
+msgid "Setup (%s)"
+msgstr "Setup (%s)"
+#: admin/paypal-setup.php:347 admin/paypal-setup.php:455
+#, php-format
+msgid ""
+"Before proceeding, please make sure that you have configured the <a href=\"%s"
+"\">Account Types</a>."
+msgstr ""
+"Avant de procéder, s&#39;il vous plaît assurez-vous que vous avez configuré le <a href=\"%s\">compte Types.</a>"
+
+#: admin/paypal-setup.php:352
+msgid "Posts and Pages"
+msgstr "Postes et Pages"
+#: admin/paypal-setup.php:353
+msgid "Private Posts and Pages"
+msgstr "Privé des postes et des pages"
+#: admin/paypal-setup.php:353 admin/paypal-setup.php:462
+msgid "Check All"
+msgstr "Vérifier tous les"
+#: admin/paypal-setup.php:353 admin/paypal-setup.php:462
+msgid "Uncheck All"
+msgstr "Décochez toutes les"
+#: admin/paypal-setup.php:354
+msgid ""
+"Select the account types to which you&rsquo;d like to make private posts and "
+"pages available."
+msgstr ""
+"Sélectionnez le type de compte dont vous souhaitez apporter des messages privés et les pages disponibles."
+
+#: admin/paypal-setup.php:368
+msgid "Users"
+msgstr "Utilisateurs"
+#: admin/paypal-setup.php:369
+msgid "Subscribed Users (Paid Users)"
+msgstr "Les utilisateurs abonnés (utilisateurs payant)"
+#: admin/paypal-setup.php:370
+msgid "Select the account type that you would like to assign to paid users."
+msgstr "Sélectionnez le type de compte que vous souhaitez attribuer à payés utilisateurs."
+#: admin/paypal-setup.php:379 admin/paypal-setup.php:395
+#: admin/paypal-setup.php:411
+#, php-format
+msgid "Package: %1$s Month(s) for $%2$s"
+msgstr "Package: %1$s Mois (s) pour $ %2$s"
+#: admin/paypal-setup.php:446
+msgid "Migrate Data"
+msgstr "Migration des données"
+#: admin/paypal-setup.php:451
+msgid "Data Conversion"
+msgstr "De conversion de données"
+#: admin/paypal-setup.php:453
+#, php-format
+msgid " Setup (%s)"
+msgstr "Setup (%s)"
+#: admin/paypal-setup.php:460
+msgid "Posts, Pages and Users"
+msgstr "Messages, Pages et des utilisateurs"
+#: admin/paypal-setup.php:462
+msgid "Existing Posts and Pages"
+msgstr "Postes existants et Pages"
+#: admin/paypal-setup.php:464
+msgid ""
+"Here you can set for which account types existing posts and pages will be "
+"available."
+msgstr ""
+"Ici, vous pouvez définir les types de comptes pour lesquels les postes existants et les pages seront disponibles."
+
+#: admin/paypal-setup.php:478
+msgid "Existing Users"
+msgstr "Utilisateurs existants"
+#: admin/paypal-setup.php:480
+msgid "Assign an account type to your existing users."
+msgstr "Attribuer un type de compte à vos utilisateurs existants."
+#: admin/paypal-setup.php:494
+msgid ""
+"Account Duration for users (required if the account type selected above is "
+"not free)."
+msgstr ""
+"Durée en compte pour les utilisateurs (si le type de compte, sélectionnez ci-dessus n&#39;est pas gratuit)."
+
+#: admin/paypal-setup.php:497
+msgid "Duration:"
+msgstr "Durée:"
+#: admin/paypal-setup.php:507
+msgid "Setup Data"
+msgstr "Configuration de données"
+#: admin/paypal-simplenewsletter.php:11
+msgid "Subject is empty"
+msgstr "Sujet est vide"
+#: admin/paypal-simplenewsletter.php:15
+msgid "Message is empty"
+msgstr "Message est vide"
+#: admin/paypal-simplenewsletter.php:31
+msgid " Subscribers"
+msgstr "Abonnés"
+#: admin/paypal-simplenewsletter.php:57
+#, php-format
+msgid "Emails sent to %d users!"
+msgstr "E-mails envoyés à des utilisateurs %d!"
+#: admin/paypal-simplenewsletter.php:66
+msgid "Please fix the errors below:"
+msgstr "S&#39;il vous plaît corriger les erreurs ci-dessous:"
+#: admin/paypal-simplenewsletter.php:81
+msgid " Simple Newsletter"
+msgstr "Simple Newsletter"
+#: admin/paypal-simplenewsletter.php:82
+msgid "NOTE: All fields are required"
+msgstr "NOTE: Tous les champs sont obligatoires"
+#: admin/paypal-simplenewsletter.php:86
+msgid "Message Content"
+msgstr "Du contenu des messages"
+#: admin/paypal-simplenewsletter.php:88
+msgid "Recipients (by status)"
+msgstr "Bénéficiaires de l&#39;aide (par statut)"
+#: admin/paypal-simplenewsletter.php:90
+msgid "All Subscribers"
+msgstr "Tous les abonnés"
+#: admin/paypal-simplenewsletter.php:91 includes/admin-functions.php:390
+#: modules/paypal_paypal.php:625 wp-member-main.php:500
+msgid "Inactive"
+msgstr "Inactif"
+#: admin/paypal-simplenewsletter.php:92 includes/admin-functions.php:391
+#: modules/paypal_paypal.php:626 wp-member-main.php:498
+msgid "Active"
+msgstr "Active"
+#: admin/paypal-simplenewsletter.php:93 includes/admin-functions.php:393
+#: modules/paypal_paypal.php:628 wp-member-main.php:501
+msgid "Pending"
+msgstr "En attente"
+#: admin/paypal-simplenewsletter.php:94 includes/admin-functions.php:392
+#: modules/paypal_paypal.php:627 wp-member-main.php:499
+msgid "Expired"
+msgstr "Expired"
+#: admin/paypal-simplenewsletter.php:95 wp-member-main.php:502
+msgid "Trial Expired"
+msgstr "Trial Expired"
+#: admin/paypal-simplenewsletter.php:96 includes/admin-functions.php:394
+#: modules/paypal_paypal.php:629 wp-member-main.php:497
+msgid "Error"
+msgstr "Erreur"
+#: admin/paypal-simplenewsletter.php:100
+msgid "Message Subject"
+msgstr "Objet du message"
+#: admin/paypal-simplenewsletter.php:103
+msgid ""
+"Message - Simple Newsletter does NOT support html formatting in emails. All "
+"emails sent using Simple Newsletter will be plain text."
+msgstr ""
+"Message - Simple Newsletter ne supporte pas la mise en forme html dans les emails. Tous les e-mails envoyés à l&#39;aide de simples bulletin sera clair."
+
+#: admin/paypal-simplenewsletter.php:107
+msgid "Send Email"
+msgstr "Envoyer"
+#: admin/paypal-subscription.php:24
+msgid "Subscription Packs Updated"
+msgstr "Abonnement Packs Mise à jour"
+#: admin/paypal-subscription.php:36
+msgid "Account Type Created"
+msgstr "Type de compte Création"
+#: admin/paypal-subscription.php:67
+msgid "Account Type Deleted"
+msgstr "Type de compte supprimé"
+#: admin/paypal-subscription.php:82
+msgid " Subscription Settings"
+msgstr "Paramètres d&#39;abonnement"
+#: admin/paypal-subscription.php:87 modules/paypal_paypal.php:729
+msgid "Subscription options"
+msgstr "Options de souscription"
+#: admin/paypal-subscription.php:88
+msgid ""
+"Below you can setup as many registration options as you like, each can have "
+"different subscription name, period and price."
+msgstr ""
+"Ci-dessous, vous pouvez configurer autant d&#39;options pour l&#39;inscription que vous le souhaitez, chacun peut avoir le nom d&#39;abonnement, la période et le prix."
+
+#: admin/paypal-subscription.php:93
+msgid "Add more packages &raquo;"
+msgstr "Ajouter plus de paquets »"
+#: admin/paypal-subscription.php:94
+msgid "<b>Tip</b>: Please save your settings after changing each subscription."
+msgstr "<b>Astuce:</b> S&#39;il vous plaît enregistrer les paramètres après avoir changé chaque abonnement."
+#: admin/paypal-subscription.php:98
+msgid "Save Subscription Options &raquo;"
+msgstr "Save options d&#39;abonnement »"
+#: admin/paypal-subscription.php:102
+msgid "Membership Levels"
+msgstr "Membership Levels"
+#: admin/paypal-subscription.php:122
+msgid "Delete and move users of this type to"
+msgstr "Supprimer et déplacer les utilisateurs de ce type à"
+#: admin/paypal-subscription.php:139
+msgid "Cannot delete this type"
+msgstr "Impossible de supprimer ce type de"
+#: admin/paypal-subscription.php:153
+msgid "Create a new membership level"
+msgstr "Créer un nouveau niveau d&#39;adhésion"
+#: admin/paypal-subscription.php:156
+msgid "Create membership level &raquo;"
+msgstr "Créer un niveau d&#39;adhésion »"
+#: admin/paypal-uninstall.php:15
+msgid "<p>WP-MEMBER system data found.</p>"
+msgstr "<p> WP-MEMBRES système de données trouvées. </p>"
+#: admin/paypal-uninstall.php:17
+msgid "WP-MEMBER system data not found. Procedure aborted."
+msgstr "WP-MEMBRES données du système n&#39;a pas été trouvée. Procédure annulée."
+#: admin/paypal-uninstall.php:20
+msgid "<p>Removing user data...</p>"
+msgstr "<p> Suppression des données utilisateur ... </p>"
+#: admin/paypal-uninstall.php:29
+#, php-format
+msgid "<p>Removed data from %s users.</p>"
+msgstr "<p> Suppressions de %s utilisateurs. </p>"
+#: admin/paypal-uninstall.php:58
+#, php-format
+msgid "<p>Removed data from %d posts.</p>"
+msgstr "<p> Suppressions de postes %d. </p>"
+#: admin/paypal-uninstall.php:60
+msgid "<p>Removed system data.</p>"
+msgstr "<p> Suppression des données du système. </p>"
+#: admin/paypal-uninstall.php:64
+msgid "<p><strong>WP-MEMBER data cleared.</strong></p>"
+msgstr "<p> <strong>WP-MEMBRES données effacées.</strong> </p>"
+#: admin/paypal-uninstall.php:66
+#, php-format
+msgid "<p style=\"color:red;\">Error: %s</p>"
+msgstr "<p style=\"color:red;\"> Erreur: %s </p>"
+#: admin/paypal-uninstall.php:69
+msgid "<p><a href=\""
+msgstr ""
+#: admin/paypal-uninstall.php:74
+msgid " Uninstall WP-MEMBER"
+msgstr "Désinstaller WP-MEMBRES"
+#: admin/paypal-uninstall.php:75
+msgid "Are you sure you want to delete the data?"
+msgstr "Êtes-vous sûr de vouloir effacer les données?"
+#: admin/paypal-uninstall.php:76
+msgid ""
+"This utility deletes ALL WP-MEMBER data from the database and uninstalls the "
+"plugin."
+msgstr ""
+"Cet utilitaire supprime tous les WP-MEMBRE des données de la base de données et de désinstaller le plug-in."
+
+#: admin/paypal-uninstall.php:77
+msgid ""
+"We recomend you backup your database before clicking on \"remove data\"."
+msgstr ""
+"Nous vous recommandons de sauvegarder votre base de données avant de cliquer sur \"remove data\"."
+
+#: admin/paypal-uninstall.php:80
+msgid "Remove Data"
+msgstr "Suppression de données"
+#: admin/paypal-uninstall.php:81
+msgid "Cancel"
+msgstr "Annuler"
+#: includes/admin-functions.php:271
+msgid "Subscription Duration"
+msgstr "Durée d&#39;abonnement"
+#: includes/admin-functions.php:272
+msgid "Duration Type"
+msgstr "Durée Type"
+#: includes/admin-functions.php:273
+msgid "Membership Cost (eg: 10.00)"
+msgstr "Coût d&#39;adhésion (par exemple: 10,00)"
+#: includes/admin-functions.php:380
+msgid "Username"
+msgstr "Nom d&#39;utilisateur"
+#: includes/admin-functions.php:380
+msgid "ID"
+msgstr "ID"
+#: includes/admin-functions.php:381
+msgid "Email"
+msgstr "Email"
+#: includes/admin-functions.php:383
+msgid "Registration Date"
+msgstr "Date d&#39;enregistrement"
+#: includes/admin-functions.php:383
+msgid "Last payment"
+msgstr "Dernier paiement"
+#: includes/admin-functions.php:383
+msgid "Expire date"
+msgstr "Date d&#39;expiration"
+#: includes/admin-functions.php:384
+msgid "Fee"
+msgstr "Frais"
+#: includes/admin-functions.php:398 modules/paypal_paypal.php:563
+msgid "months"
+msgstr "mois"
+#: includes/admin-functions.php:399 modules/paypal_paypal.php:565
+msgid "days"
+msgstr "jour"
+#: includes/admin-functions.php:400 modules/paypal_paypal.php:564
+msgid "years"
+msgstr "année"
+#: includes/admin-functions.php:410 includes/admin-functions.php:411
+#: includes/admin-functions.php:415
+msgid "N/A"
+msgstr "N / A"
+#: includes/admin-functions.php:418
+#, php-format
+msgid "%1$s %2$s per %3$s %4$s"
+msgstr "%1$s %2$s par %3$s %4$s"
+#: modules/paypal_free.php:14
+msgid ""
+"<p>Allow users to signup for a free account. You can set the number of years "
+"before a free account expires. To use this gateway, simply set the Account "
+"Type to \"Free\" on the Subscription Settings page.</p>"
+msgstr ""
+"<p> Autoriser les utilisateurs à l&#39;inscription pour un compte gratuit. Vous pouvez définir le nombre d&#39;années avant l&#39;expiration d&#39;un compte gratuit. Pour utiliser cette passerelle, il suffit de définir le type de compte à \"Free\" sur la page Paramètres d&#39;abonnement. </p>"
+
+#: modules/paypal_free.php:47 wp-member-main.php:808 wp-member-main.php:1154
+msgid "Free Account"
+msgstr "Compte gratuit"
+#: modules/paypal_free.php:49 modules/paypal_free.php:54
+#: modules/paypal_free.php:88
+msgid "Sign Up for a Free Account"
+msgstr "S&#39;inscrire pour un compte gratuit"
+#: modules/paypal_free.php:97 modules/paypal_trial.php:106
+msgid "POST Variables missing!"
+msgstr "POST Variables manquantes!"
+#: modules/paypal_free.php:110 modules/paypal_paypal.php:421
+#: modules/paypal_trial.php:120
+msgid "User cannot be found."
+msgstr "L&#39;utilisateur ne peut pas être trouvé."
+#: modules/paypal_free.php:129
+msgid "Free Account Created"
+msgstr "Compte gratuit de création"
+#: modules/paypal_free.php:157 modules/paypal_paypal.php:682
+#: modules/paypal_trial.php:174
+msgid "Options Updated"
+msgstr "Options Mise à jour"
+#: modules/paypal_free.php:167 modules/paypal_trial.php:184
+#, php-format
+msgid "%s Options"
+msgstr "%s Options"
+#: modules/paypal_free.php:172
+msgid "Account Duration (in years)"
+msgstr "Compte Durée (en années)"
+#: modules/paypal_free.php:174
+msgid "How many years before a free account expires"
+msgstr "Combien d&#39;années avant l&#39;expiration d&#39;un compte gratuit"
+#: modules/paypal_free.php:176 modules/paypal_trial.php:189
+msgid "Button/Logo"
+msgstr "Button / Logo"
+#: modules/paypal_free.php:179 modules/paypal_paypal.php:714
+#: modules/paypal_trial.php:192
+msgid "Logo"
+msgstr "Logo"
+#: modules/paypal_free.php:186 modules/paypal_paypal.php:721
+#: modules/paypal_trial.php:199
+msgid "Description:"
+msgstr "Description:"
+#: modules/paypal_free.php:191 modules/paypal_paypal.php:860
+#: modules/paypal_trial.php:204
+msgid "Update Options"
+msgstr "Options de mise à jour"
+#: modules/paypal_free.php:214 modules/paypal_paypal.php:899
+#: modules/paypal_paypal.php:918 modules/paypal_paypal.php:937
+#: modules/paypal_paypal.php:956 modules/paypal_trial.php:225
+#, php-format
+msgid ""
+"The modules directory (%s) is not writable. Please set its permissions to "
+"755 or 777"
+msgstr ""
+"Le répertoire des modules (%s) n&#39;est pas inscriptible. S&#39;il vous plaît fixer ses permissions à 755 ou 777"
+
+#: modules/paypal_free.php:221 modules/paypal_paypal.php:925
+#: modules/paypal_paypal.php:944 modules/paypal_paypal.php:963
+#: modules/paypal_trial.php:232
+#, php-format
+msgid "Unable to move file to %s"
+msgstr "Impossible de déplacer des fichiers à %s"
+#: modules/paypal_paypal.php:15
+msgid ""
+"<p>PayPal is an electronic money service which allows you to make payment to "
+"anyone online. You can choose to pay using your credit card, debit card, "
+"bank account, or PayPal balance and make secure purchases without revealing "
+"your credit card number or financial information.</p><p>All major credit and "
+"debit cards are accepted including Visa, Mastercard, American Express, "
+"Switch and Solo (plus many more).</p>"
+msgstr ""
+"<p> PayPal est un service de monnaie électronique qui vous permet d&#39;effectuer des paiements à toute personne en ligne. Vous pouvez choisir de payer en utilisant votre carte de crédit, carte de débit, compte bancaire ou PayPal balance des achats en toute sécurité et sans révéler votre numéro de carte de crédit ou de l&#39;information financière. </p><p> Toutes les principales cartes de crédit et de débit sont acceptées, y compris les cartes Visa, Mastercard, American Express, Switch et Solo (et bien plus). </p>"
+
+#: modules/paypal_paypal.php:107 modules/paypal_paypal.php:128
+#: modules/paypal_paypal.php:168 modules/paypal_paypal.php:180
+msgid "Make payments with PayPal - it's fast, free and secure!"
+msgstr "Effectuer des paiements avec PayPal - il est rapide, gratuite et sécurisée!"
+#: modules/paypal_paypal.php:345
+msgid "Error: Missing POST variables. Identification is not possible."
+msgstr "Erreur: Missing POST variables. L&#39;identification n&#39;est pas possible."
+#: modules/paypal_paypal.php:395
+msgid "Response Error: Header not found"
+msgstr "Réponse d&#39;erreur: En-tête non trouvé"
+#: modules/paypal_paypal.php:396
+msgid "Response Error: Unexpected HTTP response"
+msgstr "Réponse d&#39;erreur: Unexpected réponse HTTP"
+#: modules/paypal_paypal.php:402
+msgid "Response Error: No content found in transaction response"
+msgstr "Réponse Erreur: Pas de contenu dans la transaction de réponse"
+#: modules/paypal_paypal.php:403
+msgid "Response Error: Unexpected transaction response"
+msgstr "Réponse d&#39;erreur: Unexpected transaction réponse"
+#: modules/paypal_paypal.php:463 modules/paypal_paypal.php:486
+msgid "Last payment was successful"
+msgstr "Dernier paiement a été"
+#: modules/paypal_paypal.php:511
+msgid "Last payment was refunded or denied"
+msgstr "Dernier paiement a été refusé ou remboursé"
+#: modules/paypal_paypal.php:517
+msgid "Customer did not include a confirmed shipping address"
+msgstr "Client n&#39;a pas de confirmer l&#39;adresse de livraison"
+#: modules/paypal_paypal.php:518
+msgid "Funds not captured yet"
+msgstr "Les fonds qui ne sont pas encore"
+#: modules/paypal_paypal.php:519
+msgid "eCheck that has not cleared yet"
+msgstr "chèque qui n&#39;a pas encore autorisé"
+#: modules/paypal_paypal.php:520
+msgid "Payment waiting for approval by service provider"
+msgstr "Paiement en attente d&#39;approbation par le fournisseur de services"
+#: modules/paypal_paypal.php:521
+msgid "Payment waiting for service provider to handle multi-currency process"
+msgstr "En attente de paiement au fournisseur de services de traitement multi-devises processus"
+#: modules/paypal_paypal.php:522
+msgid "Customer did not register or confirm his/her email yet"
+msgstr "La clientèle n&#39;a pas enregistré ou de confirmer son email pour le moment"
+#: modules/paypal_paypal.php:523
+msgid "Waiting for service provider to upgrade the PayPal account"
+msgstr "En attente de fournisseur de service de mettre à jour le compte PayPal"
+#: modules/paypal_paypal.php:524
+msgid "Waiting for service provider to verify his/her PayPal account"
+msgstr "En attente de fournisseur de service afin de vérifier son compte PayPal"
+#: modules/paypal_paypal.php:529
+#, php-format
+msgid "Last payment is pending. Reason: %s"
+msgstr "Dernier paiement est en attente. Motif: %s"
+#: modules/paypal_paypal.php:535
+#, php-format
+msgid "Last payment status: %s"
+msgstr "Mise à l&#39;état des paiements: %s"
+#: modules/paypal_paypal.php:541
+msgid "The subscription is not active"
+msgstr "L&#39;abonnement n&#39;est pas actif"
+#: modules/paypal_paypal.php:560
+#, php-format
+msgid "[%s] Payment receipt"
+msgstr "[%s] réception de paiement"
+#: modules/paypal_paypal.php:567
+#, php-format
+msgid ""
+"\r\n"
+"This is an automatic notification from %1$s to %2$s (%3$s).\r\n"
+"\r\n"
+"This is a notification to inform you that your payment was successful for "
+"recurring subscription of %4$s %5$s every %6$s %7$s\r\n"
+"\r\n"
+"For more information please contact %8$s"
+msgstr ""
+"\r\nThis est une notification automatique de %1$s à %2$s (%3$s). \r\n\r\nThis est une notification de vous informer que votre paiement a été récurrent pour la souscription de %4$s %5$s chaque %6$s %7$s\r\n\r\nFor plus d&#39;information s&#39;il vous plaît contacter %8$s"
+
+#: modules/paypal_paypal.php:574
+#, php-format
+msgid ""
+"\r\n"
+"This is an automatic notification from %1$s to %2$s (%3$s).\r\n"
+"\r\n"
+"This is a notification to inform you that your payment was successful for a "
+"one-time payment of %4$s %5$s for %6$s %7$s\r\n"
+"\r\n"
+"For more information please contact %8$s"
+msgstr ""
+"\r\nThis est une notification automatique de %1$s à %2$s (%3$s). \r\n\r\nThis est une notification de vous informer que votre paiement a été pris pour un paiement de %4$s %5$s pour %6$s %7$s\r\n\r\nFor plus d&#39;information s&#39;il vous plaît contacter %8$s"
+
+#: modules/paypal_paypal.php:584
+#, php-format
+msgid "[%s] Account inactive"
+msgstr "[%s] Compte inactif"
+#: modules/paypal_paypal.php:585
+#, php-format
+msgid ""
+"\r\n"
+"This is an automatic notification from %1$s\r\n"
+"to %2$s (%3$s).\r\n"
+"\r\n"
+"This is a notification to inform you that your account is inactive.\r\n"
+"Reason: %4$s\r\n"
+"\r\n"
+"For more information please contact %5$s"
+msgstr ""
+"\r\nThis est une notification automatique de %1$s\r\nto %2$s (%3$s). \r\n\r\nThis est une notification de vous informer que votre compte est inactive.\r\nReason: %4$s\r\n\r\nFor plus d&#39;information s&#39;il vous plaît contacter %5$s"
+
+#: modules/paypal_paypal.php:597
+#, php-format
+msgid ""
+"\r\n"
+"This is an automatic notification from %1$s\r\n"
+"to %2$s (%3$s).\r\n"
+"\r\n"
+"This is a notification to inform you that you payment was received in "
+"pending status.\r\n"
+"Status: %4$s\r\n"
+"\r\n"
+"For more information please contact %5$s"
+msgstr ""
+"\r\nThis est une notification automatique de %1$s\r\nto %2$s (%3$s). \r\n\r\nThis est une notification de vous informer que votre paiement a été reçu dans l&#39;attente de status.\r\nStatus: %4$s\r\n\r\nFor plus d&#39;information s&#39;il vous plaît contacter %5$s"
+
+#: modules/paypal_paypal.php:609
+#, php-format
+msgid ""
+"\r\n"
+"This is an automatic notification from %1$s\r\n"
+"to %2$s (%3$s).\r\n"
+"\r\n"
+"This is a notification to inform you that an error occurred while processing "
+"your payment.\r\n"
+"Details: %4$s\r\n"
+"\r\n"
+"For more information please contact %5$s"
+msgstr ""
+"\r\nThis est une notification automatique de %1$s\r\nto %2$s (%3$s). \r\n\r\nThis est une notification pour vous informer qu&#39;une erreur s&#39;est produite lors du traitement de votre payment.\r\nDetails: %4$s\r\n\r\nFor plus d&#39;information s&#39;il vous plaît contacter %5$s"
+
+#: modules/paypal_paypal.php:668
+msgid "Some fields were not saved due to the following errors:"
+msgstr "Certains champs n&#39;ont pas été enregistrées en raison des erreurs suivantes:"
+#: modules/paypal_paypal.php:694
+msgid " Options"
+msgstr "Options"
+#: modules/paypal_paypal.php:699
+msgid "Your PayPal Email Address"
+msgstr "Votre adresse e-mail PayPal"
+#: modules/paypal_paypal.php:701
+msgid ""
+"This address must match the email address that you use to login to PayPal."
+msgstr ""
+"Cette adresse doit correspondre à l&#39;adresse e-mail que vous utilisez pour vous connecter à PayPal."
+
+#: modules/paypal_paypal.php:703
+msgid "PayPal Return URL"
+msgstr "PayPal Retour URL"
+#: modules/paypal_paypal.php:705
+msgid "Where user must return after successful payment via PayPal."
+msgstr "Lorsque l&#39;utilisateur doit retourner après paiement via PayPal."
+#: modules/paypal_paypal.php:707
+msgid "PayPal Cancel URL"
+msgstr "PayPal Annuler Web"
+#: modules/paypal_paypal.php:709
+msgid "Where user must return if payment was canceled."
+msgstr "Lorsque l&#39;utilisateur doit retourner si le paiement a été annulée."
+#: modules/paypal_paypal.php:711
+msgid "PayPal Button/Logo"
+msgstr "PayPal Button / Logo"
+#: modules/paypal_paypal.php:730
+msgid "Live Switch"
+msgstr "Switch Live"
+#: modules/paypal_paypal.php:732
+msgid "Live Site"
+msgstr "Live Site"
+#: modules/paypal_paypal.php:733
+msgid "Test Mode (Sandbox)"
+msgstr "Test Mode (Sandbox)"
+#: modules/paypal_paypal.php:736
+msgid "Select Test Mode to test your buttons."
+msgstr "Sélectionnez le mode d&#39;essai pour tester vos boutons."
+#: modules/paypal_paypal.php:738
+msgid "Payment Type"
+msgstr "Type de paiement"
+#: modules/paypal_paypal.php:745
+msgid "The Currency used for the payments"
+msgstr "La devise utilisée pour les paiements"
+#: modules/paypal_paypal.php:750
+#, php-format
+msgid "%s - Australian Dollar"
+msgstr "%s - Australian Dollar"
+#: modules/paypal_paypal.php:751
+#, php-format
+msgid "%s - Canadian Dollar"
+msgstr "%s - Canadian Dollar"
+#: modules/paypal_paypal.php:752
+#, php-format
+msgid "%s - Swiss Franc"
+msgstr "%s - Franc Suisse"
+#: modules/paypal_paypal.php:753
+#, php-format
+msgid "%s - Czech Koruna"
+msgstr "%s - Czech Koruna"
+#: modules/paypal_paypal.php:754
+#, php-format
+msgid "%s - Danish Krone"
+msgstr "%s - Couronne danoise"
+#: modules/paypal_paypal.php:755
+#, php-format
+msgid "%s - Euro"
+msgstr "%s - Euro"
+#: modules/paypal_paypal.php:756
+#, php-format
+msgid "%s - Pound Sterling"
+msgstr "%s - Livre Sterling"
+#: modules/paypal_paypal.php:757
+#, php-format
+msgid "%s - Hong Kong Dollar"
+msgstr "%s - Hong Kong Dollar"
+#: modules/paypal_paypal.php:758
+#, php-format
+msgid "%s - Hungarian Forint"
+msgstr "%s - Forint hongrois"
+#: modules/paypal_paypal.php:759
+#, php-format
+msgid "%s - Japanese Yen"
+msgstr "%s - Japanese Yen"
+#: modules/paypal_paypal.php:760
+#, php-format
+msgid "%s - Norwegian Krone"
+msgstr "%s - Norwegian Krone"
+#: modules/paypal_paypal.php:761
+#, php-format
+msgid "%s - New Zealand Dollar"
+msgstr "%s - New Zealand Dollar"
+#: modules/paypal_paypal.php:762
+#, php-format
+msgid "%s - Polish Zloty"
+msgstr "%s - Zloty polonais"
+#: modules/paypal_paypal.php:763
+#, php-format
+msgid "%s - Swedish Krona"
+msgstr "%s - Couronne suédoise"
+#: modules/paypal_paypal.php:764
+#, php-format
+msgid "%s - Singapore Dollar"
+msgstr "%s - Dollar de Singapour"
+#: modules/paypal_paypal.php:765
+#, php-format
+msgid "%s - U.S. Dollar"
+msgstr "%s - US Dollar"
+#: modules/paypal_paypal.php:774
+msgid "Payment transaction currency"
+msgstr "Monnaie de paiement des transactions"
+#: modules/paypal_paypal.php:776
+msgid "The local PayPal site to use"
+msgstr "Les collectivités locales d&#39;utiliser le site PayPal"
+#: modules/paypal_paypal.php:781
+msgid "Australia"
+msgstr "Australie"
+#: modules/paypal_paypal.php:782
+msgid "Austria"
+msgstr "Autriche"
+#: modules/paypal_paypal.php:783
+msgid "Belgium"
+msgstr "Belgique"
+#: modules/paypal_paypal.php:784
+msgid "Canada"
+msgstr "Canada"
+#: modules/paypal_paypal.php:785
+msgid "China"
+msgstr "Chine"
+#: modules/paypal_paypal.php:786
+msgid "France"
+msgstr "France"
+#: modules/paypal_paypal.php:787
+msgid "Germany"
+msgstr "Allemagne"
+#: modules/paypal_paypal.php:788
+msgid "Italy"
+msgstr "Italie"
+#: modules/paypal_paypal.php:789
+msgid "Netherlands"
+msgstr "Pays-Bas"
+#: modules/paypal_paypal.php:790
+msgid "Poland"
+msgstr "Pologne"
+#: modules/paypal_paypal.php:791
+msgid "Spain"
+msgstr "Espagne"
+#: modules/paypal_paypal.php:792
+msgid "Switzerland"
+msgstr "Suisse"
+#: modules/paypal_paypal.php:793
+msgid "United Kingdom"
+msgstr "Royaume-Uni"
+#: modules/paypal_paypal.php:794
+msgid "United States"
+msgstr "États-Unis"
+#: modules/paypal_paypal.php:808
+msgid "Encrypted Buttons Guide"
+msgstr "Chiffré Boutons Guide"
+#: modules/paypal_paypal.php:810
+msgid ""
+"To use encrypted buttons, follow the STEPS outlined in <a href=\"https://www."
+"paypal.com/IntegrationCenter/ic_button-encryption.html\">Securing your "
+"PayPal Buttons</a> below &quot;Encrypting Buttons Dynamically with Encrypted "
+"Website Payments&quot;."
+msgstr ""
+"Pour utiliser les boutons cryptés, suivez les étapes décrites dans la <a href=\"https://www.paypal.com/IntegrationCenter/ic_button-encryption.html\">sécurisation de vos boutons PayPal</a> ci-dessous &quot;Encrypting Boutons Site Web dynamique avec paiements cryptés&quot;."
+
+#: modules/paypal_paypal.php:812
+msgid ""
+"After completing the steps, go back to your WordPress Admin Section -> "
+"PayPAL -> Gateways and click the &quot;Edit&quot; link for PayPal. Scroll "
+"down to the Buttons Encryption section and enter the Certificate ID from "
+"PayPal, upload PayPal's Public Certificate, your Private Key file and your "
+"Public Certificate file."
+msgstr ""
+"Après avoir complété les étapes, revenir à votre WordPress Admin Section -&gt; PayPal -&gt; les portes d&#39;entrée et cliquez sur le lien &quot;Modifier&quot; pour PayPal. Accédez à la section Boutons de chiffrement et d&#39;entrer dans le Certificate ID de PayPal, télécharger le certificat public de PayPal, votre fichier de clé privée et publique de votre certificat de fichier."
+
+#: modules/paypal_paypal.php:814
+msgid ""
+"Also, you have to make sure that your website host has OpenSSL installed. "
+"Contact your hosting provider and ask for the OpenSSL path. Click the &quot;"
+"Update Options&quot; to save your changes. You should test your buttons at "
+"this point to make sure that the encryption is working right."
+msgstr ""
+"Aussi, vous devez vous assurer que votre hébergeur du site a installé OpenSSL. Contactez votre fournisseur de services d&#39;hébergement et de demander le chemin OpenSSL. Cliquez sur le bouton &quot;Update Options&quot; pour enregistrer vos modifications. Vous devriez vérifier vos boutons à ce point pour s&#39;assurer que le cryptage travaille."
+
+#: modules/paypal_paypal.php:816
+msgid "Resources"
+msgstr "Ressources"
+#: modules/paypal_paypal.php:819
+msgid "PayPal"
+msgstr "PayPal"
+#: modules/paypal_paypal.php:820
+msgid "OpenSSL (*nix)"
+msgstr "OpenSSL (* nix)"
+#: modules/paypal_paypal.php:821
+msgid "OpenSSL (Windows)"
+msgstr "OpenSSL (Windows)"
+#: modules/paypal_paypal.php:828
+msgid "Buttons Encryption"
+msgstr "Boutons de chiffrement"
+#: modules/paypal_paypal.php:829
+msgid "Enable Encryption"
+msgstr "Activer le cryptage"
+#: modules/paypal_paypal.php:835
+msgid "Encrypts your PayPal buttons using OpenSSL"
+msgstr "PayPal crypte vos boutons en utilisant OpenSSL"
+#: modules/paypal_paypal.php:837
+msgid "PayPal&rsquo;s Certificate ID"
+msgstr "PayPal Certificate ID"
+#: modules/paypal_paypal.php:841
+msgid "PayPal&rsquo;s Public Certificate"
+msgstr "PayPal&#39;s Public Certificate"
+#: modules/paypal_paypal.php:845
+msgid "Your Private Key file"
+msgstr "Votre fichier de clé privée"
+#: modules/paypal_paypal.php:849
+msgid "Your Public Certificate"
+msgstr "Votre certificat public"
+#: modules/paypal_paypal.php:853
+msgid "Path to OpenSSL"
+msgstr "Path to OpenSSL"
+#: modules/paypal_paypal.php:856
+#, php-format
+msgid "Usually %s on unix systems."
+msgstr "Habituellement %s sur les systèmes Unix."
+#: modules/paypal_paypal.php:906
+#, php-format
+msgid "unable to move file to %s"
+msgstr "incapables de se déplacer des fichiers à %s"
+#: modules/paypal_paypal.php:970
+msgid ""
+"<strong>Your Public Certificate<strong>: No file was uploaded or file does "
+"not exist."
+msgstr ""
+"<strong>Votre certificat public: Pas de fichier a été téléchargé ou fichier</strong> n&#39;existe <strong>pas.</strong>"
+
+#: modules/paypal_paypal.php:974
+msgid ""
+"<strong>Your Public Key File</strong>: No file was uploaded or file does not "
+"exist."
+msgstr ""
+"<strong>Votre fichier de la clé publique:</strong> Pas de fichier a été téléchargé ou fichier n&#39;existe pas."
+
+#: modules/paypal_paypal.php:978
+msgid ""
+"<strong>PayPal's Public Certificate</strong>: No file was uploaded or file "
+"does not exist."
+msgstr ""
+"<strong>PayPal publique Certificat:</strong> Aucun fichier a été téléchargé ou fichier n&#39;existe pas."
+
+#: modules/paypal_trial.php:13 modules/paypal_trial.php:114
+msgid "Trial"
+msgstr "Essai"
+#: modules/paypal_trial.php:14
+msgid ""
+"<p>Allow users to signup for a free trial account which expires "
+"automatically after a number of days. You can set the number of days/months/"
+"years before a trial account expires on the Subscription Settings page. "
+"Simply set the Account Type to \"Trial\" to use this gateway.</p>"
+msgstr ""
+"<p> Autoriser les utilisateurs à l&#39;inscription pour un compte d&#39;essai gratuit qui expire automatiquement après un certain nombre de jours. Vous pouvez définir le nombre de jours / mois / années avant le procès compte expire à la page Paramètres d&#39;abonnement. Il suffit de définir le type de compte à \"Trial\" à utiliser ce portail. </p>"
+
+#: modules/paypal_trial.php:56
+msgid "Trial Account"
+msgstr "Compte d&#39;essai"
+#: modules/paypal_trial.php:58 modules/paypal_trial.php:63
+msgid "Sign Up for a Trial Account"
+msgstr "S&#39;inscrire pour un compte d&#39;essai"
+#: modules/paypal_trial.php:139
+msgid "Trial Account Created"
+msgstr "Essai de création de compte"
+#: paypal-subscribe.php:10 paypal-subscribe.php:35
+msgid "Subscription"
+msgstr "Abonnement"
+#: paypal-subscribe.php:35
+msgid "Powered by WordPress"
+msgstr "Propulsé par WordPress"
+#: paypal-subscribe.php:36
+msgid "Select Payment Method"
+msgstr "Sélectionnez le mode de paiement"
+#: paypal-subscribe.php:47
+msgid ""
+"Please follow the <a href=\"wp-login.php\">login</a> or the <a href=\"wp-"
+"register.php\">register</a> procedure, and then retry subscribing."
+msgstr ""
+"S&#39;il vous plaît suivre le <a href=\"wp-login.php\">login</a> ou le <a href=\"wp-register.php\">registre</a> procédure, puis réessayez subscribing."
+
+#: paypal-subscribe.php:56
+msgid ""
+"Your subscription status is pending. Please contact an administrator for "
+"more information."
+msgstr ""
+"Votre statut d&#39;abonnement est en attente. S&#39;il vous plaît contacter un administrateur pour plus d&#39;informations."
+
+#: paypal-subscribe.php:60
+msgid ""
+"You are already subscribed or an error occurred. Please contact an "
+"administrator for more information."
+msgstr ""
+"Vous êtes déjà abonné, ou une erreur s&#39;est produite. S&#39;il vous plaît contacter un administrateur pour plus d&#39;informations."
+
+#: paypal-tos.php:6
+msgid "Terms Of Service"
+msgstr "Conditions d&#39;utilisation"
+#: wp-member-main.php:90
+#, php-format
+msgid ""
+"Your account is not active. To activate your account please complete the <a "
+"href=\"%s\">subscription payment</a>"
+msgstr ""
+"Votre compte n&#39;est pas actif. Pour activer votre compte s&#39;il vous plaît compléter le <a href=\"%s\">paiement d&#39;abonnement</a>"
+
+#: wp-member-main.php:91
+#, php-format
+msgid ""
+"Your Account has expired. Please make a new <a href=\"%s\">subscription "
+"payment</a> to re-activate your account."
+msgstr ""
+"Votre compte a expiré. S&#39;il vous plaît faire une nouvelle <a href=\"%s\">souscription de paiement</a> de re-activer votre compte."
+
+#: wp-member-main.php:93
+msgid "Your Account is now PENDING activation!"
+msgstr "Votre compte est maintenant en attente d&#39;activation!"
+#: wp-member-main.php:94
+msgid "Your account is not active"
+msgstr "Votre compte n&#39;est pas actif"
+#: wp-member-main.php:96
+msgid ""
+"After completing registration, we will send you an e-mail containing your "
+"login details. If a payment is required, you will be presented with a "
+"subscription button after you have clicked on the register button. "
+msgstr ""
+"Après avoir terminé l&#39;enregistrement, nous vous enverrons un e-mail contenant vos informations de connexion. Si un paiement est exigé, il vous sera présenté avec un bouton d&#39;abonnement après avoir cliqué sur le bouton Enregistrer."
+
+#: wp-member-main.php:97
+msgid "Please replace this text with your Terms & Conditions"
+msgstr "S&#39;il vous plaît remplacer ce texte par Termes &amp; Conditions"
+#: wp-member-main.php:98
+msgid ""
+"<p style=\"text-align: center;\">*****<br>You need to be logged in to see "
+"this part of the post. Login using the box in the sidebar. Not registered? "
+"Click <a href=\"/wp-login.php?action=register\">here</a> to "
+"register<br>*****</p>"
+msgstr ""
+"<p style=\"text-align: center;\"> ***** <br> Vous devez être connecté pour voir cette partie de la poste. Connectez-vous en utilisant la boîte dans la barre latérale. Non enregistré? Cliquez <a href=\"/wp-login.php?action=register\">ici</a> pour vous inscrire <br> ***** </p>"
+
+#: wp-member-main.php:495
+msgid "Private"
+msgstr "Privé"
+#: wp-member-main.php:496
+msgid "Public"
+msgstr "Public"
+#: wp-member-main.php:651
+msgid "WP-MEMBER Custom Fields"
+msgstr "WP-MEMBRE des champs personnalisés"
+#: wp-member-main.php:787
+msgid "I agree to the Terms and Conditions."
+msgstr "Je suis d&#39;accord avec les Termes et Conditions."
+#: wp-member-main.php:802
+msgid "There are no payment gateways active. Please contact the administrator."
+msgstr "Il n&#39;y a pas de passerelles de paiement active. S&#39;il vous plaît contactez l&#39;administrateur."
+#: wp-member-main.php:812
+#, php-format
+msgid "%1$s per %2$s %3$s (Trial)"
+msgstr "%1$s par %2$s %3$s (Trial)"
+#: wp-member-main.php:837
+#, php-format
+msgid "&nbsp; %1$s %2$s per %3$s %4$s%5$s"
+msgstr "%1$s %2$s par %3$s %4$s%5$s"
+#: wp-member-main.php:893
+msgid "<strong>ERROR</strong>: You must accept the Terms and Conditions."
+msgstr "<strong>ERREUR:</strong> Vous devez accepter les Termes et Conditions."
+#: wp-member-main.php:899
+msgid "<strong>ERROR</strong>: You must select a Subscription Type."
+msgstr "<strong>ERREUR:</strong> Vous devez sélectionner un type d&#39;abonnement."
+#: wp-member-main.php:903
+msgid "<strong>ERROR</strong>: Birthdate is required."
+msgstr "<strong>ERREUR:</strong> Date de naissance est exigé."
+#: wp-member-main.php:907
+msgid "<strong>ERROR</strong>: Country is required."
+msgstr "<strong>ERREUR:</strong> Le pays est nécessaire."
+#: wp-member-main.php:915
+#, php-format
+msgid "<strong>ERROR</strong>: %s is a required field"
+msgstr "<strong>ERREUR:</strong> %s est un champ requis"
+#: wp-member-main.php:963
+#, php-format
+msgid "Invalid Data Passed. <a href=\"%s\">Try again.</a>"
+msgstr "Non valide les données transmises. <a href=\"%s\">Essayez à nouveau.</a>"
+#: wp-member-main.php:982
+msgid ""
+"<br /><table width=\"100%\" cellpadding=\"3\" cellspacing=\"0\" border=\"0\" "
+"align=\"center\" class=\"form-table\">"
+msgstr ""
+
+#: wp-member-main.php:985 wp-member-main.php:1218
+msgid "Create a free account"
+msgstr "Créer un compte gratuit"
+#: wp-member-main.php:988
+#, php-format
+msgid "Create a trial account for %1$s %2$s<br />(for %3$s %4$s)"
+msgstr "Créer un compte d&#39;essai pour %1$s %2$s <br /> (pour %3$s %4$s)"
+#: wp-member-main.php:994 wp-member-main.php:1006 wp-member-main.php:1071
+#: wp-member-main.php:1220
+msgid "Select Payment Gateway"
+msgstr "Sélectionnez Passerelle de paiement"
+#: wp-member-main.php:996
+#, php-format
+msgid "Create a trial account for %1$s %2$s"
+msgstr "Créer un compte d&#39;essai pour %1$s %2$s"
+#: wp-member-main.php:1001 wp-member-main.php:1221
+#, php-format
+msgid "Subscribe for %1$s %2$s<br />(for %3$s %4$s)"
+msgstr "S&#39;abonner à la %1$s %2$s <br /> (pour %3$s %4$s)"
+#: wp-member-main.php:1063 wp-member-main.php:1093 wp-member-main.php:1243
+msgid "There are no gateways available at this time."
+msgstr "Il n&#39;y a pas de passerelles disponibles à ce moment."
+#: wp-member-main.php:1102
+#, php-format
+msgid "Unknown Module: %s"
+msgstr "Inconnu Module: %s"
+#: wp-member-main.php:1132
+msgid "<p class=\"message register\">Choose an Account Type</p>"
+msgstr "<p class=\"message register\"> Choisissez un type de compte </p>"
+#: wp-member-main.php:1158
+#, php-format
+msgid "%1$s %2$s per %3$s %4$s%5$s"
+msgstr "%1$s %2$s par %3$s %4$s%5$s"
+#: wp-member-main.php:1179
+msgid "Data tampered. Exiting."
+msgstr "Les données falsifiées. Exiting."
+#: wp-member-main.php:1205
+msgid "Invalid data passed"
+msgstr "Non valide les données transmises"
+#: wp-member-main.php:1296
+msgid "Select which usergroup will have access to read this post/page."
+msgstr "Sélectionnez les utilisateurs auront accès à lire ce post / page."
+#: wp-member-main.php:1319
+msgid ""
+"Note: You can hide parts of the post/page from guests by adding <strong>"
+"[private]</strong> <em>your text</em> <strong>[/private]</strong> tags"
+msgstr ""
+"Note: Vous pouvez masquer les parties de la poste / page de la clientèle en ajoutant <strong>[privée]</strong> <em>votre texte</em> <strong>[/ privé]</strong> tags"
+
+#: wp-member-main.php:1364
+msgid "Access for This Category:"
+msgstr "L&#39;accès pour cette catégorie:"
+#: wp-member-main.php:1366
+msgid "(Leave all unchecked for public access to this category.)"
+msgstr "(Laisser l&#39;ensemble n&#39;est pas cochée pour l&#39;accès du public à cette catégorie)."
+#: wp-member-main.php:1370
+#, php-format
+msgid "Allow access to subscribers of type \"%s\""
+msgstr "Autoriser l&#39;accès aux abonnés de type \"%s\""
+#: wp-member-main.php:1660
+msgid "Select Country"
+msgstr "Choisissez un pays"
+#: wp-member-main.php:1723
+#, php-format
+msgid ""
+"Powered by <a href=\"%1$s\">WP-MEMBER</a>. Product of <a href=\"http://www."
+"wp-member.com/\"><strong>WP-MEMBER</strong></a>"
+msgstr ""
+"Powered by <a href=\"%1$s\">WP-MEMBRE.</a> Produit du <strong><a href=\"http://www.wp-member.com/\">GT-MEMBRES</a></strong>"
+
+#: wp-member-main.php:1821
+msgid "General Settings"
+msgstr "Paramètres généraux"
+#: wp-member-main.php:1821
+msgid "Setup and General Settings"
+msgstr "Configuration et paramètres généraux"
+#: wp-member-main.php:1822
+msgid "Members"
+msgstr "Membres"
+#: wp-member-main.php:1823
+msgid "Simple Newsletter"
+msgstr "Simple Newsletter"
+#: wp-member-main.php:1825
+msgid "Subscription Settings"
+msgstr "Paramètres d&#39;abonnement"
+#: wp-member-main.php:1826
+msgid "Messages"
+msgstr "Messages"
+#: wp-member-main.php:1827
+msgid "Gateways"
+msgstr "Passerelles"
+#: wp-member-main.php:1828
+msgid "Registration Customization"
+msgstr "Inscription Personnalisation"
+#: wp-member-main.php:1830
+msgid "Uninstall"
+msgstr "Désinstallation"
+#: wp-member-main.php:1833 wp-member-main.php:2011 wp-member-main.php:2068
+msgid "Membership Details"
+msgstr "Infos adhésion"
+#: wp-member-main.php:2012 wp-member-main.php:2069
+msgid "Register"
+msgstr "S&#39;inscrire"
+#: wp-member-main.php:2013 wp-member-main.php:2070
+msgid "Lost your Password?"
+msgstr "Mot de passe perdu?"
+#: wp-member-main.php:2019
+#, php-format
+msgid "Welcome, %s"
+msgstr "Bienvenue, %s"
+#: wp-member-main.php:2023
+msgid "Logout"
+msgstr "Logout"
+#: wp-member-main.php:2029
+msgid "Log In"
+msgstr "Connexion"
+#: wp-member-main.php:2034
+msgid "Username:"
+msgstr "Nom d&#39;utilisateur:"
+#: wp-member-main.php:2038
+msgid "Password:"
+msgstr "Mot de passe:"
+#: wp-member-main.php:2042
+msgid "Remember me"
+msgstr "Se souvenir de moi"
+#: wp-member-main.php:2044
+msgid "Login &raquo;"
+msgstr "Login »"
+#: wp-member-main.php:2073
+msgid "Membership Details link text:"
+msgstr "Infos adhésion de lien texte:"
+#: wp-member-main.php:2076
+msgid "Register link text:"
+msgstr "Inscrivez lien texte:"
+#: wp-member-main.php:2080
+msgid "Lost password link text:"
+msgstr "Mot de passe oublié lien texte:"
+#: wp-member-main.php:2138
+msgid "FATAL ERROR: Missing parameter"
+msgstr "Fatal error: Missing paramètre"
+#: wp-member-main.php:2194
+msgid "WP-MEMBER License Key"
+msgstr "WP-MEMBRES clé de licence"
+#: wp-member-main.php:2200
+msgid "WP-MEMBER license key successfully updated!"
+msgstr "WP-MEMBRES clé de licence a été mis à jour!"
+#: wp-member-main.php:2202
+msgid ""
+"WARNING: The WP-MEMBER license key you submitted seems to have problems."
+msgstr ""
+"AVERTISSEMENT: Le GT-MEMBRES clé de licence que vous avez soumis semble avoir des problèmes."
+
+#: wp-member-main.php:2207
+msgid "WP-MEMBER License Configuration"
+msgstr "WP-MEMBRES Configuration License"
+#: wp-member-main.php:2211
+msgid "WP-MEMBER Key"
+msgstr "WP-clés MEMBRES"
+#: wp-member-main.php:2213
+msgid "Save Key &raquo;"
+msgstr "Enregistrer la clé »"
+#: wp-member-main.php:2293
+msgid "WP-MEMBER functionality will be disabled until this error is corrected."
+msgstr "WP-MEMBRES fonctionnalités seront désactivées jusqu&#39;à ce que cette erreur soit corrigée."
+#: wp-member-main.php:2386
+#, php-format
+msgid ""
+"WP-MEMBER Error: An error occured while checking your license.  Please visit "
+"our <a href=\"%1$s\">support section</a> for support."
+msgstr ""
+"WP-MEMBRES Erreur: Une erreur s&#39;est produite pendant la vérification de votre licence. S&#39;il vous plaît visitez notre <a href=\"%1$s\">section de soutien</a> de soutien."
+
+#: wp-member-main.php:2390
+#, php-format
+msgid ""
+"WP-MEMBER Error: Invalid license.  Please visit our <a href=\"%1$s\">support "
+"section</a> for support."
+msgstr ""
+"WP-MEMBRES erreur: Invalid licence. S&#39;il vous plaît visitez notre <a href=\"%1$s\">section de soutien</a> de soutien."
+
+#: wp-member-main.php:2394
+#, php-format
+msgid ""
+"WP-MEMBER Error: License has expired.  To purchase a license key, please go "
+"to <a href=\"%1$s\">the WP-MEMBER store</a>, or visit our <a href=\"%2$s"
+"\">support section</a> for support."
+msgstr ""
+"WP-MEMBRES Erreur: licence a expiré. Pour acheter une clé de licence, s&#39;il vous plaît aller à <a href=\"%1$s\">la GT-MEMBRES magasin,</a> ou visitez notre <a href=\"%2$s\">section de soutien</a> de soutien."
+
+#: wp-member-main.php:2398
+#, php-format
+msgid ""
+"WP-MEMBER Error: License suspended.  To purchase a license key, please go to "
+"<a href=\"%1$s\">the WP-MEMBER store</a>, or visit our <a href=\"%2$s"
+"\">support section</a> for support."
+msgstr ""
+"WP-MEMBRES Erreur: licence suspendue. Pour acheter une clé de licence, s&#39;il vous plaît aller à <a href=\"%1$s\">la GT-MEMBRES magasin,</a> ou visitez notre <a href=\"%2$s\">section de soutien</a> de soutien."
+
+#. Plugin Name of an extension
+msgid "wp-Member"
+msgstr "wp-membres"
+#. #-#-#-#-#  wp-member.pot (wp-Member 2.2)  #-#-#-#-#
+#. Plugin URI of an extension
+#. #-#-#-#-#  wp-member.pot (wp-Member 2.2)  #-#-#-#-#
+#. Author URI of an extension
+msgid "http://wp-Member.com"
+msgstr "http://wp-Member.com"
+#. Description of an extension
+msgid "Advanced wordpress membership, user and content plugin."
+msgstr "Advanced wordpress adhésion, l&#39;utilisateur et le contenu de plugin."
+#. Author of an extension
+msgid "wp-Member.com"
+msgstr "wp-Member.com"

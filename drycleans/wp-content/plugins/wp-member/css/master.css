@@ -1,0 +1,289 @@
+/* =Clearfix Hack
+--------------------------------------------------------------------------------------- */
+.clearfix:after		{ content:"."; display:block; height:0; clear:both; visibility:hidden; }
+.clearfix			{ display:inline-block; }
+/* Hide from IE Mac \*/
+.clearfix			{ display:block; }
+/* End hide from IE Mac */
+
+
+/* =Miscellaneous
+--------------------------------------------------------------------------------------- */
+.floatleft	{ float:left !important; }
+.floatright	{ float:right !important; }
+
+
+/* =Layout Style
+--------------------------------------------------------------------------------------- */
+#paypal_sidebar		{ width:188px; }
+
+
+/* =Sidebar Box
+--------------------------------------------------------------------------------------- */
+.paypal_sb_box				{ width:188px; background:url(../images/sb_box_bg.gif); clear:both; margin-bottom:25px; }
+.paypal_sb_box_inner		{ background:url(../images/sb_box_bottom.gif) left bottom no-repeat; }
+.paypal_sb_box h3			{ background:url(../images/sb_box_top.gif) left top no-repeat; line-height:28px; height:28px; padding-left:15px; font-weight:normal; font-size:13px; color:#fff; }
+.paypal_sb_box_content		{ padding:0 15px 15px 15px; }
+
+.paypal_sb_box ul			{ margin:0 !important; padding:0 !important; }
+.paypal_sb_box ul li		{ list-style:none; border-bottom:1px dotted #eee; display:block; padding-bottom:3px; }
+
+.paypal_comment			{ color:#666; font-size:11px; padding:10px 0; }
+
+
+#update_ctrl			{ clear:both; }
+#update_ctrl legend		{ font-weight:bold; }
+#update_ctrl ul			{ clear:both; padding:0 !important; }
+#update_ctrl ul li		{ list-style:none; clear:both; margin-bottom:10px; }
+
+/* Stuff to look better in WordPress 2.5+ */
+
+fieldset {
+	padding: 1em;
+}
+	fieldset table.form-table {
+		margin-bottom: .5em;
+	}
+p.submit {
+	clear: both;
+}
+
+.paypal-navigation {
+	margin: 1em;
+	padding: 1em;
+}
+
+/* end stuff to look better in WP 2.5+ */
+
+.paypal-wrap fieldset {
+	border: 1px solid #ccc;
+	float: left;
+	width: 90%;
+	padding: .5em 2em;
+	margin: 1em; 
+}
+
+.paypal-wrap fieldset input {
+	font-size: 20px;
+	padding: 2px;
+}
+
+.paypal-wrap .small-fieldset fieldset input {
+	width: 300px;
+	font-size: 20px;
+	padding: 2px;
+}
+
+.paypal-wrap .smaller-fieldset fieldset input {
+	width: 100px;
+	font-size: 20px;
+	padding: 2px;
+}
+
+.paypal-wrap fieldset input.checkbox,
+.paypal-wrap .small-fieldset fieldset input.checkbox,
+.paypal-wrap .smaller-fieldset fieldset input.checkbox {
+	width: auto;
+}
+
+.paypal-wrap fieldset textarea {
+	width: 100%;
+	padding: 2px;
+}
+
+.paypal-wrap legend {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 22px;
+}
+
+.paypal-wrap ul  {
+	list-style: none;
+}
+
+.paypal-wrap #regform li.item  {
+	background-color: #EFF8FF;
+	border:1px solid #5FB7FF;
+	cursor: move;
+	padding: 5px;
+}
+
+.paypal-wrap #fld_container li.item  {
+	background-color: #F9FFEF;
+	border:1px solid #C5DEA1;
+	cursor: move;
+	padding: 5px;
+	margin: 0 3px;
+	display: inline;
+}
+
+
+/* 15 March 2010   - paypal subscribe file css */
+
+h3 { /*margin-left: 30px;*/ }
+ #login form.paypal {
+	background: none !important;
+	border:0px;
+ }
+	
+#login #frm {
+	background: url('/images/login-bkg-tile.gif') no-repeat bottom center !important;
+	padding: 0 50px 25px !important;
+	_width: 325px !important;
+	_margin: 0 auto !important;
+ }
+
+#aa{
+	background: url('/images/sb_box_bottom.gif') no-repeat bottom center !important;
+ }
+
+/* 15 March 2010   - paypal tos file css */
+input {
+	font-size: 11px; 
+}
+
+/* 15 March 2010 - wp-member/admin/paypal-customfields.php*/
+#regform.regfield {
+
+	height: auto; 
+	width: 250px;
+	margin-top:10px;
+	background: #F9FFEF;
+	padding: 10px; 
+	border: 1px solid #C5DEA1;
+}
+
+#fld_container.custom_flds {
+	height: auto; 
+	margin-top:10px; 
+	background: #EFF8FF;
+	padding: 10px; 
+	border: 1px solid #5FB7FF;
+}
+
+/* 15 March 2010 - wp-member/admin/paypal-profile.php*/
+.clear {
+	clear:both;
+}
+
+#go	input {
+	font-size: 13px;
+	width: auto;
+}
+
+.crt_new_membership {
+	width: 300px;
+}
+
+.error {
+	color:red;
+}
+
+.avaliable_affiliate {
+	border:0px solid red; 
+	width:200px;
+	float:left;
+}
+
+.aff_status {
+	border:0px solid red; 
+	width:110px; 
+	float:left;
+}
+
+.aff_act_dct {
+	border:0px solid red; 
+	width:200px; 
+	float:left;
+}
+
+#paypal_paypal input {
+	width: 62px;
+	height: 31px;
+}
+
+#paypal_paypal01 input {
+	width: 62px;
+	height: 31px;
+}
+
+#paypal_paypal20 input {
+	width: 62px; 
+	height: 31px;
+}
+
+.orderclass {
+	font-size:16px;
+	color:#ffffff;
+	text-align:center;
+	font-weight:bold;
+}
+
+.paymentgateway {
+	color: rgb(255, 255, 255);
+	text-align:center;
+}
+
+.paymentgatewayext{
+	color: rgb(255, 255, 255);
+	text-align:center;
+	font-size:14px;
+	font-family:Arial, Helvetica, sans-serif;
+}
+
+.labelclass {
+ color:#fff;
+}
+.labelalign {
+ text-align:center;
+}
+
+.howtoclass {
+	list-style: none;
+	margin: 0;
+	padding: 3px;
+}
+
+.paypalkey {
+	font-family: 'Courier New', Courier, mono; 
+	font-size: 1.5em;
+}
+
+.externalmsg {
+	position: absolute; 
+	left: 0px; 
+	top: 0px;
+	background-color: yellow; 
+	color: black;
+	padding: 1em; 
+	width: 100%;
+}
+
+.paymentregistration {
+	color:#ffffff;
+	font-size:17px; 
+	text-align:center;
+	font-family:Arial, Helvetica, sans-serif;
+}
+
+.bkbottom {
+	/*background: url('../images/login-bkg-bottom.gif') no-repeat bottom center; */
+	padding: 0 25px 25px;
+	_width: 325px; 
+	_margin: 0 auto;
+}
+
+.lalign {
+	text-align: left;
+}
+
+.setupclass {
+	border: 3px solid;
+	margin: 1em;
+	padding: 2em;
+}
+
+.accounttype {
+	list-style: none;
+	margin: 0;
+	padding: 3px;
+}

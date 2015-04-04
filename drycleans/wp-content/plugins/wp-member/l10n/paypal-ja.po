@@ -1,0 +1,1772 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR wp-Member.com
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: wp-Member 2.2\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/wp-member\n"
+"POT-Creation-Date: 2009-06-11 15:13-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: admin/paypal-admin.php:23
+msgid ""
+"Unable to remove wpb-paypal directory from the server. Please delete it "
+"manually."
+msgstr ""
+"wpb - PayPalのディレクトリを削除し、サーバーからできません。手動で削除してください。"
+
+#: admin/paypal-admin.php:50 wp-member-main.php:1285 wp-member-main.php:1292
+#: wp-member-main.php:1819
+msgid "WP-MEMBER"
+msgstr "WP -メンバー"
+#: admin/paypal-admin.php:53
+msgid "wp-Member homepage"
+msgstr "wp -会員のホームページ"
+#: admin/paypal-admin.php:54
+msgid "Affiliate"
+msgstr "アフィリエイト"
+#: admin/paypal-admin.php:55
+msgid "Hosting"
+msgstr "ホスティング"
+#: admin/paypal-admin.php:56
+msgid "Paypal Homepage"
+msgstr "PayPalのホームページ"
+#: admin/paypal-admin.php:66 admin/paypal-admin.php:70
+msgid "Support"
+msgstr "サポートする"
+#: admin/paypal-admin.php:69
+msgid "Interactive FAQ"
+msgstr "対話型のよくある質問"
+#: admin/paypal-admin.php:80
+msgid "WP-MEMBER Services"
+msgstr "WP -会員サービス"
+#: admin/paypal-admin.php:84
+msgid "Wordpress theme and plugin design"
+msgstr "Wordpressのテーマとプラグインの設計"
+#: admin/paypal-admin.php:85
+msgid ""
+"High quality low priced <strong>PSD to XHTML/CSS</strong> and <strong>PSD to "
+"WordPress Theme</strong> coding & php services."
+msgstr ""
+"XHTMLに高品質低<strong>価格のPSD /</strong> PSD <strong>へのワードプレステーマのCSS</strong>とPHPのコーディング＆サービス。"
+
+#: admin/paypal-admin.php:89
+msgid ""
+"<a href=\"http://5starservers.com/?p=70\">Contact us</a> for a free quote if "
+"you need a custom WordPress theme or a WordPress plugin to be developed</a>."
+msgstr ""
+"<a href=\"http://5starservers.com/?p=70\">お問い合わせ</a>は、無料で見積もりを開発する場合は、カスタムのワードプレスのテーマやワードプレスのプラグインが必要です。"
+
+#: admin/paypal-backuprestore.php:61
+#, php-format
+msgid ""
+"Backup file created. Right click <a href=\"%s\">HERE</a> and select Save "
+"Link As or Save Target As."
+msgstr ""
+"バックアップを作成します。右クリックし、 <a href=\"%s\">こちら</a>とリンクを保存を選択するか、対象をファイルに保存。"
+
+#: admin/paypal-backuprestore.php:63
+#, php-format
+msgid ""
+"Backup file could not be created.  Please check that the %s directory is "
+"writeable."
+msgstr ""
+"バックアップファイルを作成できませんでした。ご確認ください%sディレクトリに書き込みがされています。"
+
+#: admin/paypal-backuprestore.php:69
+msgid "No file was uploaded."
+msgstr "アップロードされたファイルがありません。"
+#: admin/paypal-backuprestore.php:95
+msgid "Backup data has been restored!"
+msgstr "バックアップデータが復元されています！"
+#: admin/paypal-backuprestore.php:117
+msgid "Backup Data"
+msgstr "バックアップデータ"
+#: admin/paypal-backuprestore.php:119
+msgid ""
+"Click the button below to download a backup file of your users, posts, "
+"categories and PayPal data."
+msgstr ""
+"下のボタンをクリックして、ユーザー、投稿、カテゴリとPayPalのデータのバックアップファイルをダウンロードします。"
+
+#: admin/paypal-backuprestore.php:121
+msgid "Download Backup File"
+msgstr "ダウンロードのバックアップファイル"
+#: admin/paypal-backuprestore.php:127 admin/paypal-backuprestore.php:135
+msgid "Restore Data"
+msgstr "復元データ"
+#: admin/paypal-backuprestore.php:129
+msgid "Restore a previously generated PayPAL backup file."
+msgstr "以前に生成PayPalのバックアップファイルを復元します。"
+#: admin/paypal-backuprestore.php:130
+msgid ""
+"<strong>Important: This tool replaces all existing users (except for admin), "
+"posts, pages and categories!</strong>"
+msgstr ""
+"<strong>重要：このツール</strong> （管理者<strong>）を除くすべての既存のユーザーに代わる、投稿、ページのカテゴリを！</strong>"
+
+#: admin/paypal-backuprestore.php:131
+msgid "Backup File:"
+msgstr "バックアップファイル："
+#: admin/paypal-customfields.php:43
+msgid "Custom Field Deleted"
+msgstr "カスタムフィールドの削除"
+#: admin/paypal-customfields.php:55 admin/paypal-customfields.php:112
+msgid "Name is required"
+msgstr "名が必要です"
+#: admin/paypal-customfields.php:75
+msgid "Custom Field Created"
+msgstr "カスタムフィールドの作成"
+#: admin/paypal-customfields.php:101
+msgid "Custom Fields Sorting Updated"
+msgstr "カスタムフィールドの更新を並べ替える"
+#: admin/paypal-customfields.php:177
+msgid " Registration customization"
+msgstr "登録カスタマイズ"
+#: admin/paypal-customfields.php:179
+msgid ""
+"Drag the fields from the Custom Fields container into the Registration Form "
+"block. Once there, you can drag the fields to change the order that they "
+"will be shown on the registration form."
+msgstr ""
+"登録フォームのブロックには、カスタムフィールドのコンテナからのフィールドをドラッグします。そこでは、彼らが登録フォームに表示される変更するには、フィールドをドラッグすることもできます。"
+
+#: admin/paypal-customfields.php:189
+msgid "Registration field order"
+msgstr "登録フィールドオーダー"
+#: admin/paypal-customfields.php:211
+msgid "Custom Fields"
+msgstr "カスタムフィールド"
+#: admin/paypal-customfields.php:255
+msgid " Custom Registration Fields"
+msgstr "カスタム登録フィールド"
+#: admin/paypal-customfields.php:260
+msgid "Name"
+msgstr "名前"
+#: admin/paypal-customfields.php:261
+msgid "Type"
+msgstr "種類"
+#: admin/paypal-customfields.php:262
+msgid "Required"
+msgstr "必要な"
+#: admin/paypal-customfields.php:263
+msgid "Read Only"
+msgstr "読み取り専用"
+#: admin/paypal-customfields.php:264 admin/paypal-modules.php:71
+msgid "Action"
+msgstr "アクション"
+#: admin/paypal-customfields.php:270 admin/paypal-customfields.php:271
+#: admin/paypal-settings.php:71 modules/paypal_paypal.php:832
+msgid "Yes"
+msgstr "はい"
+#: admin/paypal-customfields.php:270 admin/paypal-customfields.php:271
+#: admin/paypal-settings.php:72 modules/paypal_paypal.php:831
+msgid "No"
+msgstr "いいえ"
+#: admin/paypal-customfields.php:273 admin/paypal-profile.php:22
+#: admin/paypal-profile.php:131 wp-member-main.php:712 wp-member-main.php:891
+msgid "Terms and Conditions"
+msgstr "利用規約"
+#: admin/paypal-customfields.php:273 admin/paypal-profile.php:22
+#: admin/paypal-profile.php:131 wp-member-main.php:712 wp-member-main.php:788
+#: wp-member-main.php:895
+msgid "Subscription Introduction"
+msgstr "会員制の導入"
+#: admin/paypal-customfields.php:274 admin/paypal-customfields.php:276
+#: admin/paypal-customfields.php:282
+msgid "Edit"
+msgstr "編集"
+#: admin/paypal-customfields.php:275 admin/paypal-profile.php:22
+#: admin/paypal-profile.php:131 wp-member-main.php:710 wp-member-main.php:790
+#: wp-member-main.php:897
+msgid "Subscription Options"
+msgstr "購読オプション"
+#: admin/paypal-customfields.php:277 admin/paypal-customfields.php:333
+#: admin/paypal-customfields.php:334 admin/paypal-profile.php:24
+#: admin/paypal-profile.php:133 wp-member-main.php:714 wp-member-main.php:848
+#: wp-member-main.php:901
+msgid "Birthdate"
+msgstr "誕生日"
+#: admin/paypal-customfields.php:277 admin/paypal-customfields.php:333
+#: admin/paypal-customfields.php:334 admin/paypal-profile.php:28
+#: admin/paypal-profile.php:141 wp-member-main.php:718 wp-member-main.php:851
+#: wp-member-main.php:905
+msgid "Country"
+msgstr "国"
+#: admin/paypal-customfields.php:282
+msgid "Are you sure you want to delete this field?"
+msgstr "あなたがこのフィールドを削除してもよろしいですか？"
+#: admin/paypal-customfields.php:282 admin/paypal-subscription.php:107
+#: includes/admin-functions.php:334
+msgid "Delete"
+msgstr "削除する"
+#: admin/paypal-customfields.php:296
+msgid "There are no custom fields set"
+msgstr "カスタムフィールドが設定されている"
+#: admin/paypal-customfields.php:338
+msgid "Edit Custom Field"
+msgstr "編集カスタムフィールド"
+#: admin/paypal-customfields.php:340 admin/paypal-customfields.php:371
+msgid "Name:"
+msgstr "名："
+#: admin/paypal-customfields.php:343 admin/paypal-customfields.php:374
+msgid "Input Type:"
+msgstr "入力タイプ："
+#: admin/paypal-customfields.php:345 admin/paypal-customfields.php:376
+msgid "Text Field (Single Line)"
+msgstr "テキストフィールド（シングルライン）"
+#: admin/paypal-customfields.php:346 admin/paypal-customfields.php:377
+msgid "Text Area (Multi-Line)"
+msgstr "テキストエリア（マルチライン）"
+#: admin/paypal-customfields.php:349 admin/paypal-customfields.php:381
+msgid "Initial Value:"
+msgstr "初期値："
+#: admin/paypal-customfields.php:352 admin/paypal-customfields.php:384
+msgid "Readonly"
+msgstr "読み取り専用"
+#: admin/paypal-customfields.php:354 admin/paypal-customfields.php:386
+msgid "Required Field"
+msgstr "必要なフィールド"
+#: admin/paypal-customfields.php:358
+msgid "Update Custom Field"
+msgstr "更新プログラムのカスタムフィールド"
+#: admin/paypal-customfields.php:369
+msgid " Create Custom Field"
+msgstr "カスタムフィールドを作成する"
+#: admin/paypal-customfields.php:389
+msgid "Create Custom Field"
+msgstr "カスタムフィールドを作成する"
+#: admin/paypal-members.php:7
+msgid "Status, Account Type and Expire Date are set. No changes applied."
+msgstr "ステータスは、アカウントの種類と有効期限を設定されています。変更は適用されます。"
+#: admin/paypal-members.php:10
+msgid "Status value not set"
+msgstr "ステータス値が設定されていない"
+#: admin/paypal-members.php:18
+msgid "Expire Month is not set"
+msgstr "月の有効期限を設定されていません"
+#: admin/paypal-members.php:20
+msgid "Expire Year not set"
+msgstr "年の有効期限は設定"
+#: admin/paypal-members.php:53
+msgid "No users selected."
+msgstr "はユーザーが選択。"
+#: admin/paypal-members.php:58
+msgid "Selected user(s) updated."
+msgstr "選択したユーザー（秒）を更新。"
+#: admin/paypal-members.php:98
+msgid "&laquo; Previous"
+msgstr "«前"
+#: admin/paypal-members.php:100
+msgid "Next &raquo;"
+msgstr "次のページ»"
+#: admin/paypal-members.php:102
+msgid "Page"
+msgstr "ページ"
+#: admin/paypal-members.php:111
+msgid "Number of members per page: "
+msgstr "1ページあたりのメンバー数："
+#: admin/paypal-members.php:113
+msgid "Reload"
+msgstr "リロード"
+#: admin/paypal-members.php:188
+msgid " Members"
+msgstr "メンバー"
+#: admin/paypal-members.php:198
+msgid "Update controls"
+msgstr "更新プログラムの制御"
+#: admin/paypal-members.php:222 admin/paypal-subscription.php:106
+#: includes/admin-functions.php:274 includes/admin-functions.php:382
+msgid "Account Type"
+msgstr "アカウントの種類"
+#: admin/paypal-members.php:244
+msgid "Expire Date:"
+msgstr "有効期限："
+#: admin/paypal-members.php:244 wp-member-main.php:1690
+msgid "Day"
+msgstr "日"
+#: admin/paypal-members.php:245 wp-member-main.php:1682
+msgid "Month"
+msgstr "月"
+#: admin/paypal-members.php:253 wp-member-main.php:1698
+msgid "Year"
+msgstr "年"
+#: admin/paypal-members.php:255
+msgid ""
+"<b>Tip</b>: If you leave the -Day- box blank, the system will automatically "
+"assign the last day of the month.<br /><b>Note</b>: All fields are required"
+msgstr ""
+"<b>ヒント</b> ：日間の場合は空白のボックスが、自動的にその月の最後の一日を代入するシステムのままにします。 <br /> <b>注意</b> ：すべてのフィールドが必要です。"
+
+#: admin/paypal-members.php:260
+msgid "Update &raquo;"
+msgstr "アップデート»"
+#: admin/paypal-members.php:271
+msgid "There are no subscribed users."
+msgstr "購読しているユーザーはありません。"
+#: admin/paypal-messages.php:8
+msgid "Messages Saved"
+msgstr "メッセージを保存"
+#: admin/paypal-messages.php:25
+msgid " Messages"
+msgstr "メッセージ"
+#: admin/paypal-messages.php:29
+msgid "Main Messages"
+msgstr "主なメッセージ"
+#: admin/paypal-messages.php:31
+msgid ""
+"<strong>Subscription Introduction</strong> - Text that appears before the "
+"subscription options."
+msgstr ""
+"<strong>定期購読の紹介</strong> -テキストの前には、サブスクリプションのオプションが表示されます。"
+
+#: admin/paypal-messages.php:31
+msgid "<strong>Hint:</strong> Use HTML format."
+msgstr "<strong>ヒント：</strong>使用してHTML形式。"
+#: admin/paypal-messages.php:34
+msgid ""
+"<strong>Terms &amp; Conditions</strong> - Terms &amp; Conditions text that "
+"appears on registration screen, if user did not agree to this he can not "
+"register."
+msgstr ""
+"<strong>利用規約</strong> -条項および条件は、登録画面に表示されるテキスト、彼がこの場合、ユーザー登録することはできませんすることに同意していない。"
+
+#: admin/paypal-messages.php:37
+msgid ""
+"<strong>Message to replace private parts of a post</strong> - This replaces "
+"the text inside the [private]...[/private] tags in your posts and pages when "
+"the viewer is not logged in or do not have the correct account type."
+msgstr ""
+"<strong>メッセージは</strong> 、 <strong>ポストの専用部品を交換する-</strong>これは、お客様の投稿とのページからログインしていない場合、またはビューアでは、正しいアカウントの種類を持っていないタグが[囲みますプライベート]プライベート内のテキストに置き換えられます。"
+
+#: admin/paypal-messages.php:42
+msgid "Error Messages"
+msgstr "エラーメッセージ"
+#: admin/paypal-messages.php:44
+msgid ""
+"In the below fields you can configure error messages that appear to users on "
+"some steps. If you want to show some user username just use <strong>&quot;"
+"[[USERNAME]]&quot;</strong> without the quotes and it will be replaced "
+"automatically by username."
+msgstr ""
+"フィールドの下には、ユーザーにいくつかの手順に表示されるエラーメッセージを構成することができます。場合は&quot;使用する一部のユーザーのユーザー名を[ [ユーザー名は<strong>引用符] ] &quot;で</strong>のユーザー名が自動的に取って代わられることを示してほしい。"
+
+#: admin/paypal-messages.php:45
+msgid ""
+"<strong>Login error message for Inactive accounts</strong> - Error message "
+"that appears when login fails because the user has not subscribed yet, or "
+"his/her account is inactive for another reason."
+msgstr ""
+"<strong>これは</strong> 、 <strong>ユーザーはまだ</strong> 、 <strong>彼/彼女のアカウントを別</strong>の理由で無効になっています登録していない非アクティブなアカウントのログインエラーのメッセージ-エラーメッセージが表示されたら、ログインは失敗します。"
+
+#: admin/paypal-messages.php:48
+msgid ""
+"<strong>Login error message for Expired accounts</strong> - Error message "
+"that appears when login fails because the user's subscription has expired."
+msgstr ""
+"<strong>これは</strong> 、 <strong>ユーザ</strong>の<strong>登録期限が切れている</strong>期限切れのアカウントのログインエラーメッセージが表示さ-とエラーメッセージが表示されたら、ログインは失敗します。"
+
+#: admin/paypal-messages.php:51
+msgid ""
+"<strong>Login error message for Expired TRIAL accounts</strong> - Error "
+"message that appears when login fails because the user's trial account has "
+"expired."
+msgstr ""
+"<strong>これは</strong> 、 <strong>ユーザー</strong>の<strong>トライアルアカウントの有効期限が切れて期限切れの</strong>トライアルアカウントのログインエラーメッセージが表示さ-とエラーメッセージが表示されたら、ログインは失敗します。"
+
+#: admin/paypal-messages.php:54
+msgid ""
+"<strong>Login error message for Pending accounts</strong> - Error message "
+"that appears when login fails because the user's subscription payment is "
+"pending."
+msgstr ""
+"<strong>保留中のアカウントにログインエラーのメッセージ-</strong>ログイン時にエラーメッセージ<strong>が</strong>表示されますので、ユーザーの購読料のお支払いは保留されて失敗します。"
+
+#: admin/paypal-messages.php:57
+msgid ""
+"<strong>Login error message for unexpected reason</strong> - Error message "
+"that appears when login fails for an unexpected reason. This will never show "
+"up if all systems work as designed."
+msgstr ""
+"<strong>予期しない理由でのログインエラーのメッセージ-</strong>が表示されたら、ログイン時にエラーメッセージが予期しない理由で失敗する。この場合、すべてのシステム機能として設計を表示することはありません。"
+
+#: admin/paypal-messages.php:61
+msgid "Save Messages"
+msgstr "割引率のメッセージ"
+#: admin/paypal-modules.php:62
+msgid " Payment Gateways"
+msgstr "支払ゲートウェイ"
+#: admin/paypal-modules.php:67
+msgid "Gateway"
+msgstr "ゲートウェイ"
+#: admin/paypal-modules.php:68
+msgid "Version"
+msgstr "バージョン"
+#: admin/paypal-modules.php:69
+msgid "Description"
+msgstr "説明"
+#: admin/paypal-modules.php:70 includes/admin-functions.php:385
+msgid "Status"
+msgstr "地位"
+#: admin/paypal-modules.php:89
+#, php-format
+msgid "<a href=\"%1$s\">Edit</a> | <a href=\"%2$s\">Deactivate</a>"
+msgstr "<a href=\"%1$s\">編集</a> | <a href=\"%2$s\">停止</a>"
+#: admin/paypal-modules.php:93
+#, php-format
+msgid "<a href=\"%s\">Activate</a>"
+msgstr "<a href=\"%s\">有効に</a>"
+#: admin/paypal-profile.php:40
+msgid "Information Updated."
+msgstr "情報を更新。"
+#: admin/paypal-profile.php:53
+msgid "Your Membership Information"
+msgstr "あなたの会員情報"
+#: admin/paypal-profile.php:60 admin/paypal-profile.php:173
+msgid "Update Information &raquo;"
+msgstr "更新情報»"
+#: admin/paypal-profile.php:64
+msgid "Subscription Information"
+msgstr "購読情報"
+#: admin/paypal-profile.php:68 admin/paypal-setup.php:500
+#: includes/admin-functions.php:299 modules/paypal_paypal.php:193
+#: wp-member-main.php:794 wp-member-main.php:976 wp-member-main.php:1128
+#: wp-member-main.php:1209
+msgid "Days"
+msgstr "日"
+#: admin/paypal-profile.php:69 admin/paypal-setup.php:501
+#: includes/admin-functions.php:300 modules/paypal_paypal.php:194
+#: wp-member-main.php:795 wp-member-main.php:977 wp-member-main.php:1129
+#: wp-member-main.php:1210
+msgid "Months"
+msgstr "か月"
+#: admin/paypal-profile.php:70 admin/paypal-setup.php:502
+#: includes/admin-functions.php:301 modules/paypal_paypal.php:195
+#: wp-member-main.php:796 wp-member-main.php:978 wp-member-main.php:1130
+#: wp-member-main.php:1211
+msgid "Years"
+msgstr "年"
+#: admin/paypal-profile.php:74
+#, php-format
+msgid "%1$s %2$s"
+msgstr "%1$s %2$s"
+#: admin/paypal-profile.php:74 modules/paypal_free.php:13
+#: wp-member-main.php:810
+msgid "Free"
+msgstr "自由な"
+#: admin/paypal-profile.php:79
+msgid "Subscription Duration:"
+msgstr "購読期間："
+#: admin/paypal-profile.php:83
+msgid "Last Payment Date:"
+msgstr "最終支払日："
+#: admin/paypal-profile.php:87
+msgid "Account Expiration Date:"
+msgstr "アカウントの有効期限日："
+#: admin/paypal-profile.php:91
+msgid "Amount Paid:"
+msgstr "支払額："
+#: admin/paypal-profile.php:98
+msgid "Account Type:"
+msgstr "アカウントの種類："
+#: admin/paypal-profile.php:102
+msgid "Upgrade / Downgrade your account"
+msgstr "アップグレード/ダウン、お客様のアカウント"
+#: admin/paypal-profile.php:116
+msgid "Membership Information"
+msgstr "会員情報"
+#: admin/paypal-profile.php:167
+msgid "There are no fields defined."
+msgstr "存在しないフィールドを定義しています。"
+#: admin/paypal-settings.php:13
+msgid "System Updated"
+msgstr "システム更新"
+#: admin/paypal-settings.php:25
+msgid " General Settings"
+msgstr "一般設定"
+#: admin/paypal-settings.php:29 modules/paypal_free.php:171
+#: modules/paypal_paypal.php:698 modules/paypal_trial.php:188
+msgid "Main Settings"
+msgstr "メイン設定"
+#: admin/paypal-settings.php:30
+msgid "Your Email Address"
+msgstr "あなたのEmailアドレス"
+#: admin/paypal-settings.php:32
+msgid "Email address where you want to receive notifications."
+msgstr "メールアドレスが通知を受信したい。"
+#: admin/paypal-settings.php:34
+msgid "Your Subscription Name"
+msgstr "ご購読の名前"
+#: admin/paypal-settings.php:36
+msgid "The name of the membership to display on the order form."
+msgstr "会員の名前は、注文フォームに表示する。"
+#: admin/paypal-settings.php:38
+msgid "Your name or your site name"
+msgstr "あなたの名前やサイト名"
+#: admin/paypal-settings.php:40
+msgid "The name that appears as the email sender."
+msgstr "は、電子メール送信者として表示される名前。"
+#: admin/paypal-settings.php:44
+msgid "Email Settings"
+msgstr "メール設定"
+#: admin/paypal-settings.php:46
+msgid "From Name"
+msgstr "名から"
+#: admin/paypal-settings.php:48
+msgid "Name of the sender (you or your site&rsquo;s name)"
+msgstr "送信者の名前（あなたやあなたのサイトの名前）"
+#: admin/paypal-settings.php:50
+msgid "From Email"
+msgstr "メールから"
+#: admin/paypal-settings.php:53
+msgid "Mailer"
+msgstr "メーラー"
+#: admin/paypal-settings.php:55
+msgid "PHP Mail"
+msgstr "PHPのメール"
+#: admin/paypal-settings.php:56
+msgid "SMTP"
+msgstr "のSMTP"
+#: admin/paypal-settings.php:59
+msgid "SMTP Server"
+msgstr "SMTPサーバー"
+#: admin/paypal-settings.php:61
+msgid "Enter <em>ssl://smtp.gmail.com:465</em> to use GMail"
+msgstr "SSLを入力してください<em>： / / smtp.gmail.com ： 465</em> Gmailを使用する"
+#: admin/paypal-settings.php:63
+msgid "SMTP Username"
+msgstr "のSMTPユーザ名"
+#: admin/paypal-settings.php:66
+msgid "SMTP Password"
+msgstr "のSMTPパスワード"
+#: admin/paypal-settings.php:69
+msgid "SMTP Server Requires Authentication"
+msgstr "SMTPサーバーは認証が必要"
+#: admin/paypal-settings.php:77
+msgid "Access Settings"
+msgstr "アクセス設定"
+#: admin/paypal-settings.php:78
+msgid ""
+"Here you can configure if you want to make whole blog available only to "
+"registered and logged in users or not. You can set also if you want all your "
+"private posts to be visible to everyone after deactivation of <strong>wp-"
+"Member</strong>."
+msgstr ""
+"ここで構成することができます場合は全体のブログのみを登録していないユーザーまたは記録を入手できるようにします。また、民間の場合は、すべての記事を誰にでもwpの不活性化が完了すると表示されるようにメンバーを<strong>設定することができます</strong> 。"
+
+#: admin/paypal-settings.php:81 admin/paypal-settings.php:82
+msgid "Public access"
+msgstr "パブリックアクセス"
+#: admin/paypal-settings.php:83
+msgid ""
+"<p><strong>Enables/disables public access</strong> <br />CHECKED = All "
+"website visitors can access your website content.<br />UNCHECKED = All "
+"website visitors will be redirected to Login / Signup page.</p>"
+msgstr ""
+"<p> <strong>有効/無効のパブリックアクセス</strong> <br />すべてのウェブサイトの訪問者をあなたのサイトのコンテンツにアクセスすることができます=をチェックした。 <br />オフ=全てのウェブサイトの訪問者にリダイレクトされるログイン/登録ページをご覧ください。 </p>"
+
+#: admin/paypal-settings.php:87
+msgid "Plugin Deactivation Protection"
+msgstr "プラグインを停止無し"
+#: admin/paypal-settings.php:88
+msgid "Private Status"
+msgstr "民間の状況"
+#: admin/paypal-settings.php:89
+msgid ""
+"<p>If checked, all content assigned to account types different than "
+"<strong>Free and Guest</strong> will be modified to have the &quot;"
+"<strong>Private</strong>&quot; status when PayPAL is deactivated.<br />If "
+"unchecked, all visitors will be able to view ALL posts/pages once PayPAL is "
+"deactivated.</p>"
+msgstr ""
+"<p>チェックは、すべてのコンテンツをユーザーが&quot; &quot;個人のステータスが<strong>非アクティブ化され</strong>て<strong>いる</strong> PayPalのように変更されると<strong>は</strong>異なる種類の<strong>無料</strong>のアカウントに割り当てられている。 <br />オフの場合は、すべての訪問者すべての投稿を閲覧できるようになります/ PayPalのページを一度停止しています。 </p>"
+
+#: admin/paypal-settings.php:93
+msgid "Enable use of Account Types"
+msgstr "アカウントの種類を有効に使う"
+#: admin/paypal-settings.php:95
+msgid ""
+"If checked, you will be able to specify which posts, pages and categories "
+"can be seen and accessed by a specific account type.<br />If unchecked, all "
+"the posts and pages under public categories will be available to all "
+"subscribers.<br /><strong>NOTE:</strong> The \"Guest\", \"Trial\" and \"Free"
+"\" account types will still work even if this is disabled."
+msgstr ""
+"チェックは、どの記事を、ページのカテゴリを指定するために見られるとは、特定のアカウントの種類によってアクセスできるようになります。 <br />オフの場合、すべての記事を、公共部門の下のページのすべての加入者に提供される。 <br /> <strong>注：</strong> \"Guest\" 、 \"Trial\"と\"Free\"アカウントの種類は、この無効になっている場合でも動作します。"
+
+#: admin/paypal-settings.php:101
+msgid "Save Settings"
+msgstr "割引率の設定"
+#: admin/paypal-setup.php:14 admin/paypal-setup.php:246
+msgid "Please make sure the form is complete. All fields are required."
+msgstr "以下のフォームにしてください。すべてのフィールドが必要です。"
+#: admin/paypal-setup.php:93 wp-member-main.php:92
+#, php-format
+msgid ""
+"Your trial account has expired. To continue using this site, please make a "
+"<a href=\"%s\">subscription payment</a> to re-activate your account."
+msgstr ""
+"お試し版アカウントの有効期限が切れた。このサイトを使用して、再登録のお支払い<a href=\"%s\">を行ってください続行</a>するには、アカウントを有効にします。"
+
+#: admin/paypal-setup.php:217
+msgid "Data Successfully Updated!"
+msgstr "データを更新しました！"
+#: admin/paypal-setup.php:249
+msgid "Please enter a valid duration (numeric) value."
+msgstr "してください（ ）値の数値は、有効な期間を入力してください。"
+#: admin/paypal-setup.php:303
+msgid "Data Successfully Converted!"
+msgstr "データが正常に変換！"
+#: admin/paypal-setup.php:328
+msgid ""
+"WP-MEMBER needs to be setup or migrated from a previous install. Please "
+"complete the setup form below."
+msgstr ""
+"WP -メンバー設定する必要がある、または以前のインストールから移行。下記のフォームは、セットアップを完了します。"
+
+#: admin/paypal-setup.php:343
+msgid "Data Migration"
+msgstr "データ移行"
+#: admin/paypal-setup.php:345
+#, php-format
+msgid "Setup (%s)"
+msgstr "セットアップ（ %s ）"
+#: admin/paypal-setup.php:347 admin/paypal-setup.php:455
+#, php-format
+msgid ""
+"Before proceeding, please make sure that you have configured the <a href=\"%s"
+"\">Account Types</a>."
+msgstr ""
+"前に進んで、その設定は、アカウントの種類がある<a href=\"%s\">ことを確認してください</a> 。"
+
+#: admin/paypal-setup.php:352
+msgid "Posts and Pages"
+msgstr "記事とページ"
+#: admin/paypal-setup.php:353
+msgid "Private Posts and Pages"
+msgstr "個人の記事とページ"
+#: admin/paypal-setup.php:353 admin/paypal-setup.php:462
+msgid "Check All"
+msgstr "すべてをチェック"
+#: admin/paypal-setup.php:353 admin/paypal-setup.php:462
+msgid "Uncheck All"
+msgstr "すべての選択を解除"
+#: admin/paypal-setup.php:354
+msgid ""
+"Select the account types to which you&rsquo;d like to make private posts and "
+"pages available."
+msgstr ""
+"民間の記事やページを選択して利用できるようにしたいのですがどの種類のアカウント。"
+
+#: admin/paypal-setup.php:368
+msgid "Users"
+msgstr "ユーザ"
+#: admin/paypal-setup.php:369
+msgid "Subscribed Users (Paid Users)"
+msgstr "登録ユーザー（ ）ユーザーは有料"
+#: admin/paypal-setup.php:370
+msgid "Select the account type that you would like to assign to paid users."
+msgstr "アカウントの種類を選択し、支払済みのユーザーに割り当てることと思います。"
+#: admin/paypal-setup.php:379 admin/paypal-setup.php:395
+#: admin/paypal-setup.php:411
+#, php-format
+msgid "Package: %1$s Month(s) for $%2$s"
+msgstr "パッケージ： %1$s月（秒） $ %2$s用"
+#: admin/paypal-setup.php:446
+msgid "Migrate Data"
+msgstr "移行データ"
+#: admin/paypal-setup.php:451
+msgid "Data Conversion"
+msgstr "データ変換"
+#: admin/paypal-setup.php:453
+#, php-format
+msgid " Setup (%s)"
+msgstr "セットアップ（ %s ）"
+#: admin/paypal-setup.php:460
+msgid "Posts, Pages and Users"
+msgstr "、投稿ページとユーザ"
+#: admin/paypal-setup.php:462
+msgid "Existing Posts and Pages"
+msgstr "既存の記事とページ"
+#: admin/paypal-setup.php:464
+msgid ""
+"Here you can set for which account types existing posts and pages will be "
+"available."
+msgstr ""
+"ここで設定することができますがご利用されますが、既存の記事やページの種類のアカウント。"
+
+#: admin/paypal-setup.php:478
+msgid "Existing Users"
+msgstr "既存のユーザー"
+#: admin/paypal-setup.php:480
+msgid "Assign an account type to your existing users."
+msgstr "既存のユーザーには、アカウントの種類を割り当てます。"
+#: admin/paypal-setup.php:494
+msgid ""
+"Account Duration for users (required if the account type selected above is "
+"not free)."
+msgstr ""
+"ユーザーアカウントの期間（必要な場合は、アカウントの種類を選択の上、無料ではありません） 。"
+
+#: admin/paypal-setup.php:497
+msgid "Duration:"
+msgstr "期間："
+#: admin/paypal-setup.php:507
+msgid "Setup Data"
+msgstr "セットアップデータ"
+#: admin/paypal-simplenewsletter.php:11
+msgid "Subject is empty"
+msgstr "件名は空です"
+#: admin/paypal-simplenewsletter.php:15
+msgid "Message is empty"
+msgstr "メッセージが空です"
+#: admin/paypal-simplenewsletter.php:31
+msgid " Subscribers"
+msgstr "チャンネル登録者"
+#: admin/paypal-simplenewsletter.php:57
+#, php-format
+msgid "Emails sent to %d users!"
+msgstr "電子メールをユーザーに送信%d ！"
+#: admin/paypal-simplenewsletter.php:66
+msgid "Please fix the errors below:"
+msgstr "下記のエラーを修正："
+#: admin/paypal-simplenewsletter.php:81
+msgid " Simple Newsletter"
+msgstr "簡単なニュースレター"
+#: admin/paypal-simplenewsletter.php:82
+msgid "NOTE: All fields are required"
+msgstr "注：全てのフィールドが必要です。"
+#: admin/paypal-simplenewsletter.php:86
+msgid "Message Content"
+msgstr "メッセージの内容"
+#: admin/paypal-simplenewsletter.php:88
+msgid "Recipients (by status)"
+msgstr "受信者の状態（ ）"
+#: admin/paypal-simplenewsletter.php:90
+msgid "All Subscribers"
+msgstr "すべてのチャンネル登録者"
+#: admin/paypal-simplenewsletter.php:91 includes/admin-functions.php:390
+#: modules/paypal_paypal.php:625 wp-member-main.php:500
+msgid "Inactive"
+msgstr "非表示"
+#: admin/paypal-simplenewsletter.php:92 includes/admin-functions.php:391
+#: modules/paypal_paypal.php:626 wp-member-main.php:498
+msgid "Active"
+msgstr "アクティブ"
+#: admin/paypal-simplenewsletter.php:93 includes/admin-functions.php:393
+#: modules/paypal_paypal.php:628 wp-member-main.php:501
+msgid "Pending"
+msgstr "未決定の"
+#: admin/paypal-simplenewsletter.php:94 includes/admin-functions.php:392
+#: modules/paypal_paypal.php:627 wp-member-main.php:499
+msgid "Expired"
+msgstr "期限切れ"
+#: admin/paypal-simplenewsletter.php:95 wp-member-main.php:502
+msgid "Trial Expired"
+msgstr "試用期限切れ"
+#: admin/paypal-simplenewsletter.php:96 includes/admin-functions.php:394
+#: modules/paypal_paypal.php:629 wp-member-main.php:497
+msgid "Error"
+msgstr "エラー"
+#: admin/paypal-simplenewsletter.php:100
+msgid "Message Subject"
+msgstr "メッセージの件名"
+#: admin/paypal-simplenewsletter.php:103
+msgid ""
+"Message - Simple Newsletter does NOT support html formatting in emails. All "
+"emails sent using Simple Newsletter will be plain text."
+msgstr ""
+"メッセージ-シンプルなニュースレターは、メール内のHTMLの書式がサポートされています。すべての電子メールニュースレターシンプルなテキストを使用して送信されます。"
+
+#: admin/paypal-simplenewsletter.php:107
+msgid "Send Email"
+msgstr "メールを送信"
+#: admin/paypal-subscription.php:24
+msgid "Subscription Packs Updated"
+msgstr "購読パック更新"
+#: admin/paypal-subscription.php:36
+msgid "Account Type Created"
+msgstr "アカウントの種類を作成"
+#: admin/paypal-subscription.php:67
+msgid "Account Type Deleted"
+msgstr "アカウントの種類が削除されました"
+#: admin/paypal-subscription.php:82
+msgid " Subscription Settings"
+msgstr "購読の設定"
+#: admin/paypal-subscription.php:87 modules/paypal_paypal.php:729
+msgid "Subscription options"
+msgstr "購読オプション"
+#: admin/paypal-subscription.php:88
+msgid ""
+"Below you can setup as many registration options as you like, each can have "
+"different subscription name, period and price."
+msgstr ""
+"必要な数の登録をオプションとして設定することができます以下に、それぞれ別の登録名は、期間と価格を持つことができますように。"
+
+#: admin/paypal-subscription.php:93
+msgid "Add more packages &raquo;"
+msgstr "他のパッケージを追加»"
+#: admin/paypal-subscription.php:94
+msgid "<b>Tip</b>: Please save your settings after changing each subscription."
+msgstr "<b>ヒント</b> ：各サブスクリプションを変更した後に設定を保存します。"
+#: admin/paypal-subscription.php:98
+msgid "Save Subscription Options &raquo;"
+msgstr "保存購読オプション»"
+#: admin/paypal-subscription.php:102
+msgid "Membership Levels"
+msgstr "会員レベル"
+#: admin/paypal-subscription.php:122
+msgid "Delete and move users of this type to"
+msgstr "このタイプのユーザーを削除して移動する"
+#: admin/paypal-subscription.php:139
+msgid "Cannot delete this type"
+msgstr "このタイプを削除できません"
+#: admin/paypal-subscription.php:153
+msgid "Create a new membership level"
+msgstr "新会員のレベルを作成する"
+#: admin/paypal-subscription.php:156
+msgid "Create membership level &raquo;"
+msgstr "会員のレベルを作成»"
+#: admin/paypal-uninstall.php:15
+msgid "<p>WP-MEMBER system data found.</p>"
+msgstr "<p> WP -会員システムのデータが見つかりました。 </p>"
+#: admin/paypal-uninstall.php:17
+msgid "WP-MEMBER system data not found. Procedure aborted."
+msgstr "WP -会員システムデータが見つかりません。手続きは中止されました。"
+#: admin/paypal-uninstall.php:20
+msgid "<p>Removing user data...</p>"
+msgstr "<p>ユーザデータを削除しています... </p>"
+#: admin/paypal-uninstall.php:29
+#, php-format
+msgid "<p>Removed data from %s users.</p>"
+msgstr "<p> %sユーザーからの削除データ。 </p>"
+#: admin/paypal-uninstall.php:58
+#, php-format
+msgid "<p>Removed data from %d posts.</p>"
+msgstr "<p> %d記事から削除します。 </p>"
+#: admin/paypal-uninstall.php:60
+msgid "<p>Removed system data.</p>"
+msgstr "<p>システムデータを削除します。 </p>"
+#: admin/paypal-uninstall.php:64
+msgid "<p><strong>WP-MEMBER data cleared.</strong></p>"
+msgstr "<p> <strong>WP -メンバーデータをクリアされます。</strong> </p>"
+#: admin/paypal-uninstall.php:66
+#, php-format
+msgid "<p style=\"color:red;\">Error: %s</p>"
+msgstr "<p style=\"color:red;\">エラー： %s </p>"
+#: admin/paypal-uninstall.php:69
+msgid "<p><a href=\""
+msgstr ""
+#: admin/paypal-uninstall.php:74
+msgid " Uninstall WP-MEMBER"
+msgstr "アンインストールWP -メンバー"
+#: admin/paypal-uninstall.php:75
+msgid "Are you sure you want to delete the data?"
+msgstr "場合は、データを削除してもよろしいですか？"
+#: admin/paypal-uninstall.php:76
+msgid ""
+"This utility deletes ALL WP-MEMBER data from the database and uninstalls the "
+"plugin."
+msgstr ""
+"このユーティリティはすべてのWP -メンバーのデータをデータベースから削除され、プラグインをアンインストールします。"
+
+#: admin/paypal-uninstall.php:77
+msgid ""
+"We recomend you backup your database before clicking on \"remove data\"."
+msgstr ""
+"私たちは、あなたのデータベース\"remove data\"をクリックする前にバックアップをお勧めします。"
+
+#: admin/paypal-uninstall.php:80
+msgid "Remove Data"
+msgstr "削除データ"
+#: admin/paypal-uninstall.php:81
+msgid "Cancel"
+msgstr "キャンセル"
+#: includes/admin-functions.php:271
+msgid "Subscription Duration"
+msgstr "購読期間"
+#: includes/admin-functions.php:272
+msgid "Duration Type"
+msgstr "期間の種類"
+#: includes/admin-functions.php:273
+msgid "Membership Cost (eg: 10.00)"
+msgstr "年会費（例： 10.00 ）"
+#: includes/admin-functions.php:380
+msgid "Username"
+msgstr "ユーザ名"
+#: includes/admin-functions.php:380
+msgid "ID"
+msgstr "番号"
+#: includes/admin-functions.php:381
+msgid "Email"
+msgstr "Eメール"
+#: includes/admin-functions.php:383
+msgid "Registration Date"
+msgstr "登録日"
+#: includes/admin-functions.php:383
+msgid "Last payment"
+msgstr "前回のお支払い"
+#: includes/admin-functions.php:383
+msgid "Expire date"
+msgstr "有効期限日"
+#: includes/admin-functions.php:384
+msgid "Fee"
+msgstr "手数料"
+#: includes/admin-functions.php:398 modules/paypal_paypal.php:563
+msgid "months"
+msgstr "か月"
+#: includes/admin-functions.php:399 modules/paypal_paypal.php:565
+msgid "days"
+msgstr "日"
+#: includes/admin-functions.php:400 modules/paypal_paypal.php:564
+msgid "years"
+msgstr "年"
+#: includes/admin-functions.php:410 includes/admin-functions.php:411
+#: includes/admin-functions.php:415
+msgid "N/A"
+msgstr "Ñ /"
+#: includes/admin-functions.php:418
+#, php-format
+msgid "%1$s %2$s per %3$s %4$s"
+msgstr "%3$s %4$s 1 %1$s %2$s"
+#: modules/paypal_free.php:14
+msgid ""
+"<p>Allow users to signup for a free account. You can set the number of years "
+"before a free account expires. To use this gateway, simply set the Account "
+"Type to \"Free\" on the Subscription Settings page.</p>"
+msgstr ""
+"<p>ユーザーは無料のアカウントの登録を許可してください。あなたは無料のアカウントを前に、年間の有効期限が切れるの数を設定することができます。このゲートウェイは、単に\"Free\"して[設定]ページでは、アカウントの種類を設定してください。 </p>"
+
+#: modules/paypal_free.php:47 wp-member-main.php:808 wp-member-main.php:1154
+msgid "Free Account"
+msgstr "無料会員登録"
+#: modules/paypal_free.php:49 modules/paypal_free.php:54
+#: modules/paypal_free.php:88
+msgid "Sign Up for a Free Account"
+msgstr "サインアップに無料でアカウントを作成して"
+#: modules/paypal_free.php:97 modules/paypal_trial.php:106
+msgid "POST Variables missing!"
+msgstr "POSTの変数が見つからない！"
+#: modules/paypal_free.php:110 modules/paypal_paypal.php:421
+#: modules/paypal_trial.php:120
+msgid "User cannot be found."
+msgstr "ユーザを発見することはできません。"
+#: modules/paypal_free.php:129
+msgid "Free Account Created"
+msgstr "無料のアカウントを作成"
+#: modules/paypal_free.php:157 modules/paypal_paypal.php:682
+#: modules/paypal_trial.php:174
+msgid "Options Updated"
+msgstr "オプションを更新"
+#: modules/paypal_free.php:167 modules/paypal_trial.php:184
+#, php-format
+msgid "%s Options"
+msgstr "%sオプション"
+#: modules/paypal_free.php:172
+msgid "Account Duration (in years)"
+msgstr "アカウント期間年（ ）"
+#: modules/paypal_free.php:174
+msgid "How many years before a free account expires"
+msgstr "何年前に無料のアカウントの有効期限が切れる"
+#: modules/paypal_free.php:176 modules/paypal_trial.php:189
+msgid "Button/Logo"
+msgstr "ボタン/ロゴ"
+#: modules/paypal_free.php:179 modules/paypal_paypal.php:714
+#: modules/paypal_trial.php:192
+msgid "Logo"
+msgstr "ロゴ"
+#: modules/paypal_free.php:186 modules/paypal_paypal.php:721
+#: modules/paypal_trial.php:199
+msgid "Description:"
+msgstr "説明："
+#: modules/paypal_free.php:191 modules/paypal_paypal.php:860
+#: modules/paypal_trial.php:204
+msgid "Update Options"
+msgstr "更新オプション"
+#: modules/paypal_free.php:214 modules/paypal_paypal.php:899
+#: modules/paypal_paypal.php:918 modules/paypal_paypal.php:937
+#: modules/paypal_paypal.php:956 modules/paypal_trial.php:225
+#, php-format
+msgid ""
+"The modules directory (%s) is not writable. Please set its permissions to "
+"755 or 777"
+msgstr ""
+"これらのモジュールのディレクトリ（ %s ）書き込みされていません。 755または777にしてください、そのアクセス許可を設定する"
+
+#: modules/paypal_free.php:221 modules/paypal_paypal.php:925
+#: modules/paypal_paypal.php:944 modules/paypal_paypal.php:963
+#: modules/paypal_trial.php:232
+#, php-format
+msgid "Unable to move file to %s"
+msgstr "%sにファイルを移動することはできません"
+#: modules/paypal_paypal.php:15
+msgid ""
+"<p>PayPal is an electronic money service which allows you to make payment to "
+"anyone online. You can choose to pay using your credit card, debit card, "
+"bank account, or PayPal balance and make secure purchases without revealing "
+"your credit card number or financial information.</p><p>All major credit and "
+"debit cards are accepted including Visa, Mastercard, American Express, "
+"Switch and Solo (plus many more).</p>"
+msgstr ""
+"<p>ペイパルができるようにするためには、電子マネーサービスは誰でもオンラインでのお支払い。お客様のクレジットカード、デビットカード、銀行口座、またはPayPalのバランスと安全なクレジットカード番号を使って買い物をする情報や財務情報を明かすことなく支払いを選ぶことができます。 </p><p>すべての主要なクレジットカードおよびデビットカードはビザ、マスターカード、アメリカンエクスプレス、スイッチとソロ（プラス、より多くの受け入れを含む） 。 </p>"
+
+#: modules/paypal_paypal.php:107 modules/paypal_paypal.php:128
+#: modules/paypal_paypal.php:168 modules/paypal_paypal.php:180
+msgid "Make payments with PayPal - it's fast, free and secure!"
+msgstr "PayPalで支払いをする-が速いのは、自由で安全な！"
+#: modules/paypal_paypal.php:345
+msgid "Error: Missing POST variables. Identification is not possible."
+msgstr "エラー： POST変数がありません。識別できない場合があります。"
+#: modules/paypal_paypal.php:395
+msgid "Response Error: Header not found"
+msgstr "レスポンスエラー：ヘッダーが見つかりません"
+#: modules/paypal_paypal.php:396
+msgid "Response Error: Unexpected HTTP response"
+msgstr "レスポンスエラー：予期しないHTTPレスポンス"
+#: modules/paypal_paypal.php:402
+msgid "Response Error: No content found in transaction response"
+msgstr "レスポンスエラー：コンテンツのトランザクション応答で発見"
+#: modules/paypal_paypal.php:403
+msgid "Response Error: Unexpected transaction response"
+msgstr "レスポンスエラー：予期しないトランザクション応答"
+#: modules/paypal_paypal.php:463 modules/paypal_paypal.php:486
+msgid "Last payment was successful"
+msgstr "前回のお支払いに成功しました。"
+#: modules/paypal_paypal.php:511
+msgid "Last payment was refunded or denied"
+msgstr "前回のお支払いを払い戻しましたまたは拒否"
+#: modules/paypal_paypal.php:517
+msgid "Customer did not include a confirmed shipping address"
+msgstr "配送先住所を確認した顧客が含まれていない"
+#: modules/paypal_paypal.php:518
+msgid "Funds not captured yet"
+msgstr "撮影した資金はまだない"
+#: modules/paypal_paypal.php:519
+msgid "eCheck that has not cleared yet"
+msgstr "eCheckまだクリアしていない"
+#: modules/paypal_paypal.php:520
+msgid "Payment waiting for approval by service provider"
+msgstr "決済サービス提供者による承認を待って"
+#: modules/paypal_paypal.php:521
+msgid "Payment waiting for service provider to handle multi-currency process"
+msgstr "多通貨決済サービスプロバイダのプロセスを扱うのを待って"
+#: modules/paypal_paypal.php:522
+msgid "Customer did not register or confirm his/her email yet"
+msgstr "お客様の登録しませんでしたか、まだ彼/彼女のメールを確認する"
+#: modules/paypal_paypal.php:523
+msgid "Waiting for service provider to upgrade the PayPal account"
+msgstr "サービスプロバイダの待機は、 PayPalアカウントをアップグレードする"
+#: modules/paypal_paypal.php:524
+msgid "Waiting for service provider to verify his/her PayPal account"
+msgstr "サービスプロバイダのための確認を待機して彼/彼女のPayPalアカウント"
+#: modules/paypal_paypal.php:529
+#, php-format
+msgid "Last payment is pending. Reason: %s"
+msgstr "前回のお支払いは保留されています。理由： %s"
+#: modules/paypal_paypal.php:535
+#, php-format
+msgid "Last payment status: %s"
+msgstr "前回のお支払いステータス： %s"
+#: modules/paypal_paypal.php:541
+msgid "The subscription is not active"
+msgstr "サブスクリプションがアクティブではない"
+#: modules/paypal_paypal.php:560
+#, php-format
+msgid "[%s] Payment receipt"
+msgstr "[ %s ]お支払いの領収書"
+#: modules/paypal_paypal.php:567
+#, php-format
+msgid ""
+"\r\n"
+"This is an automatic notification from %1$s to %2$s (%3$s).\r\n"
+"\r\n"
+"This is a notification to inform you that your payment was successful for "
+"recurring subscription of %4$s %5$s every %6$s %7$s\r\n"
+"\r\n"
+"For more information please contact %8$s"
+msgstr ""
+"\r\nThis %2$s （ %3$s ） 。 \r\n\r\nThisに%1$sからの自動通知され、お客様のお支払い%4$s %5$sのあらゆる%6$s %7$s\r\n\r\nFor詳細についてはお問い合わせください%8$s購読に成功しましたことをお知らせするために定期的に通知されます"
+
+#: modules/paypal_paypal.php:574
+#, php-format
+msgid ""
+"\r\n"
+"This is an automatic notification from %1$s to %2$s (%3$s).\r\n"
+"\r\n"
+"This is a notification to inform you that your payment was successful for a "
+"one-time payment of %4$s %5$s for %6$s %7$s\r\n"
+"\r\n"
+"For more information please contact %8$s"
+msgstr ""
+"\r\nThis %2$s （ %3$s ） 。 \r\n\r\nThisに%1$sからの自動通知され、お客様のお支払いは1 %6$s %7$s\r\n\r\nFor詳細については、 %4$s %5$sの時間をお支払いお問い合わせください%8$sに成功しましたことをお知らせするためには、通知されます"
+
+#: modules/paypal_paypal.php:584
+#, php-format
+msgid "[%s] Account inactive"
+msgstr "[ %s ]アカウントを非表示"
+#: modules/paypal_paypal.php:585
+#, php-format
+msgid ""
+"\r\n"
+"This is an automatic notification from %1$s\r\n"
+"to %2$s (%3$s).\r\n"
+"\r\n"
+"This is a notification to inform you that your account is inactive.\r\n"
+"Reason: %4$s\r\n"
+"\r\n"
+"For more information please contact %5$s"
+msgstr ""
+"\r\nThis %1$s\r\nto %2$s （ %3$s ） 。 \r\n\r\nThisからの自動通知されているお客様のアカウントinactive.\r\nReason ： %4$s\r\n\r\nFor詳細についてはお問い合わせください%5$sに伝えるには、通知されます"
+
+#: modules/paypal_paypal.php:597
+#, php-format
+msgid ""
+"\r\n"
+"This is an automatic notification from %1$s\r\n"
+"to %2$s (%3$s).\r\n"
+"\r\n"
+"This is a notification to inform you that you payment was received in "
+"pending status.\r\n"
+"Status: %4$s\r\n"
+"\r\n"
+"For more information please contact %5$s"
+msgstr ""
+"\r\nThis %1$s\r\nto %2$s （ %3$s ） 。 \r\n\r\nThisからの自動通知されている場合は、支払いを保留status.\r\nStatusに受信されました： %4$s\r\n\r\nFor詳細な情報までご連絡ください%5$sに伝えるには、通知されます"
+
+#: modules/paypal_paypal.php:609
+#, php-format
+msgid ""
+"\r\n"
+"This is an automatic notification from %1$s\r\n"
+"to %2$s (%3$s).\r\n"
+"\r\n"
+"This is a notification to inform you that an error occurred while processing "
+"your payment.\r\n"
+"Details: %4$s\r\n"
+"\r\n"
+"For more information please contact %5$s"
+msgstr ""
+"\r\nThis %1$s\r\nto %2$s （ %3$s ） 。 \r\n\r\nThisからの自動通知されますことをお知らせする通知payment.\r\nDetailsながら、お客様の処理： %4$s\r\n\r\nFor詳細についてはお問い合わせください%5$sは、エラーが発生している"
+
+#: modules/paypal_paypal.php:668
+msgid "Some fields were not saved due to the following errors:"
+msgstr "いくつかのフィールドは、次のエラーのために保存されていない："
+#: modules/paypal_paypal.php:694
+msgid " Options"
+msgstr "オプション"
+#: modules/paypal_paypal.php:699
+msgid "Your PayPal Email Address"
+msgstr "あなたのPayPalの電子メールアドレス"
+#: modules/paypal_paypal.php:701
+msgid ""
+"This address must match the email address that you use to login to PayPal."
+msgstr ""
+"このアドレスは、メールアドレスは、 PayPalを使用するにはログインすると一致する必要があります。"
+
+#: modules/paypal_paypal.php:703
+msgid "PayPal Return URL"
+msgstr "PayPalの戻り先URL"
+#: modules/paypal_paypal.php:705
+msgid "Where user must return after successful payment via PayPal."
+msgstr "ここで、ユーザーはPayPal経由で支払い手続きの完了後に返還しなければなりません。"
+#: modules/paypal_paypal.php:707
+msgid "PayPal Cancel URL"
+msgstr "PayPalのURLを中止"
+#: modules/paypal_paypal.php:709
+msgid "Where user must return if payment was canceled."
+msgstr "ユーザはどこのお支払いがキャンセルされた場合に返還しなければなりません。"
+#: modules/paypal_paypal.php:711
+msgid "PayPal Button/Logo"
+msgstr "PayPalのボタン/ロゴ"
+#: modules/paypal_paypal.php:730
+msgid "Live Switch"
+msgstr "ライブスイッチ"
+#: modules/paypal_paypal.php:732
+msgid "Live Site"
+msgstr "ライブサイト"
+#: modules/paypal_paypal.php:733
+msgid "Test Mode (Sandbox)"
+msgstr "テストモード（サンドボックス）"
+#: modules/paypal_paypal.php:736
+msgid "Select Test Mode to test your buttons."
+msgstr "テストモードを選択するボタンをテストします。"
+#: modules/paypal_paypal.php:738
+msgid "Payment Type"
+msgstr "お支払い方法の種類"
+#: modules/paypal_paypal.php:745
+msgid "The Currency used for the payments"
+msgstr "通貨の支払いに使用される"
+#: modules/paypal_paypal.php:750
+#, php-format
+msgid "%s - Australian Dollar"
+msgstr "%s -オーストラリアドル"
+#: modules/paypal_paypal.php:751
+#, php-format
+msgid "%s - Canadian Dollar"
+msgstr "%s -カナダドル"
+#: modules/paypal_paypal.php:752
+#, php-format
+msgid "%s - Swiss Franc"
+msgstr "%s -スイスフラン"
+#: modules/paypal_paypal.php:753
+#, php-format
+msgid "%s - Czech Koruna"
+msgstr "%s -チェココルナ"
+#: modules/paypal_paypal.php:754
+#, php-format
+msgid "%s - Danish Krone"
+msgstr "%s -デンマーククローネ"
+#: modules/paypal_paypal.php:755
+#, php-format
+msgid "%s - Euro"
+msgstr "%s -ユーロ"
+#: modules/paypal_paypal.php:756
+#, php-format
+msgid "%s - Pound Sterling"
+msgstr "%s -ポンドスターリング"
+#: modules/paypal_paypal.php:757
+#, php-format
+msgid "%s - Hong Kong Dollar"
+msgstr "%s -香港ドル"
+#: modules/paypal_paypal.php:758
+#, php-format
+msgid "%s - Hungarian Forint"
+msgstr "%s -ハンガリーフォリント"
+#: modules/paypal_paypal.php:759
+#, php-format
+msgid "%s - Japanese Yen"
+msgstr "%s -日本円"
+#: modules/paypal_paypal.php:760
+#, php-format
+msgid "%s - Norwegian Krone"
+msgstr "%s -ノルウェークローネ"
+#: modules/paypal_paypal.php:761
+#, php-format
+msgid "%s - New Zealand Dollar"
+msgstr "%s -ニュージーランドドル"
+#: modules/paypal_paypal.php:762
+#, php-format
+msgid "%s - Polish Zloty"
+msgstr "%s -ポーランドズウォティ"
+#: modules/paypal_paypal.php:763
+#, php-format
+msgid "%s - Swedish Krona"
+msgstr "%s -スウェーデンクローナ"
+#: modules/paypal_paypal.php:764
+#, php-format
+msgid "%s - Singapore Dollar"
+msgstr "%s -シンガポールドル"
+#: modules/paypal_paypal.php:765
+#, php-format
+msgid "%s - U.S. Dollar"
+msgstr "%s -米ドル"
+#: modules/paypal_paypal.php:774
+msgid "Payment transaction currency"
+msgstr "支払取引通貨"
+#: modules/paypal_paypal.php:776
+msgid "The local PayPal site to use"
+msgstr "地元のPayPalのサイトを使用するように"
+#: modules/paypal_paypal.php:781
+msgid "Australia"
+msgstr "オーストラリア"
+#: modules/paypal_paypal.php:782
+msgid "Austria"
+msgstr "オーストリア"
+#: modules/paypal_paypal.php:783
+msgid "Belgium"
+msgstr "ベルギー"
+#: modules/paypal_paypal.php:784
+msgid "Canada"
+msgstr "カナダ"
+#: modules/paypal_paypal.php:785
+msgid "China"
+msgstr "中国"
+#: modules/paypal_paypal.php:786
+msgid "France"
+msgstr "フランス"
+#: modules/paypal_paypal.php:787
+msgid "Germany"
+msgstr "ドイツ"
+#: modules/paypal_paypal.php:788
+msgid "Italy"
+msgstr "イタリア"
+#: modules/paypal_paypal.php:789
+msgid "Netherlands"
+msgstr "オランダ"
+#: modules/paypal_paypal.php:790
+msgid "Poland"
+msgstr "ポーランド"
+#: modules/paypal_paypal.php:791
+msgid "Spain"
+msgstr "スペイン"
+#: modules/paypal_paypal.php:792
+msgid "Switzerland"
+msgstr "スイス"
+#: modules/paypal_paypal.php:793
+msgid "United Kingdom"
+msgstr "イギリス"
+#: modules/paypal_paypal.php:794
+msgid "United States"
+msgstr "アメリカ合衆国"
+#: modules/paypal_paypal.php:808
+msgid "Encrypted Buttons Guide"
+msgstr "暗号化されたボタンガイド"
+#: modules/paypal_paypal.php:810
+msgid ""
+"To use encrypted buttons, follow the STEPS outlined in <a href=\"https://www."
+"paypal.com/IntegrationCenter/ic_button-encryption.html\">Securing your "
+"PayPal Buttons</a> below &quot;Encrypting Buttons Dynamically with Encrypted "
+"Website Payments&quot;."
+msgstr ""
+"暗号化されたウェブサイトでお支払いのステップ&quot;の暗号化<a href=\"https://www.paypal.com/IntegrationCenter/ic_button-encryption.html\">ボタンを動的に次のようにPayPalの</a>ボタンの確保に従ってください。 &quot;暗号化ボタンを使用するには。"
+
+#: modules/paypal_paypal.php:812
+msgid ""
+"After completing the steps, go back to your WordPress Admin Section -> "
+"PayPAL -> Gateways and click the &quot;Edit&quot; link for PayPal. Scroll "
+"down to the Buttons Encryption section and enter the Certificate ID from "
+"PayPal, upload PayPal's Public Certificate, your Private Key file and your "
+"Public Certificate file."
+msgstr ""
+"の手順が完了したら、ワードプレスの管理部署に- &gt; PayPalの- &gt;ゲートウェイをクリックしてPayPalのための&quot;編集&quot;リンク戻ります。下にスクロールしてボタンを暗号化し、 PayPalのセクションからの証明書の番号を入力すると、 PayPalのパブリック証明書は、あなたの秘密鍵ファイルと公開証明書のファイルをアップロードします。"
+
+#: modules/paypal_paypal.php:814
+msgid ""
+"Also, you have to make sure that your website host has OpenSSL installed. "
+"Contact your hosting provider and ask for the OpenSSL path. Click the &quot;"
+"Update Options&quot; to save your changes. You should test your buttons at "
+"this point to make sure that the encryption is working right."
+msgstr ""
+"また、お客様のウェブサイトのホストOpenSSLをインストールされていることを確認する必要があります。ホスティングプロバイダとは、 OpenSSLのパスについては、お問い合わせください。をクリックして&quot;更新一覧&quot;あなたの変更を保存します。この時点では、暗号化の作業であることを確認するに右のボタンをテストする必要があります。"
+
+#: modules/paypal_paypal.php:816
+msgid "Resources"
+msgstr "リソース"
+#: modules/paypal_paypal.php:819
+msgid "PayPal"
+msgstr "ペイパル"
+#: modules/paypal_paypal.php:820
+msgid "OpenSSL (*nix)"
+msgstr "OpenSSLの（ * nixの）"
+#: modules/paypal_paypal.php:821
+msgid "OpenSSL (Windows)"
+msgstr "OpenSSLの（ Windowsの場合）"
+#: modules/paypal_paypal.php:828
+msgid "Buttons Encryption"
+msgstr "ボタンを暗号化"
+#: modules/paypal_paypal.php:829
+msgid "Enable Encryption"
+msgstr "暗号化を有効にする"
+#: modules/paypal_paypal.php:835
+msgid "Encrypts your PayPal buttons using OpenSSL"
+msgstr "OpenSSLの暗号化するお客様のPayPalのボタンを使用して"
+#: modules/paypal_paypal.php:837
+msgid "PayPal&rsquo;s Certificate ID"
+msgstr "PayPalの証明書番号"
+#: modules/paypal_paypal.php:841
+msgid "PayPal&rsquo;s Public Certificate"
+msgstr "PayPalのパブリック証明書"
+#: modules/paypal_paypal.php:845
+msgid "Your Private Key file"
+msgstr "あなたの秘密鍵ファイル"
+#: modules/paypal_paypal.php:849
+msgid "Your Public Certificate"
+msgstr "あなたのパブリック証明書"
+#: modules/paypal_paypal.php:853
+msgid "Path to OpenSSL"
+msgstr "OpenSSLのパスに"
+#: modules/paypal_paypal.php:856
+#, php-format
+msgid "Usually %s on unix systems."
+msgstr "Unixシステム上で通常%s 。"
+#: modules/paypal_paypal.php:906
+#, php-format
+msgid "unable to move file to %s"
+msgstr "%sにファイルを移動することができません"
+#: modules/paypal_paypal.php:970
+msgid ""
+"<strong>Your Public Certificate<strong>: No file was uploaded or file does "
+"not exist."
+msgstr ""
+"<strong>あなたのパブリック証明書：いいえファイルがアップロードされた</strong> 、 <strong>またはファイルが存在しません。</strong>"
+
+#: modules/paypal_paypal.php:974
+msgid ""
+"<strong>Your Public Key File</strong>: No file was uploaded or file does not "
+"exist."
+msgstr ""
+"<strong>あなたの公開鍵ファイル</strong> ：アップロードされたファイルまたはファイルは存在しません。"
+
+#: modules/paypal_paypal.php:978
+msgid ""
+"<strong>PayPal's Public Certificate</strong>: No file was uploaded or file "
+"does not exist."
+msgstr ""
+"<strong>PayPal</strong>の<strong>パブリック証明書</strong> ：いいえファイルがアップロードされた、またはファイルが存在しません。"
+
+#: modules/paypal_trial.php:13 modules/paypal_trial.php:114
+msgid "Trial"
+msgstr "試み"
+#: modules/paypal_trial.php:14
+msgid ""
+"<p>Allow users to signup for a free trial account which expires "
+"automatically after a number of days. You can set the number of days/months/"
+"years before a trial account expires on the Subscription Settings page. "
+"Simply set the Account Type to \"Trial\" to use this gateway.</p>"
+msgstr ""
+"<p>ユーザに許可を自動的に有効期限が切れる日の数字の後に無料のトライアルアカウントを登録してください。あなたの日数を設定することができます/月/年のトライアルアカウントの有効期限が切れる前に、 [設定]ページで。単に\"Trial\"このゲートウェイを使用するようにアカウントの種類を設定します。 </p>"
+
+#: modules/paypal_trial.php:56
+msgid "Trial Account"
+msgstr "トライアルアカウント"
+#: modules/paypal_trial.php:58 modules/paypal_trial.php:63
+msgid "Sign Up for a Trial Account"
+msgstr "サインアップは、トライアルアカウントの"
+#: modules/paypal_trial.php:139
+msgid "Trial Account Created"
+msgstr "トライアルアカウント作成"
+#: paypal-subscribe.php:10 paypal-subscribe.php:35
+msgid "Subscription"
+msgstr "サブスクリプション"
+#: paypal-subscribe.php:35
+msgid "Powered by WordPress"
+msgstr "ワードプレスによって供給"
+#: paypal-subscribe.php:36
+msgid "Select Payment Method"
+msgstr "支払方法を選択してください"
+#: paypal-subscribe.php:47
+msgid ""
+"Please follow the <a href=\"wp-login.php\">login</a> or the <a href=\"wp-"
+"register.php\">register</a> procedure, and then retry subscribing."
+msgstr ""
+"してくださいし、 <a href=\"wp-login.php\">登録</a> <a href=\"wp-register.php\">の再試行は</a> 、 <a href=\"wp-register.php\">ログイン</a>または登録の手順に従ってください。"
+
+#: paypal-subscribe.php:56
+msgid ""
+"Your subscription status is pending. Please contact an administrator for "
+"more information."
+msgstr ""
+"サブスクリプションの状態が保留中です。詳しくは、管理者にお問い合わせください。"
+
+#: paypal-subscribe.php:60
+msgid ""
+"You are already subscribed or an error occurred. Please contact an "
+"administrator for more information."
+msgstr ""
+"既に購読しているか、エラーが発生しました。詳しくは、管理者にお問い合わせください。"
+
+#: paypal-tos.php:6
+msgid "Terms Of Service"
+msgstr "サービスの条件"
+#: wp-member-main.php:90
+#, php-format
+msgid ""
+"Your account is not active. To activate your account please complete the <a "
+"href=\"%s\">subscription payment</a>"
+msgstr ""
+"お客様のアカウントがアクティブではない。支払い手続きを完了するには、アカウントの登録<a href=\"%s\">を有効にしてください</a>"
+
+#: wp-member-main.php:91
+#, php-format
+msgid ""
+"Your Account has expired. Please make a new <a href=\"%s\">subscription "
+"payment</a> to re-activate your account."
+msgstr ""
+"アカウントの有効期限が切れました。ご希望の新規<a href=\"%s\">購読のお支払い</a>を再作成、アカウントを有効にします。"
+
+#: wp-member-main.php:93
+msgid "Your Account is now PENDING activation!"
+msgstr "お客様のアカウントを活性化保留中です！"
+#: wp-member-main.php:94
+msgid "Your account is not active"
+msgstr "お客様のアカウントがアクティブではない"
+#: wp-member-main.php:96
+msgid ""
+"After completing registration, we will send you an e-mail containing your "
+"login details. If a payment is required, you will be presented with a "
+"subscription button after you have clicked on the register button. "
+msgstr ""
+"登録完了後、お客様に電子メールを含むお客様のログインの詳細をお送りします。必要な場合はお支払い後に登録ボタンをクリックした場合は、購読ボタンが表示されます。"
+
+#: wp-member-main.php:97
+msgid "Please replace this text with your Terms & Conditions"
+msgstr "ご利用規約にこの文字列を置換"
+#: wp-member-main.php:98
+msgid ""
+"<p style=\"text-align: center;\">*****<br>You need to be logged in to see "
+"this part of the post. Login using the box in the sidebar. Not registered? "
+"Click <a href=\"/wp-login.php?action=register\">here</a> to "
+"register<br>*****</p>"
+msgstr ""
+"<p style=\"text-align: center;\"> ***** <br>に記録される場合には、ポストのこの部分を参照する必要があります。ログインし、サイドバーのボックスを使用しています。今すぐ登録しませんか？をクリックして<a href=\"/wp-login.php?action=register\">ここに</a>登録する<br> ***** </p>"
+
+#: wp-member-main.php:495
+msgid "Private"
+msgstr "非上場企業"
+#: wp-member-main.php:496
+msgid "Public"
+msgstr "公共"
+#: wp-member-main.php:651
+msgid "WP-MEMBER Custom Fields"
+msgstr "WP -メンバーのカスタムフィールド"
+#: wp-member-main.php:787
+msgid "I agree to the Terms and Conditions."
+msgstr "私は、利用規約に同意します。"
+#: wp-member-main.php:802
+msgid "There are no payment gateways active. Please contact the administrator."
+msgstr "支払ゲートウェイがアクティブになります。管理者に連絡してください。"
+#: wp-member-main.php:812
+#, php-format
+msgid "%1$s per %2$s %3$s (Trial)"
+msgstr "%1$s %2$s %3$s （試用版） 1"
+#: wp-member-main.php:837
+#, php-format
+msgid "&nbsp; %1$s %2$s per %3$s %4$s%5$s"
+msgstr "%3$s %4$s%5$s 1 %1$s %2$s"
+#: wp-member-main.php:893
+msgid "<strong>ERROR</strong>: You must accept the Terms and Conditions."
+msgstr "<strong>エラー</strong> ：あなたは利用規約に同意する必要があります。"
+#: wp-member-main.php:899
+msgid "<strong>ERROR</strong>: You must select a Subscription Type."
+msgstr "<strong>エラー</strong> ：あなたは、サブスクリプションの種類を選択する必要があります。"
+#: wp-member-main.php:903
+msgid "<strong>ERROR</strong>: Birthdate is required."
+msgstr "<strong>エラー</strong> ：生年月日が必要です。"
+#: wp-member-main.php:907
+msgid "<strong>ERROR</strong>: Country is required."
+msgstr "<strong>エラー</strong> ：国が必要です。"
+#: wp-member-main.php:915
+#, php-format
+msgid "<strong>ERROR</strong>: %s is a required field"
+msgstr "<strong>エラー</strong> ： %sは必須項目です"
+#: wp-member-main.php:963
+#, php-format
+msgid "Invalid Data Passed. <a href=\"%s\">Try again.</a>"
+msgstr "無効なデータ合格<a href=\"%s\">。再度</a>お試しください<a href=\"%s\">。</a>"
+#: wp-member-main.php:982
+msgid ""
+"<br /><table width=\"100%\" cellpadding=\"3\" cellspacing=\"0\" border=\"0\" "
+"align=\"center\" class=\"form-table\">"
+msgstr ""
+
+#: wp-member-main.php:985 wp-member-main.php:1218
+msgid "Create a free account"
+msgstr "無料のアカウントを作成"
+#: wp-member-main.php:988
+#, php-format
+msgid "Create a trial account for %1$s %2$s<br />(for %3$s %4$s)"
+msgstr "%1$s %2$sのトライアルアカウントを作成する<br /> （ %3$s %4$s ）"
+#: wp-member-main.php:994 wp-member-main.php:1006 wp-member-main.php:1071
+#: wp-member-main.php:1220
+msgid "Select Payment Gateway"
+msgstr "支払いゲートウェイを選択してください"
+#: wp-member-main.php:996
+#, php-format
+msgid "Create a trial account for %1$s %2$s"
+msgstr "%1$s %2$sのトライアルアカウントを作成する"
+#: wp-member-main.php:1001 wp-member-main.php:1221
+#, php-format
+msgid "Subscribe for %1$s %2$s<br />(for %3$s %4$s)"
+msgstr "チャンネル登録%1$s %2$s用<br /> （ %3$s %4$s ）"
+#: wp-member-main.php:1063 wp-member-main.php:1093 wp-member-main.php:1243
+msgid "There are no gateways available at this time."
+msgstr "この時点ではないゲートウェイを利用している。"
+#: wp-member-main.php:1102
+#, php-format
+msgid "Unknown Module: %s"
+msgstr "未知のモジュール： %s"
+#: wp-member-main.php:1132
+msgid "<p class=\"message register\">Choose an Account Type</p>"
+msgstr "<p class=\"message register\">アカウントの種類を選択</p>"
+#: wp-member-main.php:1158
+#, php-format
+msgid "%1$s %2$s per %3$s %4$s%5$s"
+msgstr "%3$s %4$s%5$s 1 %1$s %2$s"
+#: wp-member-main.php:1179
+msgid "Data tampered. Exiting."
+msgstr "データを改ざん。を終了する。"
+#: wp-member-main.php:1205
+msgid "Invalid data passed"
+msgstr "無効なデータを渡す"
+#: wp-member-main.php:1296
+msgid "Select which usergroup will have access to read this post/page."
+msgstr "この記事を読むへのアクセスを選択してくださいusergroup /ページは、必要があります。"
+#: wp-member-main.php:1319
+msgid ""
+"Note: You can hide parts of the post/page from guests by adding <strong>"
+"[private]</strong> <em>your text</em> <strong>[/private]</strong> tags"
+msgstr ""
+"注：ポストの部分を隠すことができます/ページからユーザーを追加する<strong>[プライベート]</strong> <em>テキスト</em> <strong>[ /秘密]</strong>タグで"
+
+#: wp-member-main.php:1364
+msgid "Access for This Category:"
+msgstr "このカテゴリのアクセス："
+#: wp-member-main.php:1366
+msgid "(Leave all unchecked for public access to this category.)"
+msgstr "（このカテゴリには一般からのアクセスをオフにしておきます。 ）"
+#: wp-member-main.php:1370
+#, php-format
+msgid "Allow access to subscribers of type \"%s\""
+msgstr "\"%s\"型の加入者にアクセスを許可"
+#: wp-member-main.php:1660
+msgid "Select Country"
+msgstr "国を選択"
+#: wp-member-main.php:1723
+#, php-format
+msgid ""
+"Powered by <a href=\"%1$s\">WP-MEMBER</a>. Product of <a href=\"http://www."
+"wp-member.com/\"><strong>WP-MEMBER</strong></a>"
+msgstr ""
+"WPで動く<a href=\"%1$s\">人</a> 。製品WPの<strong><a href=\"http://www.wp-member.com/\">メンバー</a></strong>"
+
+#: wp-member-main.php:1821
+msgid "General Settings"
+msgstr "一般設定"
+#: wp-member-main.php:1821
+msgid "Setup and General Settings"
+msgstr "セットアップと基本設定"
+#: wp-member-main.php:1822
+msgid "Members"
+msgstr "メンバー"
+#: wp-member-main.php:1823
+msgid "Simple Newsletter"
+msgstr "簡単なニュースレター"
+#: wp-member-main.php:1825
+msgid "Subscription Settings"
+msgstr "購読の設定"
+#: wp-member-main.php:1826
+msgid "Messages"
+msgstr "メッセージ"
+#: wp-member-main.php:1827
+msgid "Gateways"
+msgstr "ゲートウェイ"
+#: wp-member-main.php:1828
+msgid "Registration Customization"
+msgstr "登録カスタマイズ"
+#: wp-member-main.php:1830
+msgid "Uninstall"
+msgstr "アンインストール"
+#: wp-member-main.php:1833 wp-member-main.php:2011 wp-member-main.php:2068
+msgid "Membership Details"
+msgstr "会員の詳細"
+#: wp-member-main.php:2012 wp-member-main.php:2069
+msgid "Register"
+msgstr "登録"
+#: wp-member-main.php:2013 wp-member-main.php:2070
+msgid "Lost your Password?"
+msgstr "パスワードを忘れましたか？"
+#: wp-member-main.php:2019
+#, php-format
+msgid "Welcome, %s"
+msgstr "ようこそ、 %s"
+#: wp-member-main.php:2023
+msgid "Logout"
+msgstr "ログアウト"
+#: wp-member-main.php:2029
+msgid "Log In"
+msgstr "ログイン"
+#: wp-member-main.php:2034
+msgid "Username:"
+msgstr "ユーザ名："
+#: wp-member-main.php:2038
+msgid "Password:"
+msgstr "パスワード："
+#: wp-member-main.php:2042
+msgid "Remember me"
+msgstr "次回から入力を省略"
+#: wp-member-main.php:2044
+msgid "Login &raquo;"
+msgstr "ログイン»"
+#: wp-member-main.php:2073
+msgid "Membership Details link text:"
+msgstr "会員の詳細リンクテキスト："
+#: wp-member-main.php:2076
+msgid "Register link text:"
+msgstr "登録リンクテキスト："
+#: wp-member-main.php:2080
+msgid "Lost password link text:"
+msgstr "リンクテキストのパスワードを忘れました："
+#: wp-member-main.php:2138
+msgid "FATAL ERROR: Missing parameter"
+msgstr "致命的なエラー：不明なパラメータ"
+#: wp-member-main.php:2194
+msgid "WP-MEMBER License Key"
+msgstr "WP -メンバーのライセンスキー"
+#: wp-member-main.php:2200
+msgid "WP-MEMBER license key successfully updated!"
+msgstr "WP -メンバーのライセンスキーを更新しました！"
+#: wp-member-main.php:2202
+msgid ""
+"WARNING: The WP-MEMBER license key you submitted seems to have problems."
+msgstr ""
+"警告： WP -お申し込みいただいた会員のライセンスキーに問題があると思われる。"
+
+#: wp-member-main.php:2207
+msgid "WP-MEMBER License Configuration"
+msgstr "WP -メンバーのライセンスの構成"
+#: wp-member-main.php:2211
+msgid "WP-MEMBER Key"
+msgstr "WP -メンバキー"
+#: wp-member-main.php:2213
+msgid "Save Key &raquo;"
+msgstr "キーの保存»"
+#: wp-member-main.php:2293
+msgid "WP-MEMBER functionality will be disabled until this error is corrected."
+msgstr "このエラーが修正されるまでWP -メンバーの機能は無効になります。"
+#: wp-member-main.php:2386
+#, php-format
+msgid ""
+"WP-MEMBER Error: An error occured while checking your license.  Please visit "
+"our <a href=\"%1$s\">support section</a> for support."
+msgstr ""
+"ながら、お客様のライセンスチェックWP -メンバーのエラー：エラーが発生しました。ご支援を<a href=\"%1$s\">当社のサポートセクション</a>をご覧ください。"
+
+#: wp-member-main.php:2390
+#, php-format
+msgid ""
+"WP-MEMBER Error: Invalid license.  Please visit our <a href=\"%1$s\">support "
+"section</a> for support."
+msgstr ""
+"WP -メンバーエラー：無効なライセンス。ご支援を<a href=\"%1$s\">当社のサポートセクション</a>をご覧ください。"
+
+#: wp-member-main.php:2394
+#, php-format
+msgid ""
+"WP-MEMBER Error: License has expired.  To purchase a license key, please go "
+"to <a href=\"%1$s\">the WP-MEMBER store</a>, or visit our <a href=\"%2$s"
+"\">support section</a> for support."
+msgstr ""
+"WP -メンバーエラー：ライセンスの期限が切れている。 、 WPに移動してください加盟店、または<a href=\"%1$s\">サポートするためのサポート</a>セクションをご覧<a href=\"%2$s\">にライセンスキーを購入</a>してください。"
+
+#: wp-member-main.php:2398
+#, php-format
+msgid ""
+"WP-MEMBER Error: License suspended.  To purchase a license key, please go to "
+"<a href=\"%1$s\">the WP-MEMBER store</a>, or visit our <a href=\"%2$s"
+"\">support section</a> for support."
+msgstr ""
+"WP -メンバーエラー：停止ライセンス。 、 WPに移動してください加盟店、または<a href=\"%1$s\">サポートするためのサポート</a>セクションをご覧<a href=\"%2$s\">にライセンスキーを購入</a>してください。"
+
+#. Plugin Name of an extension
+msgid "wp-Member"
+msgstr "wp -メンバー"
+#. #-#-#-#-#  wp-member.pot (wp-Member 2.2)  #-#-#-#-#
+#. Plugin URI of an extension
+#. #-#-#-#-#  wp-member.pot (wp-Member 2.2)  #-#-#-#-#
+#. Author URI of an extension
+msgid "http://wp-Member.com"
+msgstr "http://wp-Member.com"
+#. Description of an extension
+msgid "Advanced wordpress membership, user and content plugin."
+msgstr "高度なワードプレスの会員は、ユーザーとコンテンツのプラグイン。"
+#. Author of an extension
+msgid "wp-Member.com"
+msgstr "wp - Member.com"

@@ -1,0 +1,2086 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR wp-Member.com
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: wp-Member 2.2\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/wp-member\n"
+"POT-Creation-Date: 2009-06-11 15:13-0700\n"
+"PO-Revision-Date: 2009-11-27 14:38+0530\n"
+"Last-Translator: \n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: admin/paypal-admin.php:23
+msgid "Unable to remove wpb-paypal directory from the server. Please delete it manually."
+msgstr ""
+
+#: admin/paypal-admin.php:50
+#: wp-member-main.php:1285
+#: wp-member-main.php:1292
+#: wp-member-main.php:1819
+msgid "WP-MEMBER"
+msgstr "å¯æ¹¿æ§ç²åæåå½"
+
+#: admin/paypal-admin.php:53
+msgid "wp-Member homepage"
+msgstr "å¯æ¹¿æ§ç²åä¼åä¸»é¡µ"
+
+#: admin/paypal-admin.php:54
+msgid "Affiliate"
+msgstr "å ç"
+
+#: admin/paypal-admin.php:55
+msgid "Hosting"
+msgstr "ä¸»å"
+
+#: admin/paypal-admin.php:56
+msgid "Paypal Homepage"
+msgstr "è´å®é¦é¡µ"
+
+#: admin/paypal-admin.php:66
+#: admin/paypal-admin.php:70
+msgid "Support"
+msgstr "æ¯æ"
+
+#: admin/paypal-admin.php:69
+msgid "Interactive FAQ"
+msgstr "äºå¨å¸¸è§é®é¢"
+
+#: admin/paypal-admin.php:80
+msgid "WP-MEMBER Services"
+msgstr "å¯æ¹¿æ§ç²åï¼ä¼åæå¡"
+
+#: admin/paypal-admin.php:84
+msgid "Wordpress theme and plugin design"
+msgstr "WordPressçä¸»é¢åæä»¶è®¾è®¡"
+
+#: admin/paypal-admin.php:85
+msgid "High quality low priced <strong>PSD to XHTML/CSS</strong> and <strong>PSD to WordPress Theme</strong> coding & php services."
+msgstr "é«åè´¨ä½ä»·ä½<strong>ç§è¥é¨é¨å¸çXHTML / CSS</strong>å<strong>ç§è¥é¨é¨æ¥å°WordPressä¸»é¢</strong>ç¼ç åPHPçæå¡ã11"
+
+#: admin/paypal-admin.php:89
+msgid "<a href=\"http://5starservers.com/?p=70\">Contact us</a> for a free quote if you need a custom WordPress theme or a WordPress plugin to be developed</a>."
+msgstr "<a href=\"http://5starservers.com/?p=70\">èç³»æä»¬</a>åè´¹çæ¥ä»·å¦ææ¨éè¦èªå®ä¹WordPressçä¸»é¢æWordPressçæä»¶å¼åã"
+
+#: admin/paypal-backuprestore.php:61
+#, php-format
+msgid "Backup file created. Right click <a href=\"%s\">HERE</a> and select Save Link As or Save Target As."
+msgstr "å¤ä»½æä»¶åå»ºãå³é®ç¹å»<a href=\"%s\">è¿é</a>å¹¶éæ©å¦å­è¿ç»æç®æ å¦å­ä¸ºã"
+
+#: admin/paypal-backuprestore.php:63
+#, php-format
+msgid "Backup file could not be created.  Please check that the %s directory is writeable."
+msgstr ""
+
+#: admin/paypal-backuprestore.php:69
+msgid "No file was uploaded."
+msgstr "æ²¡ææ¡£æ¡ä¸ä¼ ã"
+
+#: admin/paypal-backuprestore.php:95
+msgid "Backup data has been restored!"
+msgstr "å¤ä»½æ°æ®å·²ç»æ¢å¤ï¼"
+
+#: admin/paypal-backuprestore.php:117
+msgid "Backup Data"
+msgstr "å¤ä»½æ°æ®"
+
+#: admin/paypal-backuprestore.php:119
+msgid "Click the button below to download a backup file of your users, posts, categories and PayPal data."
+msgstr "ç¹å»ä¸é¢çæé®ï¼ä¸è½½å¤ä»½æä»¶çç¨æ·ï¼èä½ï¼ç±»å«åPayPalæ°æ®ã"
+
+#: admin/paypal-backuprestore.php:121
+msgid "Download Backup File"
+msgstr "ä¸è½½å¤ä»½æä»¶"
+
+#: admin/paypal-backuprestore.php:127
+#: admin/paypal-backuprestore.php:135
+msgid "Restore Data"
+msgstr "æ¢å¤æ°æ®"
+
+#: admin/paypal-backuprestore.php:129
+msgid "Restore a previously generated PayPAL backup file."
+msgstr "æ¢å¤ä»¥åçæè´å®å¤ä»½æä»¶ã"
+
+#: admin/paypal-backuprestore.php:130
+msgid "<strong>Important: This tool replaces all existing users (except for admin), posts, pages and categories!</strong>"
+msgstr "<strong>éè¦æç¤ºï¼æ­¤å·¥å·å°åä»£ç°æçææç¨æ·ï¼é¤ç®¡çï¼ ï¼èä½ï¼ç½é¡µåç±»å«ï¼</strong>"
+
+#: admin/paypal-backuprestore.php:131
+msgid "Backup File:"
+msgstr "å¤ä»½æä»¶ï¼"
+
+#: admin/paypal-customfields.php:43
+msgid "Custom Field Deleted"
+msgstr "èªå®ä¹å­æ®µå é¤"
+
+#: admin/paypal-customfields.php:55
+#: admin/paypal-customfields.php:112
+msgid "Name is required"
+msgstr "åç§°éè¦"
+
+#: admin/paypal-customfields.php:75
+msgid "Custom Field Created"
+msgstr "èªå®ä¹å­æ®µåå»º"
+
+#: admin/paypal-customfields.php:101
+msgid "Custom Fields Sorting Updated"
+msgstr "èªå®ä¹å­æ®µæåºæ´æ°"
+
+#: admin/paypal-customfields.php:177
+msgid " Registration customization"
+msgstr "æ³¨åå®å¶"
+
+#: admin/paypal-customfields.php:179
+msgid "Drag the fields from the Custom Fields container into the Registration Form block. Once there, you can drag the fields to change the order that they will be shown on the registration form."
+msgstr "æå¨å­æ®µèªå®ä¹å­æ®µéè£ç®±è¿å¥ç»è®°è¡¨åãä¸æ¦æï¼ä½ å¯ä»¥æå¨é¢åè¦æ´æ¹é¡ºåºï¼å®ä»¬å°æ¾ç¤ºå¨ç»è®°è¡¨ã"
+
+#: admin/paypal-customfields.php:189
+msgid "Registration field order"
+msgstr "æ³¨åé¢åç§©åº"
+
+#: admin/paypal-customfields.php:211
+msgid "Custom Fields"
+msgstr "èªå®ä¹å­æ®µ"
+
+#: admin/paypal-customfields.php:255
+msgid " Custom Registration Fields"
+msgstr "èªè®¢ç»è®°å­æ®µ"
+
+#: admin/paypal-customfields.php:260
+msgid "Name"
+msgstr "åå­"
+
+#: admin/paypal-customfields.php:261
+msgid "Type"
+msgstr "ç±»å"
+
+#: admin/paypal-customfields.php:262
+msgid "Required"
+msgstr "å¿éç"
+
+#: admin/paypal-customfields.php:263
+msgid "Read Only"
+msgstr "åªè¯»"
+
+#: admin/paypal-customfields.php:264
+#: admin/paypal-modules.php:71
+msgid "Action"
+msgstr "è¡å¨"
+
+#: admin/paypal-customfields.php:270
+#: admin/paypal-customfields.php:271
+#: admin/paypal-settings.php:71
+#: modules/paypal_paypal.php:832
+msgid "Yes"
+msgstr "æ¯"
+
+#: admin/paypal-customfields.php:270
+#: admin/paypal-customfields.php:271
+#: admin/paypal-settings.php:72
+#: modules/paypal_paypal.php:831
+msgid "No"
+msgstr "å¦"
+
+#: admin/paypal-customfields.php:273
+#: admin/paypal-profile.php:22
+#: admin/paypal-profile.php:131
+#: wp-member-main.php:712
+#: wp-member-main.php:891
+msgid "Terms and Conditions"
+msgstr "æ¡æ¬¾åæ¡ä»¶"
+
+#: admin/paypal-customfields.php:273
+#: admin/paypal-profile.php:22
+#: admin/paypal-profile.php:131
+#: wp-member-main.php:712
+#: wp-member-main.php:788
+#: wp-member-main.php:895
+msgid "Subscription Introduction"
+msgstr "è®¤è´­ç®ä»"
+
+#: admin/paypal-customfields.php:274
+#: admin/paypal-customfields.php:276
+#: admin/paypal-customfields.php:282
+msgid "Edit"
+msgstr "ç¼è¾"
+
+#: admin/paypal-customfields.php:275
+#: admin/paypal-profile.php:22
+#: admin/paypal-profile.php:131
+#: wp-member-main.php:710
+#: wp-member-main.php:790
+#: wp-member-main.php:897
+msgid "Subscription Options"
+msgstr "è®¢ééé¡¹"
+
+#: admin/paypal-customfields.php:277
+#: admin/paypal-customfields.php:333
+#: admin/paypal-customfields.php:334
+#: admin/paypal-profile.php:24
+#: admin/paypal-profile.php:133
+#: wp-member-main.php:714
+#: wp-member-main.php:848
+#: wp-member-main.php:901
+msgid "Birthdate"
+msgstr "åºçæ¥æ"
+
+#: admin/paypal-customfields.php:277
+#: admin/paypal-customfields.php:333
+#: admin/paypal-customfields.php:334
+#: admin/paypal-profile.php:28
+#: admin/paypal-profile.php:141
+#: wp-member-main.php:718
+#: wp-member-main.php:851
+#: wp-member-main.php:905
+msgid "Country"
+msgstr "å½å®¶"
+
+#: admin/paypal-customfields.php:282
+msgid "Are you sure you want to delete this field?"
+msgstr "æ¨ç¡®å®è¦å é¤æ­¤é¢åï¼"
+
+#: admin/paypal-customfields.php:282
+#: admin/paypal-subscription.php:107
+#: includes/admin-functions.php:334
+msgid "Delete"
+msgstr "å é¤"
+
+#: admin/paypal-customfields.php:296
+msgid "There are no custom fields set"
+msgstr "æ²¡æè®¾ç½®èªå®ä¹å­æ®µ"
+
+#: admin/paypal-customfields.php:338
+msgid "Edit Custom Field"
+msgstr "ç¼è¾èªå®ä¹å­æ®µ"
+
+#: admin/paypal-customfields.php:340
+#: admin/paypal-customfields.php:371
+msgid "Name:"
+msgstr "å§åï¼"
+
+#: admin/paypal-customfields.php:343
+#: admin/paypal-customfields.php:374
+msgid "Input Type:"
+msgstr "è¾å¥ç±»åï¼"
+
+#: admin/paypal-customfields.php:345
+#: admin/paypal-customfields.php:376
+msgid "Text Field (Single Line)"
+msgstr "ææ¬å­æ®µï¼åçº¿ï¼"
+
+#: admin/paypal-customfields.php:346
+#: admin/paypal-customfields.php:377
+msgid "Text Area (Multi-Line)"
+msgstr "ææ¬åºï¼å¤çº¿ï¼"
+
+#: admin/paypal-customfields.php:349
+#: admin/paypal-customfields.php:381
+msgid "Initial Value:"
+msgstr "åå§å¼ï¼"
+
+#: admin/paypal-customfields.php:352
+#: admin/paypal-customfields.php:384
+msgid "Readonly"
+msgstr "Readonlyç"
+
+#: admin/paypal-customfields.php:354
+#: admin/paypal-customfields.php:386
+msgid "Required Field"
+msgstr "å¿å¡«å­æ®µ"
+
+#: admin/paypal-customfields.php:358
+msgid "Update Custom Field"
+msgstr "æ´æ°èªå®ä¹å­æ®µ"
+
+#: admin/paypal-customfields.php:369
+msgid " Create Custom Field"
+msgstr "åå»ºèªå®ä¹å­æ®µ"
+
+#: admin/paypal-customfields.php:389
+msgid "Create Custom Field"
+msgstr "åå»ºèªå®ä¹å­æ®µ"
+
+#: admin/paypal-members.php:7
+msgid "Status, Account Type and Expire Date are set. No changes applied."
+msgstr "ç¶æï¼å¸æ·ç±»åï¼å°ææ¥æè®¾ç½®ãæ²¡æåæ´ç³è¯·ã"
+
+#: admin/paypal-members.php:10
+msgid "Status value not set"
+msgstr "ç¶æå¼æªè®¾ç½®"
+
+#: admin/paypal-members.php:18
+msgid "Expire Month is not set"
+msgstr "æææéä¸ä¸ªææªè®¾ç½®"
+
+#: admin/paypal-members.php:20
+msgid "Expire Year not set"
+msgstr "æææéä¸å¹´æªè®¾ç½®"
+
+#: admin/paypal-members.php:53
+msgid "No users selected."
+msgstr "æ²¡æç¨æ·éæ©ã"
+
+#: admin/paypal-members.php:58
+msgid "Selected user(s) updated."
+msgstr "éå®çä½¿ç¨èï¼ ï¼æ´æ°ã"
+
+#: admin/paypal-members.php:98
+msgid "&laquo; Previous"
+msgstr "Â«ä¸ä¸é¡µ"
+
+#: admin/paypal-members.php:100
+msgid "Next &raquo;"
+msgstr "ä¸ä¸é¡µÂ»"
+
+#: admin/paypal-members.php:102
+msgid "Page"
+msgstr "é¡µ"
+
+#: admin/paypal-members.php:111
+msgid "Number of members per page: "
+msgstr "æåæ°æ¯é¡µï¼"
+
+#: admin/paypal-members.php:113
+msgid "Reload"
+msgstr "å·æ°"
+
+#: admin/paypal-members.php:188
+msgid " Members"
+msgstr "æå"
+
+#: admin/paypal-members.php:198
+msgid "Update controls"
+msgstr "æ´æ°æ§å¶"
+
+#: admin/paypal-members.php:222
+#: admin/paypal-subscription.php:106
+#: includes/admin-functions.php:274
+#: includes/admin-functions.php:382
+msgid "Account Type"
+msgstr "å¸æ·ç±»å"
+
+#: admin/paypal-members.php:244
+msgid "Expire Date:"
+msgstr "å°ææ¥æï¼"
+
+#: admin/paypal-members.php:244
+#: wp-member-main.php:1690
+msgid "Day"
+msgstr "ç½å¤©"
+
+#: admin/paypal-members.php:245
+#: wp-member-main.php:1682
+msgid "Month"
+msgstr "æ¬æ"
+
+#: admin/paypal-members.php:253
+#: wp-member-main.php:1698
+msgid "Year"
+msgstr "å¹´"
+
+#: admin/paypal-members.php:255
+msgid "<b>Tip</b>: If you leave the -Day- box blank, the system will automatically assign the last day of the month.<br /><b>Note</b>: All fields are required"
+msgstr "<b>æç¤º</b> ï¼å¦ææ¨ç¦»å¼å¤©æ¡çç©ºï¼ç³»ç»ä¼èªå¨æå®çæä»½æåä¸å¤©ã <br /> <b>æ³¨</b> ï¼ææå¿å¡«å­æ®µ"
+
+#: admin/paypal-members.php:260
+msgid "Update &raquo;"
+msgstr "æ´æ°Â»"
+
+#: admin/paypal-members.php:271
+msgid "There are no subscribed users."
+msgstr "æ²¡æè®¢éçç¨æ·ã"
+
+#: admin/paypal-messages.php:8
+msgid "Messages Saved"
+msgstr "é®ä»¶å·²ä¿å­"
+
+#: admin/paypal-messages.php:25
+msgid " Messages"
+msgstr "é®ä»¶"
+
+#: admin/paypal-messages.php:29
+msgid "Main Messages"
+msgstr "ä¸»è¦ä¿¡æ¯"
+
+#: admin/paypal-messages.php:31
+msgid "<strong>Subscription Introduction</strong> - Text that appears before the subscription options."
+msgstr ""
+
+#: admin/paypal-messages.php:31
+msgid "<strong>Hint:</strong> Use HTML format."
+msgstr "<strong>æç¤ºï¼</strong>ä½¿ç¨HTMLæ ¼å¼ã"
+
+#: admin/paypal-messages.php:34
+msgid "<strong>Terms &amp; Conditions</strong> - Terms &amp; Conditions text that appears on registration screen, if user did not agree to this he can not register."
+msgstr "<strong>ä½¿ç¨æ¡æ¬¾</strong> -æ¡æ¬¾åç»åçæå­åºç°å¨å±å¹ä¸æ³¨åï¼å¦æç¨æ·ä¸åæè¿ä¸ç¹ï¼ä»ä¸è½ç»è®°ã"
+
+#: admin/paypal-messages.php:37
+msgid "<strong>Message to replace private parts of a post</strong> - This replaces the text inside the [private]...[/private] tags in your posts and pages when the viewer is not logged in or do not have the correct account type."
+msgstr "<strong>è®¯æ¯</strong> ï¼ <strong>ä»¥åä»£ç§äººé¨åé®æ¿</strong> -è¿åä»£åçæå­[ç§è¥]...[/ç§äºº]æ ç­¾å¨æ¨çæç« åç½é¡µæ¶ï¼è§ä¼è¿æ²¡æç»å½ææ²¡ææ­£ç¡®çå¸æ·ç±»åã"
+
+#: admin/paypal-messages.php:42
+msgid "Error Messages"
+msgstr "éè¯¯ä¿¡æ¯"
+
+#: admin/paypal-messages.php:44
+msgid "In the below fields you can configure error messages that appear to users on some steps. If you want to show some user username just use <strong>&quot;[[USERNAME]]&quot;</strong> without the quotes and it will be replaced automatically by username."
+msgstr "å¨ä»¥ä¸é¢åå¯ä»¥éç½®éè¯¯ä¿¡æ¯ï¼åç¨æ·çä¸äºæ­¥éª¤ãå¦æä½ æ³æ¥çä¸äºç¨æ·çç¨æ·åï¼åªéä½¿ç¨<strong>â [ [ç¨æ·å] ] â</strong>ä¸å¸¦å¼å·ï¼å°è¢«èªå¨æ¿æ¢çç¨æ·åã"
+
+#: admin/paypal-messages.php:45
+msgid "<strong>Login error message for Inactive accounts</strong> - Error message that appears when login fails because the user has not subscribed yet, or his/her account is inactive for another reason."
+msgstr "<strong>ç»å½éè¯¯è®¯æ¯æ æè´¦æ·</strong> -éè¯¯ä¿¡æ¯æ¶ï¼ä¼åºç°ç»å½å¤±è´¥ï¼å ä¸ºç¨æ·æ²¡æè®¢éç¶èï¼æä»/å¥¹çå¸æ·å·²åç¨çå¦ä¸ä¸ªåå ã"
+
+#: admin/paypal-messages.php:48
+msgid "<strong>Login error message for Expired accounts</strong> - Error message that appears when login fails because the user's subscription has expired."
+msgstr "<strong>ç»å½éè¯¯ä¿¡æ¯è¿æå¸æ·</strong> -éè¯¯ä¿¡æ¯æ¶ï¼ä¼åºç°ç»å½å¤±è´¥ï¼å ä¸ºç¨æ·çè®¢éå·²ç»è¿æã"
+
+#: admin/paypal-messages.php:51
+msgid "<strong>Login error message for Expired TRIAL accounts</strong> - Error message that appears when login fails because the user's trial account has expired."
+msgstr "<strong>ç»å½éè¯¯ä¿¡æ¯è¿æè¯ç¨å¸æ·</strong> -éè¯¯ä¿¡æ¯æ¶ï¼ä¼åºç°ç»å½å¤±è´¥ï¼å ä¸ºç¨æ·çè¯ç¨å¸æ·å·²è¿æã"
+
+#: admin/paypal-messages.php:54
+msgid "<strong>Login error message for Pending accounts</strong> - Error message that appears when login fails because the user's subscription payment is pending."
+msgstr "<strong>ç»å½éè¯¯ä¿¡æ¯å¾å¸æ·</strong> -éè¯¯ä¿¡æ¯æ¶ï¼ä¼åºç°ç»å½å¤±è´¥ï¼å ä¸ºç¨æ·çè®¤è´­æ¬¾é¡¹æ¬èæªå³ã"
+
+#: admin/paypal-messages.php:57
+msgid "<strong>Login error message for unexpected reason</strong> - Error message that appears when login fails for an unexpected reason. This will never show up if all systems work as designed."
+msgstr "<strong>ç»å½éè¯¯è®¯æ¯æå¤åå </strong> -éè¯¯ä¿¡æ¯æ¶ï¼ä¼åºç°ç»å½å¤±è´¥æå¤åå ãè¿å°æ°¸è¿æ¾ç¤ºï¼å¦æææçç³»ç»è®¾è®¡å·¥ä½ã"
+
+#: admin/paypal-messages.php:61
+msgid "Save Messages"
+msgstr "ä¿å­é®ä»¶"
+
+#: admin/paypal-modules.php:62
+msgid " Payment Gateways"
+msgstr "æ¯ä»ç½å³"
+
+#: admin/paypal-modules.php:67
+msgid "Gateway"
+msgstr "ç½å³"
+
+#: admin/paypal-modules.php:68
+msgid "Version"
+msgstr "çæ¬"
+
+#: admin/paypal-modules.php:69
+msgid "Description"
+msgstr "æè¿°"
+
+#: admin/paypal-modules.php:70
+#: includes/admin-functions.php:385
+msgid "Status"
+msgstr "èº«ä»½"
+
+#: admin/paypal-modules.php:89
+#, php-format
+msgid "<a href=\"%1$s\">Edit</a> | <a href=\"%2$s\">Deactivate</a>"
+msgstr "<a href=\"%1$s\">ç¼è¾</a> | <a href=\"%2$s\">åç¨</a>"
+
+#: admin/paypal-modules.php:93
+#, php-format
+msgid "<a href=\"%s\">Activate</a>"
+msgstr "<a href=\"%s\">æ¿æ´»</a>"
+
+#: admin/paypal-profile.php:40
+msgid "Information Updated."
+msgstr "ä¿¡æ¯æ´æ°ã"
+
+#: admin/paypal-profile.php:53
+msgid "Your Membership Information"
+msgstr "æ¨çä¼åä¿¡æ¯"
+
+#: admin/paypal-profile.php:60
+#: admin/paypal-profile.php:173
+msgid "Update Information &raquo;"
+msgstr "æ´æ°ä¿¡æ¯Â»"
+
+#: admin/paypal-profile.php:64
+msgid "Subscription Information"
+msgstr "è®¢éä¿¡æ¯"
+
+#: admin/paypal-profile.php:68
+#: admin/paypal-setup.php:500
+#: includes/admin-functions.php:299
+#: modules/paypal_paypal.php:193
+#: wp-member-main.php:794
+#: wp-member-main.php:976
+#: wp-member-main.php:1128
+#: wp-member-main.php:1209
+msgid "Days"
+msgstr "å¤©"
+
+#: admin/paypal-profile.php:69
+#: admin/paypal-setup.php:501
+#: includes/admin-functions.php:300
+#: modules/paypal_paypal.php:194
+#: wp-member-main.php:795
+#: wp-member-main.php:977
+#: wp-member-main.php:1129
+#: wp-member-main.php:1210
+msgid "Months"
+msgstr "ä¸ªæ"
+
+#: admin/paypal-profile.php:70
+#: admin/paypal-setup.php:502
+#: includes/admin-functions.php:301
+#: modules/paypal_paypal.php:195
+#: wp-member-main.php:796
+#: wp-member-main.php:978
+#: wp-member-main.php:1130
+#: wp-member-main.php:1211
+msgid "Years"
+msgstr "å¹´"
+
+#: admin/paypal-profile.php:74
+#, php-format
+msgid "%1$s %2$s"
+msgstr "%1$s %2$s"
+
+#: admin/paypal-profile.php:74
+#: modules/paypal_free.php:13
+#: wp-member-main.php:810
+msgid "Free"
+msgstr "èªç±ç"
+
+#: admin/paypal-profile.php:79
+msgid "Subscription Duration:"
+msgstr "è®¤è´­æï¼"
+
+#: admin/paypal-profile.php:83
+msgid "Last Payment Date:"
+msgstr "æè¿ä¸æ¬¡ä»æ¬¾æ¥æï¼"
+
+#: admin/paypal-profile.php:87
+msgid "Account Expiration Date:"
+msgstr "å¸æ·è¿ææ¥æï¼"
+
+#: admin/paypal-profile.php:91
+msgid "Amount Paid:"
+msgstr "æ¯ä»çéé¢ï¼"
+
+#: admin/paypal-profile.php:98
+msgid "Account Type:"
+msgstr "å¸æ·ç±»åï¼"
+
+#: admin/paypal-profile.php:102
+msgid "Upgrade / Downgrade your account"
+msgstr "åçº§/éçº§æ¨çå¸æ·"
+
+#: admin/paypal-profile.php:116
+msgid "Membership Information"
+msgstr "ä¼åä¿¡æ¯"
+
+#: admin/paypal-profile.php:167
+msgid "There are no fields defined."
+msgstr "æ²¡æä»»ä½é¢åççå®ã"
+
+#: admin/paypal-settings.php:13
+msgid "System Updated"
+msgstr "ç³»ç»æ´æ°"
+
+#: admin/paypal-settings.php:25
+msgid " General Settings"
+msgstr "ä¸è¬è®¾å®"
+
+#: admin/paypal-settings.php:29
+#: modules/paypal_free.php:171
+#: modules/paypal_paypal.php:698
+#: modules/paypal_trial.php:188
+msgid "Main Settings"
+msgstr "ä¸»è¦è®¾ç½®"
+
+#: admin/paypal-settings.php:30
+msgid "Your Email Address"
+msgstr "æ¨ççµå­é®ä»¶å°å"
+
+#: admin/paypal-settings.php:32
+msgid "Email address where you want to receive notifications."
+msgstr "çµå­é®ä»¶å°åï¼æ¨æ³è¦æ¶å°éç¥ã"
+
+#: admin/paypal-settings.php:34
+msgid "Your Subscription Name"
+msgstr "æ¨çè®¢éåç§°"
+
+#: admin/paypal-settings.php:36
+msgid "The name of the membership to display on the order form."
+msgstr "è¿ä¸ªåå­çæåï¼ä»¥æ¾ç¤ºå¨è®¢åè¡¨æ ¼ä¸ã"
+
+#: admin/paypal-settings.php:38
+msgid "Your name or your site name"
+msgstr "æ¨çå§åææ¨çç½ç«åç§°"
+
+#: admin/paypal-settings.php:40
+msgid "The name that appears as the email sender."
+msgstr "æ¾ç¤ºçåç§°ççµå­é®ä»¶åä»¶äººã"
+
+#: admin/paypal-settings.php:44
+msgid "Email Settings"
+msgstr "çµå­é®ä»¶è®¾ç½®"
+
+#: admin/paypal-settings.php:46
+msgid "From Name"
+msgstr "ä»åç§°"
+
+#: admin/paypal-settings.php:48
+msgid "Name of the sender (you or your site&rsquo;s name)"
+msgstr "åä»¶äººçåç§°ï¼æ¨ææ¨ç½ç«çåç§°ï¼"
+
+#: admin/paypal-settings.php:50
+msgid "From Email"
+msgstr "ä»çµå­é®ä»¶"
+
+#: admin/paypal-settings.php:53
+msgid "Mailer"
+msgstr "æ¢å"
+
+#: admin/paypal-settings.php:55
+msgid "PHP Mail"
+msgstr "PHPçé®ä»¶"
+
+#: admin/paypal-settings.php:56
+msgid "SMTP"
+msgstr "çSMTP"
+
+#: admin/paypal-settings.php:59
+msgid "SMTP Server"
+msgstr "SMTPæå¡å¨"
+
+#: admin/paypal-settings.php:61
+msgid "Enter <em>ssl://smtp.gmail.com:465</em> to use GMail"
+msgstr "è¾å¥<em>çSSL ï¼ / / smtp.gmail.com ï¼ 465</em>ä½¿ç¨Gmail"
+
+#: admin/paypal-settings.php:63
+msgid "SMTP Username"
+msgstr "çSMTPç¨æ·å"
+
+#: admin/paypal-settings.php:66
+msgid "SMTP Password"
+msgstr "çSMTPå¯ç "
+
+#: admin/paypal-settings.php:69
+msgid "SMTP Server Requires Authentication"
+msgstr "SMTPæå¡å¨éè¦èº«ä»½éªè¯"
+
+#: admin/paypal-settings.php:77
+msgid "Access Settings"
+msgstr "è®¿é®è®¾ç½®"
+
+#: admin/paypal-settings.php:78
+msgid "Here you can configure if you want to make whole blog available only to registered and logged in users or not. You can set also if you want all your private posts to be visible to everyone after deactivation of <strong>wp-Member</strong>."
+msgstr "å¨è¿éæ¨å¯ä»¥éç½®å¦ææ¨æ³æ´ä¸ªåå®¢åªæä¾ç»æ³¨ååç»å½ç¨æ·ææ²¡æãæ¨å¯ä»¥è®¾ç½®è¿å¦ææ¨æ³æ¨çææç§äººåé¢å¯ä»¥çå°æ¯ä¸ªäººé½å¤±æ´»å<strong>å¯æ¹¿æ§ç²åä¼å</strong> ã"
+
+#: admin/paypal-settings.php:81
+#: admin/paypal-settings.php:82
+msgid "Public access"
+msgstr "å¬å±æ¥å¥"
+
+#: admin/paypal-settings.php:83
+msgid "<p><strong>Enables/disables public access</strong> <br />CHECKED = All website visitors can access your website content.<br />UNCHECKED = All website visitors will be redirected to Login / Signup page.</p>"
+msgstr "<p> <strong>ä½¿/åç¨å¬å±æ¥å¥</strong> <br />çæ¬=ææç½ç«è®¿é®èå¯ä»¥è®¿é®æ¨çç½ç«åå®¹ã <br />æª=ææç½ç«è®¿é®èå°è¢«éå®åå°ç»å½/æ³¨åé¡µã </p>"
+
+#: admin/paypal-settings.php:87
+msgid "Plugin Deactivation Protection"
+msgstr "æä»¶å¤±æ´»çä¿æ¤"
+
+#: admin/paypal-settings.php:88
+msgid "Private Status"
+msgstr "ç§è¥ç¶æ"
+
+#: admin/paypal-settings.php:89
+msgid "<p>If checked, all content assigned to account types different than <strong>Free and Guest</strong> will be modified to have the &quot;<strong>Private</strong>&quot; status when PayPAL is deactivated.<br />If unchecked, all visitors will be able to view ALL posts/pages once PayPAL is deactivated.</p>"
+msgstr "<p>å¦æéä¸­ï¼ææçåå®¹åéå°ä¸åçå¸æ·ç±»å<strong>åå®¢æ·</strong>å°<strong>åè´¹</strong>è¿è¡ä¿®æ¹ï¼ä»¥æâ <strong>ç§äºº</strong> âçå°ä½æ¶ï¼è´å®æ¯åç¨ã <br />å¦æä¸å ä»¥æ§å¶ï¼ææåè§èå°è½å¤çå°æææç« /é¡µä¸æ¦è´å®æ¯åç¨ã </p>"
+
+#: admin/paypal-settings.php:93
+msgid "Enable use of Account Types"
+msgstr "è½å¤ä½¿ç¨çå¸æ·ç±»å"
+
+#: admin/paypal-settings.php:95
+msgid "If checked, you will be able to specify which posts, pages and categories can be seen and accessed by a specific account type.<br />If unchecked, all the posts and pages under public categories will be available to all subscribers.<br /><strong>NOTE:</strong> The \"Guest\", \"Trial\" and \"Free\" account types will still work even if this is disabled."
+msgstr "å¦æéä¸­ï¼ä½ å°è½å¤æå®åªäºèä½ï¼ç½é¡µåç±»å«å¯ä»¥çå°åè®¿é®çä¸ä¸ªå·ä½çå¸æ·ç±»åã <br />å¦æä¸å ä»¥æ§å¶ï¼ææåé¢åç½é¡µå¬å¼ç±»å«ä¸å°æä¾ç»ææç¨æ·ã <br /> <strong>æ³¨æï¼</strong> \"Guest\" ï¼ \"Trial\"å\"Free\"å¸æ·ç±»åä»ç¶å¯ä»¥å·¥ä½ï¼å³ä½¿è¿æ¯ç¦ç¨çã"
+
+#: admin/paypal-settings.php:101
+msgid "Save Settings"
+msgstr "ä¿å­è®¾ç½®"
+
+#: admin/paypal-setup.php:14
+#: admin/paypal-setup.php:246
+msgid "Please make sure the form is complete. All fields are required."
+msgstr "è¯·ç¡®è®¤çå½¢å¼å®æãåä¸ªé¢åçéè¦ã"
+
+#: admin/paypal-setup.php:93
+#: wp-member-main.php:92
+#, php-format
+msgid "Your trial account has expired. To continue using this site, please make a <a href=\"%s\">subscription payment</a> to re-activate your account."
+msgstr "æ¨çè¯ç¨å¸æ·å·²è¿æãè¥è¦ç»§ç»­ä½¿ç¨æ¬ç½ç«çåå®¹ï¼è¯·<a href=\"%s\">è®¢è´­æ¯ä»ä¸­</a> ï¼ä»¥éæ°å¯å¨æ¨çå¸æ·ã"
+
+#: admin/paypal-setup.php:217
+msgid "Data Successfully Updated!"
+msgstr "æ°æ®æåæ´æ°ï¼"
+
+#: admin/paypal-setup.php:249
+msgid "Please enter a valid duration (numeric) value."
+msgstr "è¯·è¾å¥ææçæéï¼æ°å­ï¼çä»·å¼ã"
+
+#: admin/paypal-setup.php:303
+msgid "Data Successfully Converted!"
+msgstr "æ°æ®æåè½¬æ¢ï¼"
+
+#: admin/paypal-setup.php:328
+msgid "WP-MEMBER needs to be setup or migrated from a previous install. Please complete the setup form below."
+msgstr "å¯æ¹¿æ§ç²åæåå½éè¦å®è£æè¿ç§»å°ä»¥åçå®è£ãè¯·å¡«åä»¥ä¸è¡¨æ ¼è®¾ç½®ã"
+
+#: admin/paypal-setup.php:343
+msgid "Data Migration"
+msgstr "æ°æ®è¿ç§»"
+
+#: admin/paypal-setup.php:345
+#, php-format
+msgid "Setup (%s)"
+msgstr "å®è£ï¼ %s ï¼"
+
+#: admin/paypal-setup.php:347
+#: admin/paypal-setup.php:455
+#, php-format
+msgid "Before proceeding, please make sure that you have configured the <a href=\"%s\">Account Types</a>."
+msgstr ""
+
+#: admin/paypal-setup.php:352
+msgid "Posts and Pages"
+msgstr "åé¢åé¡µé¢"
+
+#: admin/paypal-setup.php:353
+msgid "Private Posts and Pages"
+msgstr "ç§è¥é®æ¿åé¡µé¢"
+
+#: admin/paypal-setup.php:353
+#: admin/paypal-setup.php:462
+msgid "Check All"
+msgstr "æ£æ¥ææ"
+
+#: admin/paypal-setup.php:353
+#: admin/paypal-setup.php:462
+msgid "Uncheck All"
+msgstr "å¨é¨åæ¶"
+
+#: admin/paypal-setup.php:354
+msgid "Select the account types to which you&rsquo;d like to make private posts and pages available."
+msgstr ""
+
+#: admin/paypal-setup.php:368
+msgid "Users"
+msgstr "ç¨æ·"
+
+#: admin/paypal-setup.php:369
+msgid "Subscribed Users (Paid Users)"
+msgstr "è®¢éç¨æ·ï¼ä»è´¹ç¨æ·ï¼"
+
+#: admin/paypal-setup.php:370
+msgid "Select the account type that you would like to assign to paid users."
+msgstr "éæ©å¸æ·ç±»åï¼æ¨è¦ææ´¾ç»ä»è´¹ç¨æ·ã"
+
+#: admin/paypal-setup.php:379
+#: admin/paypal-setup.php:395
+#: admin/paypal-setup.php:411
+#, php-format
+msgid "Package: %1$s Month(s) for $%2$s"
+msgstr "å°è£ï¼ %1$sæ¬æï¼å¿ï¼ä¸º%2$s"
+
+#: admin/paypal-setup.php:446
+msgid "Migrate Data"
+msgstr "æ°æ®è¿ç§»"
+
+#: admin/paypal-setup.php:451
+msgid "Data Conversion"
+msgstr "æ°æ®è½¬æ¢"
+
+#: admin/paypal-setup.php:453
+#, php-format
+msgid " Setup (%s)"
+msgstr "å®è£ï¼ %s ï¼"
+
+#: admin/paypal-setup.php:460
+msgid "Posts, Pages and Users"
+msgstr "åé¢ï¼ç½é¡µåç¨æ·"
+
+#: admin/paypal-setup.php:462
+msgid "Existing Posts and Pages"
+msgstr "ç°æåé¢åé¡µé¢"
+
+#: admin/paypal-setup.php:464
+msgid "Here you can set for which account types existing posts and pages will be available."
+msgstr ""
+
+#: admin/paypal-setup.php:478
+msgid "Existing Users"
+msgstr "ç°æç¨æ·"
+
+#: admin/paypal-setup.php:480
+msgid "Assign an account type to your existing users."
+msgstr "æå®ä¸ä¸ªå¸æ·ç±»åå°æ¨ç°æçç¨æ·ã"
+
+#: admin/paypal-setup.php:494
+msgid "Account Duration for users (required if the account type selected above is not free)."
+msgstr "ä¸ºç¨æ·å¸æ·æææï¼å¦æéè¦çå¸æ·ç±»åéæ©ä»¥ä¸ä¸æ¯åè´¹çï¼ ã"
+
+#: admin/paypal-setup.php:497
+msgid "Duration:"
+msgstr "æææï¼"
+
+#: admin/paypal-setup.php:507
+msgid "Setup Data"
+msgstr "å®è£æ°æ®"
+
+#: admin/paypal-simplenewsletter.php:11
+msgid "Subject is empty"
+msgstr "ä¸»é¢æ¯ç©ºç"
+
+#: admin/paypal-simplenewsletter.php:15
+msgid "Message is empty"
+msgstr "é®ä»¶æ¯ç©ºç"
+
+#: admin/paypal-simplenewsletter.php:31
+msgid " Subscribers"
+msgstr "è®¢éè"
+
+#: admin/paypal-simplenewsletter.php:57
+#, php-format
+msgid "Emails sent to %d users!"
+msgstr "çµå­é®ä»¶åéå°%dç¨æ·ï¼"
+
+#: admin/paypal-simplenewsletter.php:66
+msgid "Please fix the errors below:"
+msgstr "è¯·ä¿®æ­£éè¯¯å¦ä¸ï¼"
+
+#: admin/paypal-simplenewsletter.php:81
+msgid " Simple Newsletter"
+msgstr "ç®åéè®¯"
+
+#: admin/paypal-simplenewsletter.php:82
+msgid "NOTE: All fields are required"
+msgstr "æ³¨æï¼ææå¿å¡«å­æ®µ"
+
+#: admin/paypal-simplenewsletter.php:86
+msgid "Message Content"
+msgstr "çè¨åå®¹"
+
+#: admin/paypal-simplenewsletter.php:88
+msgid "Recipients (by status)"
+msgstr "æ¶ä»¶äººï¼ç¶æï¼"
+
+#: admin/paypal-simplenewsletter.php:90
+msgid "All Subscribers"
+msgstr "ææè®¢éè"
+
+#: admin/paypal-simplenewsletter.php:91
+#: includes/admin-functions.php:390
+#: modules/paypal_paypal.php:625
+#: wp-member-main.php:500
+msgid "Inactive"
+msgstr "æ æ"
+
+#: admin/paypal-simplenewsletter.php:92
+#: includes/admin-functions.php:391
+#: modules/paypal_paypal.php:626
+#: wp-member-main.php:498
+msgid "Active"
+msgstr "æ´»è·"
+
+#: admin/paypal-simplenewsletter.php:93
+#: includes/admin-functions.php:393
+#: modules/paypal_paypal.php:628
+#: wp-member-main.php:501
+msgid "Pending"
+msgstr "ç´§è¿«ç"
+
+#: admin/paypal-simplenewsletter.php:94
+#: includes/admin-functions.php:392
+#: modules/paypal_paypal.php:627
+#: wp-member-main.php:499
+msgid "Expired"
+msgstr "è¿æ"
+
+#: admin/paypal-simplenewsletter.php:95
+#: wp-member-main.php:502
+msgid "Trial Expired"
+msgstr "å®¡å¤è¿æ"
+
+#: admin/paypal-simplenewsletter.php:96
+#: includes/admin-functions.php:394
+#: modules/paypal_paypal.php:629
+#: wp-member-main.php:497
+msgid "Error"
+msgstr "éè¯¯"
+
+#: admin/paypal-simplenewsletter.php:100
+msgid "Message Subject"
+msgstr "æ¶æ¯æ é¢"
+
+#: admin/paypal-simplenewsletter.php:103
+msgid "Message - Simple Newsletter does NOT support html formatting in emails. All emails sent using Simple Newsletter will be plain text."
+msgstr "è®¯æ¯-ç®åéè®¯ä¸æ¯æHTMLæ ¼å¼ççµå­é®ä»¶ãææåéççµå­é®ä»¶ä½¿ç¨ç®åçéè®¯å°çº¯ææ¬æä»¶ã"
+
+#: admin/paypal-simplenewsletter.php:107
+msgid "Send Email"
+msgstr "åéçµå­é®ä»¶"
+
+#: admin/paypal-subscription.php:24
+msgid "Subscription Packs Updated"
+msgstr "è®¤è´­åæ´æ°"
+
+#: admin/paypal-subscription.php:36
+msgid "Account Type Created"
+msgstr "åå»ºå¸æ·ç±»å"
+
+#: admin/paypal-subscription.php:67
+msgid "Account Type Deleted"
+msgstr "å¸æ·ç±»åå é¤"
+
+#: admin/paypal-subscription.php:82
+msgid " Subscription Settings"
+msgstr "è®¢éè®¾ç½®"
+
+#: admin/paypal-subscription.php:87
+#: modules/paypal_paypal.php:729
+msgid "Subscription options"
+msgstr "è®¢ééé¡¹"
+
+#: admin/paypal-subscription.php:88
+msgid "Below you can setup as many registration options as you like, each can have different subscription name, period and price."
+msgstr "æ¨å¯ä»¥å¨ä¸é¢å®è£ææ³¨åéé¡¹æ¨æ³è¦çï¼æ¯ä¸ªé½å¯ä»¥æä¸åçæ¶è´¹åç§°ï¼æéåä»·æ ¼ã"
+
+#: admin/paypal-subscription.php:93
+msgid "Add more packages &raquo;"
+msgstr "æ·»å æ´å¤å¥ä»¶Â»"
+
+#: admin/paypal-subscription.php:94
+msgid "<b>Tip</b>: Please save your settings after changing each subscription."
+msgstr "<b>æç¤º</b> ï¼è¯·ä¿å­æ¨çè®¾ç½®æ¹ååï¼æ¯ä¸ªè®¢éã"
+
+#: admin/paypal-subscription.php:98
+msgid "Save Subscription Options &raquo;"
+msgstr "ä¿å­è®¢ééé¡¹Â»"
+
+#: admin/paypal-subscription.php:102
+msgid "Membership Levels"
+msgstr "ä¼åçº§å«"
+
+#: admin/paypal-subscription.php:122
+msgid "Delete and move users of this type to"
+msgstr "å é¤åç§»å¨ç¨æ·çç±»å"
+
+#: admin/paypal-subscription.php:139
+msgid "Cannot delete this type"
+msgstr "ä¸è½å é¤æ­¤ç±»å"
+
+#: admin/paypal-subscription.php:153
+msgid "Create a new membership level"
+msgstr "åå»ºä¸ä¸ªæ°çä¼åçº§å«"
+
+#: admin/paypal-subscription.php:156
+msgid "Create membership level &raquo;"
+msgstr "åå»ºä¼åçº§å«Â»"
+
+#: admin/paypal-uninstall.php:15
+msgid "<p>WP-MEMBER system data found.</p>"
+msgstr "<p>å¯æ¹¿æ§ç²åï¼ä¼åç³»ç»çæ°æ®åç°ã </p>"
+
+#: admin/paypal-uninstall.php:17
+msgid "WP-MEMBER system data not found. Procedure aborted."
+msgstr "æ¶¡å·çç³»ç»æ°æ®æ²¡ææ¾å°ãç¨åºä¸­æ­¢ã"
+
+#: admin/paypal-uninstall.php:20
+msgid "<p>Removing user data...</p>"
+msgstr "<p>å é¤ç¨æ·æ°æ®... </p>"
+
+#: admin/paypal-uninstall.php:29
+#, php-format
+msgid "<p>Removed data from %s users.</p>"
+msgstr "<p>å é¤æ°æ®%sç¨æ·ã </p>"
+
+#: admin/paypal-uninstall.php:58
+#, php-format
+msgid "<p>Removed data from %d posts.</p>"
+msgstr "<p>å é¤æ°æ®%dèä½ã </p>"
+
+#: admin/paypal-uninstall.php:60
+msgid "<p>Removed system data.</p>"
+msgstr "<p>å é¤ç³»ç»æ°æ®ã </p>"
+
+#: admin/paypal-uninstall.php:64
+msgid "<p><strong>WP-MEMBER data cleared.</strong></p>"
+msgstr "<p> <strong>å¯æ¹¿æ§ç²åï¼ä¼åèµææ¸é¤ã</strong> </p>"
+
+#: admin/paypal-uninstall.php:66
+#, php-format
+msgid "<p style=\"color:red;\">Error: %s</p>"
+msgstr "<p style=\"color:red;\">éè¯¯ï¼ %s </p>"
+
+#: admin/paypal-uninstall.php:69
+msgid "<p><a href=\""
+msgstr ""
+
+#: admin/paypal-uninstall.php:74
+msgid " Uninstall WP-MEMBER"
+msgstr "å¸è½½å¯æ¹¿æ§ç²åæåå½"
+
+#: admin/paypal-uninstall.php:75
+msgid "Are you sure you want to delete the data?"
+msgstr "ä½ ç¡®å®è¦å é¤çæ°æ®ï¼"
+
+#: admin/paypal-uninstall.php:76
+msgid "This utility deletes ALL WP-MEMBER data from the database and uninstalls the plugin."
+msgstr "æ­¤å®ç¨å·¥å·å é¤ææå¯æ¹¿æ§ç²åï¼ä¼åèµæï¼å¹¶ä»æ°æ®åºä¸­å¸è½½æä»¶ã"
+
+#: admin/paypal-uninstall.php:77
+msgid "We recomend you backup your database before clicking on \"remove data\"."
+msgstr ""
+
+#: admin/paypal-uninstall.php:80
+msgid "Remove Data"
+msgstr "å é¤æ°æ®"
+
+#: admin/paypal-uninstall.php:81
+msgid "Cancel"
+msgstr "åæ¶"
+
+#: includes/admin-functions.php:271
+msgid "Subscription Duration"
+msgstr "è®¤è´­æ"
+
+#: includes/admin-functions.php:272
+msgid "Duration Type"
+msgstr "æ¶é´ç±»å"
+
+#: includes/admin-functions.php:273
+msgid "Membership Cost (eg: 10.00)"
+msgstr "ä¼åè´¹ç¨ï¼ä¾å¦ï¼ 10.00 ï¼"
+
+#: includes/admin-functions.php:380
+msgid "Username"
+msgstr "ç¨æ·å"
+
+#: includes/admin-functions.php:380
+msgid "ID"
+msgstr "ç¼å·"
+
+#: includes/admin-functions.php:381
+msgid "Email"
+msgstr "çµé®"
+
+#: includes/admin-functions.php:383
+msgid "Registration Date"
+msgstr "æ³¨åæ¥æ"
+
+#: includes/admin-functions.php:383
+msgid "Last payment"
+msgstr "æè¿ä¸æ¬¡ä»æ¬¾"
+
+#: includes/admin-functions.php:383
+msgid "Expire date"
+msgstr "å°ææ¥æ"
+
+#: includes/admin-functions.php:384
+msgid "Fee"
+msgstr "é¬é"
+
+#: includes/admin-functions.php:398
+#: modules/paypal_paypal.php:563
+msgid "months"
+msgstr "ä¸ªæ"
+
+#: includes/admin-functions.php:399
+#: modules/paypal_paypal.php:565
+msgid "days"
+msgstr "å¤©"
+
+#: includes/admin-functions.php:400
+#: modules/paypal_paypal.php:564
+msgid "years"
+msgstr "å¹´"
+
+#: includes/admin-functions.php:410
+#: includes/admin-functions.php:411
+#: includes/admin-functions.php:415
+msgid "N/A"
+msgstr "Ã± /é¿"
+
+#: includes/admin-functions.php:418
+#, php-format
+msgid "%1$s %2$s per %3$s %4$s"
+msgstr "%1$s %2$sæ¯%3$s %4$s"
+
+#: modules/paypal_free.php:14
+msgid "<p>Allow users to signup for a free account. You can set the number of years before a free account expires. To use this gateway, simply set the Account Type to \"Free\" on the Subscription Settings page.</p>"
+msgstr "<p>ä½¿ç¨æ·è½å¤æ³¨åä¸ä¸ªåè´¹å¸æ·ãæ¨å¯ä»¥è®¾å®è¥å¹²å¹´åä¸ä¸ªåè´¹å¸æ·å°æãå¦æè¦ä½¿ç¨è¿ä¸ªç½å³ï¼åªéè®¾ç½®å¸æ·ç±»åï¼ä»¥\"Free\"è®¢éè®¾å®ç½é¡µä¸çã </p>"
+
+#: modules/paypal_free.php:47
+#: wp-member-main.php:808
+#: wp-member-main.php:1154
+msgid "Free Account"
+msgstr "åè´¹å¸æ·"
+
+#: modules/paypal_free.php:49
+#: modules/paypal_free.php:54
+#: modules/paypal_free.php:88
+msgid "Sign Up for a Free Account"
+msgstr "æ³¨åä¸ä¸ªåè´¹å¸æ·"
+
+#: modules/paypal_free.php:97
+#: modules/paypal_trial.php:106
+msgid "POST Variables missing!"
+msgstr "é®æ¿åéå¤±è¸ªï¼"
+
+#: modules/paypal_free.php:110
+#: modules/paypal_paypal.php:421
+#: modules/paypal_trial.php:120
+msgid "User cannot be found."
+msgstr "ç¨æ·æ æ³æ¾å°ã"
+
+#: modules/paypal_free.php:129
+msgid "Free Account Created"
+msgstr "åè´¹å¸å·"
+
+#: modules/paypal_free.php:157
+#: modules/paypal_paypal.php:682
+#: modules/paypal_trial.php:174
+msgid "Options Updated"
+msgstr "éæ©æ´æ°"
+
+#: modules/paypal_free.php:167
+#: modules/paypal_trial.php:184
+#, php-format
+msgid "%s Options"
+msgstr "%séé¡¹"
+
+#: modules/paypal_free.php:172
+msgid "Account Duration (in years)"
+msgstr "è´¦æ·æææï¼å¹´ï¼"
+
+#: modules/paypal_free.php:174
+msgid "How many years before a free account expires"
+msgstr "å¤å°ååè´¹å¸æ·å°æ"
+
+#: modules/paypal_free.php:176
+#: modules/paypal_trial.php:189
+msgid "Button/Logo"
+msgstr "æé®/æ å¿"
+
+#: modules/paypal_free.php:179
+#: modules/paypal_paypal.php:714
+#: modules/paypal_trial.php:192
+msgid "Logo"
+msgstr "æ å¿"
+
+#: modules/paypal_free.php:186
+#: modules/paypal_paypal.php:721
+#: modules/paypal_trial.php:199
+msgid "Description:"
+msgstr "æè¿°ï¼"
+
+#: modules/paypal_free.php:191
+#: modules/paypal_paypal.php:860
+#: modules/paypal_trial.php:204
+msgid "Update Options"
+msgstr "æ´æ°éé¡¹"
+
+#: modules/paypal_free.php:214
+#: modules/paypal_paypal.php:899
+#: modules/paypal_paypal.php:918
+#: modules/paypal_paypal.php:937
+#: modules/paypal_paypal.php:956
+#: modules/paypal_trial.php:225
+#, php-format
+msgid "The modules directory (%s) is not writable. Please set its permissions to 755 or 777"
+msgstr ""
+
+#: modules/paypal_free.php:221
+#: modules/paypal_paypal.php:925
+#: modules/paypal_paypal.php:944
+#: modules/paypal_paypal.php:963
+#: modules/paypal_trial.php:232
+#, php-format
+msgid "Unable to move file to %s"
+msgstr "æ æ³ç§»å¨æä»¶å°%s"
+
+#: modules/paypal_paypal.php:15
+msgid "<p>PayPal is an electronic money service which allows you to make payment to anyone online. You can choose to pay using your credit card, debit card, bank account, or PayPal balance and make secure purchases without revealing your credit card number or financial information.</p><p>All major credit and debit cards are accepted including Visa, Mastercard, American Express, Switch and Solo (plus many more).</p>"
+msgstr "<p>è´å®æ¯ä¸ç§çµå­è´§å¸æå¡ï¼ä½ å¯ä»¥æ®æ­¤åä»»ä½ç½ä¸æ¯ä»ãæ¨å¯ä»¥éæ©æ¯ä»ä½¿ç¨ä¿¡ç¨å¡ï¼åè®°å¡ï¼é¶è¡å¸æ·ï¼æè´å®çå®å¨å¹³è¡¡ï¼ä½¿è´­ä¹°ä¸æ³é²æ¨çä¿¡ç¨å¡å·ç æè´¢å¡ä¿¡æ¯ã </p><p>ææä¸»è¦çä¿¡ç¨å¡ååè®°å¡æ¯æ¥ååæ¬Visaå¡ï¼ä¸äºè¾¾å¡ï¼ç¾å½è¿éå¡ï¼äº¤æ¢æºåSolo ï¼å ä¸è®¸å¤ï¼ ã </p>"
+
+#: modules/paypal_paypal.php:107
+#: modules/paypal_paypal.php:128
+#: modules/paypal_paypal.php:168
+#: modules/paypal_paypal.php:180
+msgid "Make payments with PayPal - it's fast, free and secure!"
+msgstr "ä¸è´å®ä»æ¬¾-è¿æ¯å¿«éï¼èªç±åå®å¨çï¼"
+
+#: modules/paypal_paypal.php:345
+msgid "Error: Missing POST variables. Identification is not possible."
+msgstr "éè¯¯ï¼å¤±è¸ªåçåæ°ãé´å®æ¯ä¸å¯è½çã"
+
+#: modules/paypal_paypal.php:395
+msgid "Response Error: Header not found"
+msgstr "ååºè¯¯å·®ï¼æ é¢æªåç°"
+
+#: modules/paypal_paypal.php:396
+msgid "Response Error: Unexpected HTTP response"
+msgstr "ååºè¯¯å·®ï¼æå¤çHTTPååº"
+
+#: modules/paypal_paypal.php:402
+msgid "Response Error: No content found in transaction response"
+msgstr "ååºéè¯¯ï¼æ²¡ææ¾å°äº¤æçååº"
+
+#: modules/paypal_paypal.php:403
+msgid "Response Error: Unexpected transaction response"
+msgstr "ååºè¯¯å·®ï¼æå¤çäº¤æååº"
+
+#: modules/paypal_paypal.php:463
+#: modules/paypal_paypal.php:486
+msgid "Last payment was successful"
+msgstr "ä¸ä¸æ¬¡çä»æ¬¾å·²æå"
+
+#: modules/paypal_paypal.php:511
+msgid "Last payment was refunded or denied"
+msgstr "æåä»æ¬¾éè¿æå¦è®¤"
+
+#: modules/paypal_paypal.php:517
+msgid "Customer did not include a confirmed shipping address"
+msgstr "å®¢æ·å¹¶æ²¡æåæ¬ç¡®è®¤éè´§å°å"
+
+#: modules/paypal_paypal.php:518
+msgid "Funds not captured yet"
+msgstr "èµéè¿æ²¡ææè·"
+
+#: modules/paypal_paypal.php:519
+msgid "eCheck that has not cleared yet"
+msgstr "eCheckå°æªæ¸é¤å°æª"
+
+#: modules/paypal_paypal.php:520
+msgid "Payment waiting for approval by service provider"
+msgstr "ä»æ¬¾ç­å¾æ¹åçæå¡ä¾åºå"
+
+#: modules/paypal_paypal.php:521
+msgid "Payment waiting for service provider to handle multi-currency process"
+msgstr "ä»æ¬¾ç­å¾æå¡æä¾åæ¥å¤çå¤ç§è´§å¸è¿ç¨"
+
+#: modules/paypal_paypal.php:522
+msgid "Customer did not register or confirm his/her email yet"
+msgstr "å®¢æ·æ²¡æç»è®°æç¡®è®¤ä»/å¥¹ççµå­é®ä»¶å°æª"
+
+#: modules/paypal_paypal.php:523
+msgid "Waiting for service provider to upgrade the PayPal account"
+msgstr "ç­å¾æå¡æä¾ååçº§çè´å®è´¦æ·"
+
+#: modules/paypal_paypal.php:524
+msgid "Waiting for service provider to verify his/her PayPal account"
+msgstr "ç­å¾æå¡æä¾åï¼ä»¥éªè¯ä»/å¥¹çè´å®å¸æ·"
+
+#: modules/paypal_paypal.php:529
+#, php-format
+msgid "Last payment is pending. Reason: %s"
+msgstr "æè¿ä¸æ¬¡ä»æ¬¾æ¯æ¬èæªå³ãåå æ¯ï¼ %s"
+
+#: modules/paypal_paypal.php:535
+#, php-format
+msgid "Last payment status: %s"
+msgstr "ä¸ä¸æ¬¡çä»æ¬¾ç¶åµï¼ %s"
+
+#: modules/paypal_paypal.php:541
+msgid "The subscription is not active"
+msgstr "è®¤è´­å¹¶ä¸æ´»è·"
+
+#: modules/paypal_paypal.php:560
+#, php-format
+msgid "[%s] Payment receipt"
+msgstr "[ %s ]ä»æ¬¾æ¶æ®"
+
+#: modules/paypal_paypal.php:567
+#, php-format
+msgid ""
+"\r\n"
+"This is an automatic notification from %1$s to %2$s (%3$s).\r\n"
+"\r\n"
+"This is a notification to inform you that your payment was successful for recurring subscription of %4$s %5$s every %6$s %7$s\r\n"
+"\r\n"
+"For more information please contact %8$s"
+msgstr ""
+"\r\n"
+"Thisæ¯ä¸ä¸ªèªå¨éç¥%1$sä»¥%2$s ï¼ %3$s ï¼ ã \r\n"
+"\r\n"
+"Thisæ¯ä¸ä¸ªéç¥ï¼éç¥æ¨ï¼æ¨çä»æ¬¾å·²æåéå¤è®¤è´­%4$s %5$sæ¯%6$s %7$s\r\n"
+"\r\n"
+"Foræ´å¤ä¿¡æ¯ï¼è¯·èç³»%8$s"
+
+#: modules/paypal_paypal.php:574
+#, php-format
+msgid ""
+"\r\n"
+"This is an automatic notification from %1$s to %2$s (%3$s).\r\n"
+"\r\n"
+"This is a notification to inform you that your payment was successful for a one-time payment of %4$s %5$s for %6$s %7$s\r\n"
+"\r\n"
+"For more information please contact %8$s"
+msgstr ""
+"\r\n"
+"Thisæ¯ä¸ä¸ªèªå¨éç¥%1$sä»¥%2$s ï¼ %3$s ï¼ ã \r\n"
+"\r\n"
+"Thisæ¯ä¸ä¸ªéç¥ï¼éç¥æ¨ï¼æ¨çä»æ¬¾å·²æåä¸ºä¸æ¬¡æ§ä»æ¬¾ç%4$s %5$sç%6$s %7$s\r\n"
+"\r\n"
+"Foræ´å¤ä¿¡æ¯ï¼è¯·èç³»%8$s"
+
+#: modules/paypal_paypal.php:584
+#, php-format
+msgid "[%s] Account inactive"
+msgstr "[ %s ]å¸æ·æ æ"
+
+#: modules/paypal_paypal.php:585
+#, php-format
+msgid ""
+"\r\n"
+"This is an automatic notification from %1$s\r\n"
+"to %2$s (%3$s).\r\n"
+"\r\n"
+"This is a notification to inform you that your account is inactive.\r\n"
+"Reason: %4$s\r\n"
+"\r\n"
+"For more information please contact %5$s"
+msgstr ""
+"\r\n"
+"Thisæ¯ä¸ä¸ªèªå¨éç¥%1$s\r\n"
+"to %2$s ï¼ %3$s ï¼ ã \r\n"
+"\r\n"
+"Thisæ¯ä¸ä¸ªéç¥ï¼éç¥æ¨ï¼æ¨çå¸æ·inactive.\r\n"
+"Reason ï¼ %4$s\r\n"
+"\r\n"
+"Foræ´å¤ä¿¡æ¯ï¼è¯·èç³»%5$s"
+
+#: modules/paypal_paypal.php:597
+#, php-format
+msgid ""
+"\r\n"
+"This is an automatic notification from %1$s\r\n"
+"to %2$s (%3$s).\r\n"
+"\r\n"
+"This is a notification to inform you that you payment was received in pending status.\r\n"
+"Status: %4$s\r\n"
+"\r\n"
+"For more information please contact %5$s"
+msgstr ""
+"\r\n"
+"Thisæ¯ä¸ä¸ªèªå¨éç¥%1$s\r\n"
+"to %2$s ï¼ %3$s ï¼ ã \r\n"
+"\r\n"
+"Thisæ¯ä¸ä¸ªéç¥ï¼éç¥ä½ ï¼ä½ å¨æ¶å°ä»æ¬¾ä¹åstatus.\r\n"
+"Status ï¼ %4$s\r\n"
+"\r\n"
+"Foræ´å¤ä¿¡æ¯ï¼è¯·èç³»%5$s"
+
+#: modules/paypal_paypal.php:609
+#, php-format
+msgid ""
+"\r\n"
+"This is an automatic notification from %1$s\r\n"
+"to %2$s (%3$s).\r\n"
+"\r\n"
+"This is a notification to inform you that an error occurred while processing your payment.\r\n"
+"Details: %4$s\r\n"
+"\r\n"
+"For more information please contact %5$s"
+msgstr ""
+"\r\n"
+"Thisæ¯ä¸ä¸ªèªå¨éç¥%1$s\r\n"
+"to %2$s ï¼ %3$s ï¼ ã \r\n"
+"\r\n"
+"Thisæ¯ä¸ä¸ªéç¥ï¼éç¥ä½ ï¼æ¶åçéè¯¯å¤çæ¨payment.\r\n"
+"Details ï¼ %4$s\r\n"
+"\r\n"
+"Foræ´å¤ä¿¡æ¯ï¼è¯·èç³»%5$s"
+
+#: modules/paypal_paypal.php:668
+msgid "Some fields were not saved due to the following errors:"
+msgstr "ä¸äºé¢åæ²¡æä¿å­ç±äºä»¥ä¸éè¯¯ï¼"
+
+#: modules/paypal_paypal.php:694
+msgid " Options"
+msgstr "éé¡¹"
+
+#: modules/paypal_paypal.php:699
+msgid "Your PayPal Email Address"
+msgstr "æ¨çè´å®çµå­é®ä»¶å°å"
+
+#: modules/paypal_paypal.php:701
+msgid "This address must match the email address that you use to login to PayPal."
+msgstr ""
+
+#: modules/paypal_paypal.php:703
+msgid "PayPal Return URL"
+msgstr "è´å®è¿åç½å"
+
+#: modules/paypal_paypal.php:705
+msgid "Where user must return after successful payment via PayPal."
+msgstr "å¦æä½¿ç¨èå¿é¡»è¿åæååä»æ¬¾éè¿PayPal ã"
+
+#: modules/paypal_paypal.php:707
+msgid "PayPal Cancel URL"
+msgstr "è´å®åæ¶ç½å"
+
+#: modules/paypal_paypal.php:709
+msgid "Where user must return if payment was canceled."
+msgstr "å¦æä½¿ç¨èå¿é¡»è¿åï¼å¦æä»æ¬¾è¢«åæ¶ã"
+
+#: modules/paypal_paypal.php:711
+msgid "PayPal Button/Logo"
+msgstr "è´å®æé®/æ å¿"
+
+#: modules/paypal_paypal.php:730
+msgid "Live Switch"
+msgstr "çæ´»å¼å³"
+
+#: modules/paypal_paypal.php:732
+msgid "Live Site"
+msgstr "çæ´»ç½ç«"
+
+#: modules/paypal_paypal.php:733
+msgid "Test Mode (Sandbox)"
+msgstr "æµè¯æ¨¡å¼ï¼å®¢æ ï¼"
+
+#: modules/paypal_paypal.php:736
+msgid "Select Test Mode to test your buttons."
+msgstr "éæ©æµè¯æ¨¡å¼æ¥æµè¯æ¨çæé®ã"
+
+#: modules/paypal_paypal.php:738
+msgid "Payment Type"
+msgstr "ä»æ¬¾ç±»å"
+
+#: modules/paypal_paypal.php:745
+msgid "The Currency used for the payments"
+msgstr "è´§å¸ç¨äºæ¯ä»"
+
+#: modules/paypal_paypal.php:750
+#, php-format
+msgid "%s - Australian Dollar"
+msgstr "%s -æ¾³å¤§å©äºå"
+
+#: modules/paypal_paypal.php:751
+#, php-format
+msgid "%s - Canadian Dollar"
+msgstr "%s -å æ¿å¤§å"
+
+#: modules/paypal_paypal.php:752
+#, php-format
+msgid "%s - Swiss Franc"
+msgstr "%s -çå£«æ³é"
+
+#: modules/paypal_paypal.php:753
+#, php-format
+msgid "%s - Czech Koruna"
+msgstr "%s -æ·ååæ"
+
+#: modules/paypal_paypal.php:754
+#, php-format
+msgid "%s - Danish Krone"
+msgstr "%s -ä¸¹éº¦åæ"
+
+#: modules/paypal_paypal.php:755
+#, php-format
+msgid "%s - Euro"
+msgstr "%s -æ¬§å"
+
+#: modules/paypal_paypal.php:756
+#, php-format
+msgid "%s - Pound Sterling"
+msgstr "%s -è±é"
+
+#: modules/paypal_paypal.php:757
+#, php-format
+msgid "%s - Hong Kong Dollar"
+msgstr "%s -æ¸¯å"
+
+#: modules/paypal_paypal.php:758
+#, php-format
+msgid "%s - Hungarian Forint"
+msgstr "%s -åçå©ç¦æ"
+
+#: modules/paypal_paypal.php:759
+#, php-format
+msgid "%s - Japanese Yen"
+msgstr "%s -æ¥å"
+
+#: modules/paypal_paypal.php:760
+#, php-format
+msgid "%s - Norwegian Krone"
+msgstr "%s -æªå¨åæ"
+
+#: modules/paypal_paypal.php:761
+#, php-format
+msgid "%s - New Zealand Dollar"
+msgstr "%s -æ°è¥¿å°å"
+
+#: modules/paypal_paypal.php:762
+#, php-format
+msgid "%s - Polish Zloty"
+msgstr "%s -æ³¢å°å¹ç½æ"
+
+#: modules/paypal_paypal.php:763
+#, php-format
+msgid "%s - Swedish Krona"
+msgstr "%s -çå¸åé"
+
+#: modules/paypal_paypal.php:764
+#, php-format
+msgid "%s - Singapore Dollar"
+msgstr "%s -æ°å å¡å¸"
+
+#: modules/paypal_paypal.php:765
+#, php-format
+msgid "%s - U.S. Dollar"
+msgstr "%s -ç¾å"
+
+#: modules/paypal_paypal.php:774
+msgid "Payment transaction currency"
+msgstr "æ¯ä»äº¤æè´§å¸"
+
+#: modules/paypal_paypal.php:776
+msgid "The local PayPal site to use"
+msgstr "å½å°çè´å®ç½ç«ä½¿ç¨"
+
+#: modules/paypal_paypal.php:781
+msgid "Australia"
+msgstr "æ¾³å¤§å©äº"
+
+#: modules/paypal_paypal.php:782
+msgid "Austria"
+msgstr "å¥¥å°å©"
+
+#: modules/paypal_paypal.php:783
+msgid "Belgium"
+msgstr "æ¯å©æ¶"
+
+#: modules/paypal_paypal.php:784
+msgid "Canada"
+msgstr "å æ¿å¤§"
+
+#: modules/paypal_paypal.php:785
+msgid "China"
+msgstr "ä¸­å½"
+
+#: modules/paypal_paypal.php:786
+msgid "France"
+msgstr "æ³å½"
+
+#: modules/paypal_paypal.php:787
+msgid "Germany"
+msgstr "å¾·å½"
+
+#: modules/paypal_paypal.php:788
+msgid "Italy"
+msgstr "æå¤§å©"
+
+#: modules/paypal_paypal.php:789
+msgid "Netherlands"
+msgstr "è·å°"
+
+#: modules/paypal_paypal.php:790
+msgid "Poland"
+msgstr "æ³¢å°"
+
+#: modules/paypal_paypal.php:791
+msgid "Spain"
+msgstr "è¥¿ç­ç"
+
+#: modules/paypal_paypal.php:792
+msgid "Switzerland"
+msgstr "çå£«"
+
+#: modules/paypal_paypal.php:793
+msgid "United Kingdom"
+msgstr "è±å½"
+
+#: modules/paypal_paypal.php:794
+msgid "United States"
+msgstr "ç¾å½"
+
+#: modules/paypal_paypal.php:808
+msgid "Encrypted Buttons Guide"
+msgstr "å å¯æé®æå"
+
+#: modules/paypal_paypal.php:810
+msgid "To use encrypted buttons, follow the STEPS outlined in <a href=\"https://www.paypal.com/IntegrationCenter/ic_button-encryption.html\">Securing your PayPal Buttons</a> below &quot;Encrypting Buttons Dynamically with Encrypted Website Payments&quot;."
+msgstr "ä½¿ç¨çå å¯æé®ï¼è¯·æç§ä¸åæ­¥éª¤ä¸­æ¦è¿°ç<a href=\"https://www.paypal.com/IntegrationCenter/ic_button-encryption.html\">ä¿æ¤æ¨çè´å®æé®</a>ä¸é¢çâå å¯æé®å¨æå å¯çç½ç«ä»æ¬¾â ã"
+
+#: modules/paypal_paypal.php:812
+msgid "After completing the steps, go back to your WordPress Admin Section -> PayPAL -> Gateways and click the &quot;Edit&quot; link for PayPal. Scroll down to the Buttons Encryption section and enter the Certificate ID from PayPal, upload PayPal's Public Certificate, your Private Key file and your Public Certificate file."
+msgstr "å®æåçæ­¥éª¤ï¼è¯·è¿åå°æ¨çWordPressçç®¡çç»- âè´å®- âç½å³ï¼ç¶ååå»âç¼è¾âé¾æ¥è´å®ãåä¸æ»å¨å°æé®å å¯é¨åï¼å¹¶è¾å¥è¯ä¹¦ç¼å·ç±è´å®ï¼ä¸ä¼ è´å®çå¬å±è¯ä¹¦ï¼æ¨çç§é¥æä»¶åä½ çå¬å±è¯ä¹¦æä»¶ã"
+
+#: modules/paypal_paypal.php:814
+msgid "Also, you have to make sure that your website host has OpenSSL installed. Contact your hosting provider and ask for the OpenSSL path. Click the &quot;Update Options&quot; to save your changes. You should test your buttons at this point to make sure that the encryption is working right."
+msgstr "æ­¤å¤ï¼æ¨å¿é¡»ç¡®ä¿æ¨çç½ç«æå¨çOpenSSLçå®è£ãèç³»æ¨çæç®¡æå¡æä¾ååè¦æ±çopensslè·¯å¾ãç¹å»âæ´æ°éé¡¹âä¿å­æ´æ¹ãæ¨åºè¯¥æµè¯æ¨çæé®ï¼å¨è¿ä¸ç¹ä¸ï¼ä»¥ç¡®ä¿å å¯å·¥ä½çæå©ã"
+
+#: modules/paypal_paypal.php:816
+msgid "Resources"
+msgstr "èµæº"
+
+#: modules/paypal_paypal.php:819
+msgid "PayPal"
+msgstr "è´å®"
+
+#: modules/paypal_paypal.php:820
+msgid "OpenSSL (*nix)"
+msgstr "OpenSSLçï¼ * nixä¸­ï¼"
+
+#: modules/paypal_paypal.php:821
+msgid "OpenSSL (Windows)"
+msgstr "OpenSSLçï¼ Windows ï¼ä¸­"
+
+#: modules/paypal_paypal.php:828
+msgid "Buttons Encryption"
+msgstr "æé®å å¯"
+
+#: modules/paypal_paypal.php:829
+msgid "Enable Encryption"
+msgstr "å¯ç¨å å¯"
+
+#: modules/paypal_paypal.php:835
+msgid "Encrypts your PayPal buttons using OpenSSL"
+msgstr "å å¯æ¨çè´å®ä½¿ç¨OpenSSLçæé®"
+
+#: modules/paypal_paypal.php:837
+msgid "PayPal&rsquo;s Certificate ID"
+msgstr "è´å®çè¯ä¹¦ç¼å·"
+
+#: modules/paypal_paypal.php:841
+msgid "PayPal&rsquo;s Public Certificate"
+msgstr "è´å®çå¬å±è¯ä¹¦"
+
+#: modules/paypal_paypal.php:845
+msgid "Your Private Key file"
+msgstr "æ¨çç§äººå¯é¥æä»¶"
+
+#: modules/paypal_paypal.php:849
+msgid "Your Public Certificate"
+msgstr "æ¨çå¬è¯ä¹¦"
+
+#: modules/paypal_paypal.php:853
+msgid "Path to OpenSSL"
+msgstr "OpenSSLçè·¯å¾"
+
+#: modules/paypal_paypal.php:856
+#, php-format
+msgid "Usually %s on unix systems."
+msgstr "éå¸¸%s Unixç³»ç»ã"
+
+#: modules/paypal_paypal.php:906
+#, php-format
+msgid "unable to move file to %s"
+msgstr "æ æ³ç§»å¨æä»¶å°%s"
+
+#: modules/paypal_paypal.php:970
+msgid "<strong>Your Public Certificate<strong>: No file was uploaded or file does not exist."
+msgstr ""
+
+#: modules/paypal_paypal.php:974
+msgid "<strong>Your Public Key File</strong>: No file was uploaded or file does not exist."
+msgstr "<strong>æ¨çå¬å¼å¯é¥æä»¶</strong> ï¼æ æä»¶ä¸ä¼ ææä»¶ä¸å­å¨ã"
+
+#: modules/paypal_paypal.php:978
+msgid "<strong>PayPal's Public Certificate</strong>: No file was uploaded or file does not exist."
+msgstr "<strong>è´å®</strong>ç<strong>å¬å±è¯ä¹¦</strong> ï¼å¦æä»¶ä¸ä¼ ææä»¶ä¸å­å¨ã"
+
+#: modules/paypal_trial.php:13
+#: modules/paypal_trial.php:114
+msgid "Trial"
+msgstr "è¯éª"
+
+#: modules/paypal_trial.php:14
+msgid "<p>Allow users to signup for a free trial account which expires automatically after a number of days. You can set the number of days/months/years before a trial account expires on the Subscription Settings page. Simply set the Account Type to \"Trial\" to use this gateway.</p>"
+msgstr "<p>ä½¿ç¨æ·è½å¤æ³¨åä¸ä¸ªå¸æ·ï¼åè´¹è¯ç¨ææ»¡åï¼èªå¨çå¤©æ°ãæ¨å¯ä»¥è®¾å®çå¤©æ°/æ/å¹´ä¹åå°æçå®¡å¤å¸æ·è®¢éè®¾å®ç½é¡µä¸çãåªéè®¾ç½®å¸æ·ç±»åï¼ä»¥\"Trial\"ä½¿ç¨è¿ä¸ªç½å³ã </p>"
+
+#: modules/paypal_trial.php:56
+msgid "Trial Account"
+msgstr "è¯ç¨å¸æ·"
+
+#: modules/paypal_trial.php:58
+#: modules/paypal_trial.php:63
+msgid "Sign Up for a Trial Account"
+msgstr "ç³è¯·è¯ç¨å¸å·"
+
+#: modules/paypal_trial.php:139
+msgid "Trial Account Created"
+msgstr "è¯ç¨å¸å·"
+
+#: paypal-subscribe.php:10
+#: paypal-subscribe.php:35
+msgid "Subscription"
+msgstr "è®¤è´­"
+
+#: paypal-subscribe.php:35
+msgid "Powered by WordPress"
+msgstr "æ¬ç«ç±WordPressç"
+
+#: paypal-subscribe.php:36
+msgid "Select Payment Method"
+msgstr "éæ©ä»æ¬¾æ¹æ³"
+
+#: paypal-subscribe.php:47
+msgid "Please follow the <a href=\"wp-login.php\">login</a> or the <a href=\"wp-register.php\">register</a> procedure, and then retry subscribing."
+msgstr "è¯·æç§<a href=\"wp-login.php\">ç»å½</a>æ<a href=\"wp-register.php\">æ³¨å</a>ç¨åºï¼ç¶åéè¯è®¢éã"
+
+#: paypal-subscribe.php:56
+msgid "Your subscription status is pending. Please contact an administrator for more information."
+msgstr "æ¨çè®¢éå°ä½æ¬èæªå³ãè¯·èç³»ç³»ç»ç®¡çåä»¥è·åæ´å¤ä¿¡æ¯ã"
+
+#: paypal-subscribe.php:60
+msgid "You are already subscribed or an error occurred. Please contact an administrator for more information."
+msgstr "æ¨å·²è®¢éææéè¯¯åçãè¯·èç³»ç³»ç»ç®¡çåä»¥è·åæ´å¤ä¿¡æ¯ã"
+
+#: paypal-tos.php:6
+msgid "Terms Of Service"
+msgstr "æå¡æ¡æ¬¾"
+
+#: wp-member-main.php:90
+#, php-format
+msgid "Your account is not active. To activate your account please complete the <a href=\"%s\">subscription payment</a>"
+msgstr "æ¨çå¸æ·å°æªå¯å¨ãè¥è¦å¯ç¨æ¨çå¸æ·ï¼è¯·å¡«å<a href=\"%s\">è®¢è´­æ¯ä»</a>"
+
+#: wp-member-main.php:91
+#, php-format
+msgid "Your Account has expired. Please make a new <a href=\"%s\">subscription payment</a> to re-activate your account."
+msgstr "æ¨çå¸æ·å·²è¿æãè¯·æ°<a href=\"%s\">è®¢è´­æ¯ä»ä¸­</a> ï¼ä»¥éæ°å¯å¨æ¨çå¸æ·ã"
+
+#: wp-member-main.php:93
+msgid "Your Account is now PENDING activation!"
+msgstr "æ¨çå¸æ·ç°å·²å¯å¨ï¼"
+
+#: wp-member-main.php:94
+msgid "Your account is not active"
+msgstr "æ¨çå¸æ·å°æªå¯å¨"
+
+#: wp-member-main.php:96
+msgid "After completing registration, we will send you an e-mail containing your login details. If a payment is required, you will be presented with a subscription button after you have clicked on the register button. "
+msgstr "å¨å®ææ³¨åï¼æä»¬å°åæ¨åéä¸å°çµå­é®ä»¶ï¼åå«ç»å½ç»èãå¦ææ¨çä»æ¬¾éè¦ï¼æ¨å°æ¶å°ä¸ä»½è®¢è´­æé®åï¼ç¹å»æ³¨åæé®ã"
+
+#: wp-member-main.php:97
+msgid "Please replace this text with your Terms & Conditions"
+msgstr "è¯·åä»£è¿ä¸æ¡æä¸æ¨çæ¡æ¬¾åæ¡ä»¶"
+
+#: wp-member-main.php:98
+msgid "<p style=\"text-align: center;\">*****<br>You need to be logged in to see this part of the post. Login using the box in the sidebar. Not registered? Click <a href=\"/wp-login.php?action=register\">here</a> to register<br>*****</p>"
+msgstr "<p style=\"text-align: center;\"> ***** <br>æ¨éè¦åç»å½æè½çå°è¿é¨åçèå¡ãç»å½ä½¿ç¨ä¸­çæ¡è¾¹æ ãè¿æ²¡æ³¨åï¼ç¹å»<a href=\"/wp-login.php?action=register\">è¿é</a>æ³¨å<br> ***** </p>"
+
+#: wp-member-main.php:495
+msgid "Private"
+msgstr "ç§è¥"
+
+#: wp-member-main.php:496
+msgid "Public"
+msgstr "å¬å±"
+
+#: wp-member-main.php:651
+msgid "WP-MEMBER Custom Fields"
+msgstr "å¯æ¹¿æ§ç²åæåå½èªå®ä¹å­æ®µ"
+
+#: wp-member-main.php:787
+msgid "I agree to the Terms and Conditions."
+msgstr "æåæçæ¡æ¬¾åæ¡ä»¶ã"
+
+#: wp-member-main.php:802
+msgid "There are no payment gateways active. Please contact the administrator."
+msgstr "æ²¡ææ¯ä»ç½å³æ´»è·ãè¯·èç³»ç®¡çåã"
+
+#: wp-member-main.php:812
+#, php-format
+msgid "%1$s per %2$s %3$s (Trial)"
+msgstr "%1$sæ¯%2$s %3$s ï¼è¯è¡ï¼"
+
+#: wp-member-main.php:837
+#, php-format
+msgid "&nbsp; %1$s %2$s per %3$s %4$s%5$s"
+msgstr "%1$s %2$sæ¯%3$s %4$s%5$s"
+
+#: wp-member-main.php:893
+msgid "<strong>ERROR</strong>: You must accept the Terms and Conditions."
+msgstr "<strong>éè¯¯</strong> ï¼æ¨å¿é¡»æ¥åæ­¤æ¡æ¬¾åç»åã"
+
+#: wp-member-main.php:899
+msgid "<strong>ERROR</strong>: You must select a Subscription Type."
+msgstr "<strong>éè¯¯</strong> ï¼æ¨å¿é¡»éæ©è®¢éç±»åã"
+
+#: wp-member-main.php:903
+msgid "<strong>ERROR</strong>: Birthdate is required."
+msgstr "<strong>éè¯¯</strong> ï¼åºçæ¥ææ¯å¿è¦çã"
+
+#: wp-member-main.php:907
+msgid "<strong>ERROR</strong>: Country is required."
+msgstr "<strong>éè¯¯</strong> ï¼å½å®¶æ¯å¿è¦çã"
+
+#: wp-member-main.php:915
+#, php-format
+msgid "<strong>ERROR</strong>: %s is a required field"
+msgstr "<strong>éè¯¯</strong> ï¼ %sæ¯å¿å¡«å­æ®µ"
+
+#: wp-member-main.php:963
+#, php-format
+msgid "Invalid Data Passed. <a href=\"%s\">Try again.</a>"
+msgstr "æ æçæ°æ®éè¿ã <a href=\"%s\">åè¯ä¸æ¬¡ã</a>"
+
+#: wp-member-main.php:982
+msgid "<br /><table width=\"100%\" cellpadding=\"3\" cellspacing=\"0\" border=\"0\" align=\"center\" class=\"form-table\">"
+msgstr ""
+
+#: wp-member-main.php:985
+#: wp-member-main.php:1218
+msgid "Create a free account"
+msgstr "åå»ºä¸ä¸ªåè´¹å¸æ·"
+
+#: wp-member-main.php:988
+#, php-format
+msgid "Create a trial account for %1$s %2$s<br />(for %3$s %4$s)"
+msgstr "å»ºç«å®¡å¤å¸æ·%1$s %2$s <br /> ï¼ä¸º%3$s %4$s ï¼"
+
+#: wp-member-main.php:994
+#: wp-member-main.php:1006
+#: wp-member-main.php:1071
+#: wp-member-main.php:1220
+msgid "Select Payment Gateway"
+msgstr "éæ©æ¯ä»ç½å³"
+
+#: wp-member-main.php:996
+#, php-format
+msgid "Create a trial account for %1$s %2$s"
+msgstr "å»ºç«å®¡å¤å¸æ·%1$s %2$s"
+
+#: wp-member-main.php:1001
+#: wp-member-main.php:1221
+#, php-format
+msgid "Subscribe for %1$s %2$s<br />(for %3$s %4$s)"
+msgstr "è®¢é%1$s %2$s <br /> ï¼ä¸º%3$s %4$s ï¼"
+
+#: wp-member-main.php:1063
+#: wp-member-main.php:1093
+#: wp-member-main.php:1243
+msgid "There are no gateways available at this time."
+msgstr "æ²¡æç½å³å¯ä»¥å¨è¿ä¸ªæ¶åã"
+
+#: wp-member-main.php:1102
+#, php-format
+msgid "Unknown Module: %s"
+msgstr "æªç¥æ¨¡åï¼ %s"
+
+#: wp-member-main.php:1132
+msgid "<p class=\"message register\">Choose an Account Type</p>"
+msgstr "<p class=\"message register\">éæ©å¸æ·ç±»å</p>"
+
+#: wp-member-main.php:1158
+#, php-format
+msgid "%1$s %2$s per %3$s %4$s%5$s"
+msgstr "%1$s %2$sæ¯%3$s %4$s%5$s"
+
+#: wp-member-main.php:1179
+msgid "Data tampered. Exiting."
+msgstr "æ°æ®ç¯¡æ¹ãç¦»å»ã"
+
+#: wp-member-main.php:1205
+msgid "Invalid data passed"
+msgstr "æ æçæ°æ®ä¼ é"
+
+#: wp-member-main.php:1296
+msgid "Select which usergroup will have access to read this post/page."
+msgstr "éæ©ç¨æ·ç»å°ææºä¼éè¯»æ­¤èä½/é¡µã"
+
+#: wp-member-main.php:1319
+msgid "Note: You can hide parts of the post/page from guests by adding <strong>[private]</strong> <em>your text</em> <strong>[/private]</strong> tags"
+msgstr "æ³¨ï¼æ¨å¯ä»¥éèé¨åèä½/é¡µç±å®¢äººå å¥<strong>[ç§äºº]</strong> <em>æå­</em> <strong>[ /ç§è¥]</strong>æ ç­¾"
+
+#: wp-member-main.php:1364
+msgid "Access for This Category:"
+msgstr "è®¿é®æ­¤ç±»å«ï¼"
+
+#: wp-member-main.php:1366
+msgid "(Leave all unchecked for public access to this category.)"
+msgstr "ï¼å°ææéä¸­çå¬ä¼è·å¾è¿ä¸ç±»ã ï¼"
+
+#: wp-member-main.php:1370
+#, php-format
+msgid "Allow access to subscribers of type \"%s\""
+msgstr "åè®¸è®¿é®çç¨æ·ç±»å\"%s\""
+
+#: wp-member-main.php:1660
+msgid "Select Country"
+msgstr "éæ©å½å®¶"
+
+#: wp-member-main.php:1723
+#, php-format
+msgid "Powered by <a href=\"%1$s\">WP-MEMBER</a>. Product of <a href=\"http://www.wp-member.com/\"><strong>WP-MEMBER</strong></a>"
+msgstr "æ¬ç«ç±<a href=\"%1$s\">å¯æ¹¿æ§ç²åæåå½</a> ãäº§å<strong><a href=\"http://www.wp-member.com/\">å¯æ¹¿æ§ç²åæåå½</a></strong>"
+
+#: wp-member-main.php:1821
+msgid "General Settings"
+msgstr "ä¸è¬è®¾å®"
+
+#: wp-member-main.php:1821
+msgid "Setup and General Settings"
+msgstr "å®è£åå¸¸è§è®¾ç½®"
+
+#: wp-member-main.php:1822
+msgid "Members"
+msgstr "æå"
+
+#: wp-member-main.php:1823
+msgid "Simple Newsletter"
+msgstr "ç®åéè®¯"
+
+#: wp-member-main.php:1825
+msgid "Subscription Settings"
+msgstr "è®¢éè®¾ç½®"
+
+#: wp-member-main.php:1826
+msgid "Messages"
+msgstr "é®ä»¶"
+
+#: wp-member-main.php:1827
+msgid "Gateways"
+msgstr "ç½å³"
+
+#: wp-member-main.php:1828
+msgid "Registration Customization"
+msgstr "æ³¨åä¸ªæ§å"
+
+#: wp-member-main.php:1830
+msgid "Uninstall"
+msgstr "å¸è½½"
+
+#: wp-member-main.php:1833
+#: wp-member-main.php:2011
+#: wp-member-main.php:2068
+msgid "Membership Details"
+msgstr "ä¼åè¯¦ç»ä¿¡æ¯"
+
+#: wp-member-main.php:2012
+#: wp-member-main.php:2069
+msgid "Register"
+msgstr "æ³¨å"
+
+#: wp-member-main.php:2013
+#: wp-member-main.php:2070
+msgid "Lost your Password?"
+msgstr "å¿è®°å¯ç äºï¼"
+
+#: wp-member-main.php:2019
+#, php-format
+msgid "Welcome, %s"
+msgstr "æ¬¢è¿æ¨ï¼ %s"
+
+#: wp-member-main.php:2023
+msgid "Logout"
+msgstr "æ³¨é"
+
+#: wp-member-main.php:2029
+msgid "Log In"
+msgstr "ç»å½"
+
+#: wp-member-main.php:2034
+msgid "Username:"
+msgstr "ç¨æ·åï¼"
+
+#: wp-member-main.php:2038
+msgid "Password:"
+msgstr "å¯ç ï¼"
+
+#: wp-member-main.php:2042
+msgid "Remember me"
+msgstr "è®°ä½æ"
+
+#: wp-member-main.php:2044
+msgid "Login &raquo;"
+msgstr "ç»å½Â»"
+
+#: wp-member-main.php:2073
+msgid "Membership Details link text:"
+msgstr "ä¼åè¯¦ç»ä¿¡æ¯çé¾æ¥æå­ï¼"
+
+#: wp-member-main.php:2076
+msgid "Register link text:"
+msgstr "ç»è®°åçé¾æ¥æå­ï¼"
+
+#: wp-member-main.php:2080
+msgid "Lost password link text:"
+msgstr "å¿è®°å¯ç çé¾æ¥æå­ï¼"
+
+#: wp-member-main.php:2138
+msgid "FATAL ERROR: Missing parameter"
+msgstr "è´å½éè¯¯ï¼ç¼ºå°åæ°"
+
+#: wp-member-main.php:2194
+msgid "WP-MEMBER License Key"
+msgstr "å¯æ¹¿æ§ç²åæåå½è®¸å¯è¯å¯é¥"
+
+#: wp-member-main.php:2200
+msgid "WP-MEMBER license key successfully updated!"
+msgstr "å¯æ¹¿æ§ç²åæåå½è®¸å¯è¯å¯é¥æåæ´æ°ï¼"
+
+#: wp-member-main.php:2202
+msgid "WARNING: The WP-MEMBER license key you submitted seems to have problems."
+msgstr ""
+
+#: wp-member-main.php:2207
+msgid "WP-MEMBER License Configuration"
+msgstr "å¯æ¹¿æ§ç²åæåå½è®¸å¯è¯éç½®"
+
+#: wp-member-main.php:2211
+msgid "WP-MEMBER Key"
+msgstr "å¯æ¹¿æ§ç²åæåå½å³é®è¯"
+
+#: wp-member-main.php:2213
+msgid "Save Key &raquo;"
+msgstr "ä¿å­é¡¹Â»"
+
+#: wp-member-main.php:2293
+msgid "WP-MEMBER functionality will be disabled until this error is corrected."
+msgstr "å¯æ¹¿æ§ç²åæåå½çåè½å°è¢«ç¦ç¨ï¼ç´å°æ­¤éè¯¯å¾å°çº æ­£ã"
+
+#: wp-member-main.php:2386
+#, php-format
+msgid "WP-MEMBER Error: An error occured while checking your license.  Please visit our <a href=\"%1$s\">support section</a> for support."
+msgstr "å¯æ¹¿æ§ç²åæåå½éè¯¯ï¼åçéè¯¯ï¼åæ¶æ£æ¥æ¨çè®¸å¯è¯ãè¯·è®¿é®æä»¬ç<a href=\"%1$s\">æ¯æ´ç»</a>çæ¯æã"
+
+#: wp-member-main.php:2390
+#, php-format
+msgid "WP-MEMBER Error: Invalid license.  Please visit our <a href=\"%1$s\">support section</a> for support."
+msgstr "å¯æ¹¿æ§ç²åæåå½éè¯¯ï¼æ æçè®¸å¯è¯ãè¯·è®¿é®æä»¬ç<a href=\"%1$s\">æ¯æ´ç»</a>çæ¯æã"
+
+#: wp-member-main.php:2394
+#, php-format
+msgid "WP-MEMBER Error: License has expired.  To purchase a license key, please go to <a href=\"%1$s\">the WP-MEMBER store</a>, or visit our <a href=\"%2$s\">support section</a> for support."
+msgstr "å¯æ¹¿æ§ç²åæåå½éè¯¯ï¼è®¸å¯å·²å°æãè´­ä¹°è®¸å¯è¯å¯é¥ï¼è¯·è®¿é®<a href=\"%1$s\">çå¯æ¹¿æ§ç²åï¼æåååº</a> ï¼æè®¿é®æä»¬ç<a href=\"%2$s\">æ¯æ´ç»</a>çæ¯æã"
+
+#: wp-member-main.php:2398
+#, php-format
+msgid "WP-MEMBER Error: License suspended.  To purchase a license key, please go to <a href=\"%1$s\">the WP-MEMBER store</a>, or visit our <a href=\"%2$s\">support section</a> for support."
+msgstr "å¯æ¹¿æ§ç²åæåå½éè¯¯ï¼è®¸å¯æåãè´­ä¹°è®¸å¯è¯å¯é¥ï¼è¯·è®¿é®<a href=\"%1$s\">çå¯æ¹¿æ§ç²åï¼æåååº</a> ï¼æè®¿é®æä»¬ç<a href=\"%2$s\">æ¯æ´ç»</a>çæ¯æã"
+
+#. Plugin Name of an extension
+msgid "wp-Member"
+msgstr "å¯æ¹¿æ§ç²åä¼å"
+
+#. #-#-#-#-#  wp-member.pot (wp-Member 2.2)  #-#-#-#-#
+#. Plugin URI of an extension
+#. #-#-#-#-#  wp-member.pot (wp-Member 2.2)  #-#-#-#-#
+#. Author URI of an extension
+msgid "http://wp-Member.com"
+msgstr "http://wp-Member.com"
+
+#. Description of an extension
+msgid "Advanced wordpress membership, user and content plugin."
+msgstr "åè¿çWordPressçæåï¼ç¨æ·ååå®¹æä»¶ã"
+
+#. Author of an extension
+msgid "wp-Member.com"
+msgstr "æ¶¡å·Member.com"
+

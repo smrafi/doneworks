@@ -1,0 +1,288 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2009-09-06 13:18+0330\n"
+"Last-Translator: Hassan Jahangiry <hassan.jahan@gmail.com>\n"
+"Language-Team: WordPress Wave <info@wordpresswave.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#wwwm-register.php
+#payment.php
+#cms-members.php
+#wwm-install.php
+msgid "Register"
+msgstr "ثبت نام"
+
+msgid "Registration has been disabled."
+msgstr "ثبت نام در حال حاضر غیرفعال است. لطفا بعدا مراجعه فرمایید."
+
+msgid "Your account has been successfully activated."
+msgstr "حساب شما با موفقیت فعال شد."
+
+msgid "We think you did it before!"
+msgstr "حساب شما قبلا فعال شده است."
+
+msgid "-Select-"
+msgstr "- انتخاب کنید -"
+
+msgid "Please choose a plan."
+msgstr "لطفا پلان مورد نظر خود را انتخاب کنید"
+
+msgid "Your activation key is not valid!"
+msgstr "کد فعال سازی شما نامعتبر است"
+
+msgid "Change Password"
+msgstr "تغییر کلمه عبور"
+
+msgid "Please enter a username(at least 4 characters)."
+msgstr "لطفا نام کاربری دلخواهتان را با حداقل چهار کاراکتر وارد کنید"
+
+msgid "%s already exists."
+msgstr "%s در درسترس نیست "
+
+msgid "%s is not allowed."
+msgstr "%s مجاز نیست "
+
+msgid "Please enter a password(at least 6 characters)."
+msgstr "لطفا کلمه عبور خود را با حداقل 6 کاراکتر وارد کنید"
+
+msgid "Please re-type password to confirm."
+msgstr "لطفا کلمه عبور خود را جهت تایید مجددا وارد کنید"
+
+msgid "Please enter a correct email address."
+msgstr "لطفا یک آدرس ایمیل معتبر وارد کنید"
+
+msgid "That email already exists."
+msgstr "ایمیل مورد نظر قبلا ثبت شده است"
+
+msgid "Please enter a correct URL."
+msgstr "لطفا یک آدرس معتبر وارد کنید"
+
+msgid "Please choose your country."
+msgstr "لطفا کشور خود را انتخاب کنید"
+
+msgid "Please choose your birthdate."
+msgstr "لطفا تاریح تولد خود را وارد کنید"
+
+msgid "Please choose your gender."
+msgstr "لطفا جنسیت خود را مشخص کنید"
+
+msgid "Please accept %s."
+msgstr "لطفا %s را بپذیرید"
+
+msgid "Please upload a photo as %s."
+msgstr "لطفا عکسی جهت %s آپلود کنید"
+
+msgid "Please enter a correct %s."
+msgstr "لطفا یک %s معتبر وارد کنید"
+
+msgid "%s is not valid."
+msgstr "%s معتبر نیست"
+
+msgid "Thank you for your registration."
+msgstr "از ثبت نام شما متشکریم"
+
+msgid "Please check your mail for activation link."
+msgstr "لطفا ایمیل خود را جهت دریافت لینک فعال سازی چک کنید"
+
+msgid "Plan"
+msgstr "پلان"
+
+msgid "Price"
+msgstr "قیمت"
+
+msgid "Male"
+msgstr "مرد"
+
+msgid "Female"
+msgstr "زن"
+
+msgid "Januaray"
+msgstr "فروردین"
+
+msgid "February"
+msgstr "اردیبهشت"
+
+msgid "March"
+msgstr "خرداد"
+
+msgid "April"
+msgstr "تیر"
+
+msgid "May"
+msgstr "مرداد"
+
+msgid "June"
+msgstr "شهریور"
+
+msgid "July"
+msgstr "مهر"
+
+msgid "August"
+msgstr "آبان"
+
+msgid "September"
+msgstr "آذر"
+
+msgid "October"
+msgstr "دی"
+
+msgid "November"
+msgstr "بهمن"
+
+msgid "December"
+msgstr "اسفند"
+
+msgid "Go back and edit"
+msgstr "جهت اصلاح و بازگشت اینجا کلیک کنید"
+
+msgid "Confirm"
+msgstr "تایید نهایی"
+
+msgid "Thank you for your order."
+msgstr "از ثبت نام شما متشکریم"
+
+msgid "Username"
+msgstr "نام کاربری"
+
+msgid "Password"
+msgstr "کلمه عبور"
+
+msgid "Confirm Password"
+msgstr "تکرار کلمه عبور"
+
+msgid "[Uploaded]"
+msgstr "دریافت شد."
+
+msgid "Change it below"
+msgstr "تغییر دهید"
+
+msgid "Upload"
+msgstr "ارسال"
+
+msgid "-Day-"
+msgstr "-روز-"
+
+msgid "-Month-"
+msgstr "-ماه-"
+
+msgid "-Year-"
+msgstr "-سال-"
+
+msgid "Select your country"
+msgstr "لطفا کشور خود را انتخاب کنید"
+
+msgid "Thank you for your payment."
+msgstr "از پرداخت شما سپاسگذاریم"
+
+msgid "The payment was canceled."
+msgstr "پرداخت لغو شد"
+
+msgid "Your registration is incomplete.<br>Check your mail for activation link."
+msgstr "ثبت نام شما کامل نیست. لطفا ایمیل خود را جهت لینک فعال سازی چک کنید"
+
+msgid "Your account status: %s."
+msgstr "وضعیت حساب شما در حال حاضر: %s"
+
+msgid "Your account was expired."
+msgstr "حساب شما منقضی شده است"
+
+msgid "%s Invalid file type."
+msgstr "پسوند %s مجاز نیست"
+
+msgid "Max allowed file size: %s KB"
+msgstr "حداکثر اندازه فایل مجاز %s کیلوبایت"
+
+msgid "Email"
+msgstr "ایمیل"
+
+msgid "First name"
+msgstr "نام"
+
+msgid "Last name"
+msgstr "نام خانوادگی"
+
+msgid "Nickname"
+msgstr "نام مستعار"
+
+msgid "Company"
+msgstr "شرکت"
+
+msgid "URI"
+msgstr "آدرس سایت"
+
+msgid "Starts with http://"
+msgstr "http:// فراموش نشود"
+
+msgid "Yahoo IM"
+msgstr "شناسه یاهو"
+
+msgid "AOL IM"
+msgstr "شناسه AOL"
+
+msgid "Jabber IM"
+msgstr "شناسه Jabber"
+
+msgid "Birth Date"
+msgstr "تاریخ تولد"
+
+msgid "Gender"
+msgstr "جنسیت"
+
+msgid "Country"
+msgstr "کشور"
+
+msgid "State/Province"
+msgstr "استان"
+
+msgid "City"
+msgstr "شهر"
+
+msgid "Address"
+msgstr "نشانی"
+
+msgid "ZIP/Postal Code"
+msgstr "کدپستی"
+
+msgid "Phone"
+msgstr "تلفن"
+
+msgid "Note"
+msgstr "توضیح"
+
+msgid "Any comment here."
+msgstr "هر گونه توضیح یا نظر "
+
+msgid "Terms"
+msgstr "قوانین و مقررات"
+
+msgid "Avatar"
+msgstr "عکس"
+
+msgid "Allowed file types: jpg,gif,png. Max size: 100KB"
+msgstr "پسوند های مجاز: jpg,gif,png حداکثر اندازه: 100 کیلوبایت"
+
+msgid "CAPTCHA"
+msgstr "متن تصویری"
+
+msgid "Type above text in the field"
+msgstr "متن بالا را تایپ کنید"
+
+msgid "Promo Code"
+msgstr "کد ویژه"
+
+msgid "If you have a promo code type it above otherwise leave it blank."
+msgstr "در صورتی که شما کدی در اختیار دارید آنرا اینجا وارد کنید"
+
+msgid "I read and accept terms."
+msgstr "قوانین و مقررات سایت را می پذیرم."
+
+msgid "Image is very little."
+msgstr "عکس بیش از اندازه کوچک است."
+
+msgid "Please enter %s."
+msgstr "%s خالی مانده است!"
+
