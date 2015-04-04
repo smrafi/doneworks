@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : tellmemd.xml
+    Created on : July 27, 2011, 10:22 AM
+    Author     : Rafi
+    Description:
+        Purpose of the document follows.
+-->
+
+<extension type="component" version="1.7" method="upgrade">
+    <name>com_tellmemd</name>
+    <author>Mohamed Rafi - Archmage Software</author>
+    <creationDate>August 2011</creationDate>
+    <copyright>Archmage Software Pvt Ltd.</copyright>
+    <license>GNU General Public License version 2 or later; see	LICENSE.txt</license>
+    <authorEmail>rafi@archmage.lk</authorEmail>
+    <authorUrl>www.archmage.lk</authorUrl>
+    <version>1.0</version>
+    <description>Description will go here</description>
+    <administration>
+        <menu img="class:banners">com_tellmemd</menu>
+        <submenu>
+            <menu link="option=com_tellmemd&amp;controller=alert" img="class:banners"
+            alt="Alerts">com_tellmemd_alerts</menu>
+            <menu link="option=com_tellmemd&amp;controller=website" img="class:banners"
+            alt="Manage Website">com_tellmemd_website</menu>
+            <menu link="option=com_tellmemd&amp;controller=dispute" img="class:banners"
+            alt="Disputes">com_tellmemd_disputes</menu>
+            <menu link="option=com_tellmemd&amp;controller=cases" img="class:banners"
+            alt="Cases">com_tellmemd_cases</menu>
+            <menu link="option=com_tellmemd&amp;controller=doctors" img="class:banners"
+            alt="New Doctors">com_tellmemd_doctors</menu>
+            <menu link="option=com_tellmemd&amp;controller=report" img="class:banners"
+            alt="Reports">com_tellmemd_reports</menu>
+            <menu link="option=com_tellmemd&amp;controller=account" img="class:banners"
+            alt="Manage Account">com_tellmemd_account</menu>
+            <menu link="option=com_tellmemd&amp;controller=notice" img="class:banners"
+            alt="Notices">com_tellmemd_notices</menu>
+        </submenu>
+    </administration>
+</extension>

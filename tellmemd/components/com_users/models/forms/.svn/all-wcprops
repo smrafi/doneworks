@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/archmage/!svn/ver/3/trunk/tellmemd/components/com_users/models/forms
+END
+profile.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/archmage/!svn/ver/3/trunk/tellmemd/components/com_users/models/forms/profile.xml
+END
+frontend_admin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/archmage/!svn/ver/3/trunk/tellmemd/components/com_users/models/forms/frontend_admin.xml
+END
+login.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/archmage/!svn/ver/3/trunk/tellmemd/components/com_users/models/forms/login.xml
+END
+registration.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/archmage/!svn/ver/3/trunk/tellmemd/components/com_users/models/forms/registration.xml
+END
+reset_complete.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/archmage/!svn/ver/3/trunk/tellmemd/components/com_users/models/forms/reset_complete.xml
+END
+reset_request.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/archmage/!svn/ver/3/trunk/tellmemd/components/com_users/models/forms/reset_request.xml
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/archmage/!svn/ver/3/trunk/tellmemd/components/com_users/models/forms/index.html
+END
+remind.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/archmage/!svn/ver/3/trunk/tellmemd/components/com_users/models/forms/remind.xml
+END
+frontend.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/archmage/!svn/ver/3/trunk/tellmemd/components/com_users/models/forms/frontend.xml
+END
+reset_confirm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/archmage/!svn/ver/3/trunk/tellmemd/components/com_users/models/forms/reset_confirm.xml
+END

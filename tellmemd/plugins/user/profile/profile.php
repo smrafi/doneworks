@@ -1,0 +1,447 @@
+<?php
+/**
+ * @version		$Id: profile.php 21766 2011-07-08 12:20:23Z eddieajau $
+ * @copyright	Copyright (C) 2005 - 2011 Open Source Matters, Inc. All rights reserved.
+ * @license		GNU General Public License version 2 or later; see LICENSE.txt
+ */
+
+defined('JPATH_BASE') or die;
+jimport('joomla.utilities.date');
+
+/**
+ * An example custom profile plugin.
+ *
+ * @package		Joomla.Plugin
+ * @subpackage	User.profile
+ * @version		1.6
+ */
+class plgUserProfile extends JPlugin
+{
+	/**
+	 * Constructor
+	 *
+	 * @access      protected
+	 * @param       object  $subject The object to observe
+	 * @param       array   $config  An array that holds the plugin configuration
+	 * @since       1.5
+	 */
+	public function __construct(& $subject, $config)
+	{
+		parent::__construct($subject, $config);
+		$this->loadLanguage();
+	}
+
+	/**
+	 * @param	string	$context	The context for the data
+	 * @param	int		$data		The user id
+	 * @param	object
+	 *
+	 * @return	boolean
+	 * @since	1.6
+	 */
+	function onContentPrepareData($context, $data)
+	{
+		// Check we are manipulating a valid form.
+		if (!in_array($context, array('com_users.profile','com_users.user', 'com_users.registration', 'com_admin.profile'))) {
+			return true;
+		}
+
+		if (is_object($data))
+		{
+			$userId = isset($data->id) ? $data->id : 0;
+                        
+			if (!isset($data->profile) and $userId > 0) {
+
+				// Load the profile data from the database.
+				$db = JFactory::getDbo();
+                                
+                                //Dev Rafi
+                                //we are getting profile details from our table profile_data
+                                $query = "Select * From #__user_data Where user_id = $userId ";
+                                $db->setQuery($query);
+                                
+                                //Dev Rafi - following lines has been commented to remove the default plugin save functionality
+//				$db->setQuery(
+//					'SELECT profile_key, profile_value FROM #__user_profiles' .
+//					' WHERE user_id = '.(int) $userId." AND profile_key LIKE 'profile.%'" .
+//					' ORDER BY ordering'
+//				);
+//				$results = $db->loadRowList();
+                                
+                                //Dev Rafi
+                                $results = $db->loadAssoc();
+
+				// Check for a database error.
+				if ($db->getErrorNum())
+				{
+					$this->_subject->setError($db->getErrorMsg());
+					return false;
+				}
+
+				// Merge the profile data.
+				$data->profile = array();
+                                
+                                //Dev Rafi
+                                foreach($results as $key => $value)
+                                {
+                                    if($key == 'id' || $key == 'user_id')
+                                        continue;
+                                    $data->profile[$key] = $value;
+                                }
+
+                                //Dev Rafi - following lines has been commented to remove the default plugin save functionality
+//				foreach ($results as $v)
+//				{
+//					$k = str_replace('profile.', '', $v[0]);
+//					$data->profile[$k] = $v[1];
+//				}
+			}
+
+			if (!JHtml::isRegistered('users.url')) {
+				JHtml::register('users.url', array(__CLASS__, 'url'));
+			}
+			if (!JHtml::isRegistered('users.calendar')) {
+				JHtml::register('users.calendar', array(__CLASS__, 'calendar'));
+			}
+			if (!JHtml::isRegistered('users.tos')) {
+				JHtml::register('users.tos', array(__CLASS__, 'tos'));
+			}
+		}
+
+		return true;
+	}
+
+	public static function url($value)
+	{
+		if (empty($value))
+		{
+			return JHtml::_('users.value', $value);
+		}
+		else
+		{
+			$value = htmlspecialchars($value);
+			if(substr ($value, 0, 4) == "http") {
+				return '<a href="'.$value.'">'.$value.'</a>';
+			}
+			else {
+				return '<a href="http://'.$value.'">'.$value.'</a>';
+			}
+		}
+	}
+
+	public static function calendar($value)
+	{
+		if (empty($value)) {
+			return JHtml::_('users.value', $value);
+		} else {
+			return JHtml::_('date', $value, null, null);
+		}
+	}
+
+	public static function tos($value)
+	{
+		if ($value) {
+			return JText::_('JYES');
+		}
+		else {
+			return JText::_('JNO');
+		}
+	}
+
+	/**
+	 * @param	JForm	$form	The form to be altered.
+	 * @param	array	$data	The associated data for the form.
+	 *
+	 * @return	boolean
+	 * @since	1.6
+	 */
+	function onContentPrepareForm($form, $data)
+	{
+            
+
+		if (!($form instanceof JForm))
+		{
+			$this->_subject->setError('JERROR_NOT_A_FORM');
+			return false;
+		}
+
+		// Check we are manipulating a valid form.
+		if (!in_array($form->getName(), array('com_admin.profile','com_users.user', 'com_users.registration','com_users.profile'))) {
+			return true;
+		}
+
+		// Add the registration fields to the form.
+		JForm::addFormPath(dirname(__FILE__).'/profiles');
+		$form->loadFile('profile', false);
+
+		// Toggle whether the address1 field is required.
+		if ($this->params->get('register-require_address1', 1) > 0) {
+			$form->setFieldAttribute('address1', 'required', $this->params->get('register-require_address1') == 2, 'profile');
+		}
+		else {
+			$form->removeField('address1', 'profile');
+		}
+
+		// Toggle whether the address2 field is required.
+		if ($this->params->get('register-require_address2', 1) > 0) {
+			$form->setFieldAttribute('address2', 'required', $this->params->get('register-require_address2') == 2, 'profile');
+		}
+		else {
+			$form->removeField('address2', 'profile');
+		}
+
+		// Toggle whether the city field is required.
+		if ($this->params->get('register-require_city', 1) > 0) {
+			$form->setFieldAttribute('city', 'required', $this->params->get('register-require_city') == 2, 'profile');
+		}
+		else {
+			$form->removeField('city', 'profile');
+		}
+
+		// Toggle whether the region field is required.
+		if ($this->params->get('register-require_region', 1) > 0) {
+			$form->setFieldAttribute('region', 'required', $this->params->get('register-require_region') == 2, 'profile');
+		}
+		else {
+			$form->removeField('region', 'profile');
+		}
+
+		// Toggle whether the country field is required.
+		if ($this->params->get('register-require_country', 1) > 0) {
+			$form->setFieldAttribute('country', 'required', $this->params->get('register-require_country') == 2, 'profile');
+		}
+		else {
+			$form->removeField('country', 'profile');
+		}
+
+		// Toggle whether the postal code field is required.
+		if ($this->params->get('register-require_postal_code', 1) > 0) {
+			$form->setFieldAttribute('postal_code', 'required', $this->params->get('register-require_postal_code') == 2, 'profile');
+		}
+		else {
+			$form->removeField('postal_code', 'profile');
+		}
+
+		// Toggle whether the phone field is required.
+		if ($this->params->get('register-require_phone', 1) > 0) {
+			$form->setFieldAttribute('phone', 'required', $this->params->get('register-require_phone') == 2, 'profile');
+		}
+		else {
+			$form->removeField('phone', 'profile');
+		}
+
+		// Toggle whether the website field is required.
+		if ($this->params->get('register-require_website', 1) > 0) {
+			$form->setFieldAttribute('website', 'required', $this->params->get('register-require_website') == 2, 'profile');
+		}
+		else {
+			$form->removeField('website', 'profile');
+		}
+
+		// Toggle whether the favoritebook field is required.
+		if ($this->params->get('register-require_favoritebook', 1) > 0) {
+			$form->setFieldAttribute('favoritebook', 'required', $this->params->get('register-require_favoritebook') == 2, 'profile');
+		}
+		else {
+			$form->removeField('favoritebook', 'profile');
+		}
+
+		// Toggle whether the aboutme field is required.
+		if ($this->params->get('register-require_aboutme', 1) > 0) {
+			$form->setFieldAttribute('aboutme', 'required', $this->params->get('register-require_aboutme') == 2, 'profile');
+		}
+		else {
+			$form->removeField('aboutme', 'profile');
+		}
+
+		// Toggle whether the tos field is required.
+		if ($this->params->get('register-require_tos', 1) > 0) {
+			$form->setFieldAttribute('tos', 'required', $this->params->get('register-require_tos') == 2, 'profile');
+		}
+		else {
+			$form->removeField('tos', 'profile');
+		}
+
+		// Toggle whether the dob field is required.
+		if ($this->params->get('register-require_dob', 1) > 0) {
+			$form->setFieldAttribute('dob', 'required', $this->params->get('register-require_dob') == 2, 'profile');
+		}
+		else {
+			$form->removeField('dob', 'profile');
+		}
+
+		return true;
+	}
+
+	function onUserAfterSave($data, $isNew, $result, $error)
+	{
+		$userId	= JArrayHelper::getValue($data, 'id', 0, 'int');
+                
+                //Dev Rafi
+                //Modification for expand the profile plugin to use tellmemd profile
+                //get the id from post form to create an account
+                //we get task and jform to check weather we are processing an edit or new
+                $task = JRequest::getVar('task');
+                $jform_vars = JRequest::getVar('jform');
+
+		if ($userId && $result && isset($data['profile']) && (count($data['profile'])))
+		{
+			try
+			{
+				//Sanitize the date
+				if (!empty($data['profile']['date_birth'])) {
+					$date = new JDate($data['profile']['date_birth']);
+					$data['profile']['date_birth'] = $date->toFormat('%Y-%m-%d');
+				}
+                                
+                                $db = JFactory::getDbo();
+                                
+                                if($jform_vars['id'] == 0 || $task == 'register')       //it is a new registration
+                                {
+                                    
+                                    //prepare query
+                                    $num = 1;
+                                    $count = count($data['profile']);
+                                    foreach($data['profile'] as $field => $value)
+                                    {
+                                        if($field == 'title' || $field == 'gender' || $field == 'martial_status' || $field == 'post_zip')
+                                            if($value == '')
+                                                $value = 0;
+                                            else
+                                                $value = $value;
+                                        else
+                                            $value = $db->quote ($value);
+                                        if($num < $count)
+                                        {
+                                            $query_fields .= "$field, ";
+                                            $query_values .= "$value, ";
+                                        }
+                                        else
+                                        {
+                                            $query_fields .= "$field ";
+                                            $query_values .= "$value ";
+                                        }
+                                        
+                                        $num++;
+                                    }
+                                    
+                                    //insert a new raw in to table
+                                    $query = "Insert Into #__user_data (user_id, $query_fields) Values($userId, $query_values)";
+                                    $db->setQuery($query);
+                                    if (!$db->query())
+                                            throw new Exception($db->getErrorMsg());
+                                    
+                                }
+                                else        //it is an edit or profile edit
+                                {
+                                    foreach($data['profile'] as $field => $value)
+                                    {
+                                        if($field == 'title' || $field == 'gender' || $field == 'martial_status' || $field == 'post_zip')
+                                            if($value == '')
+                                                $value = 0;
+                                            else
+                                                $value = $value;
+                                        else
+                                            $value = $db->quote ($value);
+                                            $query_set[] .= "$field = $value";
+                                    }
+                                    
+                                    $query = "Update #__user_data Set ".implode(', ', $query_set)." Where user_id = $userId";
+                                    
+                                    $db->setQuery($query);
+                                    if (!$db->query())
+                                            throw new Exception($db->getErrorMsg());
+                                    
+                                }
+                                
+                                //Modification ends here
+                                //Dev Rafi
+                                
+                                //Dev Rafi - following lines has been commented to remove the default plugin save functionality
+
+//				$db->setQuery(
+//					'DELETE FROM #__user_profiles WHERE user_id = '.$userId .
+//					" AND profile_key LIKE 'profile.%'"
+//				);
+//
+//				if (!$db->query()) {
+//					throw new Exception($db->getErrorMsg());
+//				}
+//
+//				$tuples = array();
+//				$order	= 1;
+//
+//				foreach ($data['profile'] as $k => $v)
+//				{
+//					$tuples[] = '('.$userId.', '.$db->quote('profile.'.$k).', '.$db->quote($v).', '.$order++.')';
+//				}
+//
+//				$db->setQuery('INSERT INTO #__user_profiles VALUES '.implode(', ', $tuples));
+//
+//				if (!$db->query()) {
+//					throw new Exception($db->getErrorMsg());
+//				}
+
+			}
+			catch (JException $e)
+			{
+				$this->_subject->setError($e->getMessage());
+				return false;
+			}
+		}
+
+		return true;
+	}
+
+	/**
+	 * Remove all user profile information for the given user ID
+	 *
+	 * Method is called after user data is deleted from the database
+	 *
+	 * @param	array		$user		Holds the user data
+	 * @param	boolean		$success	True if user was succesfully stored in the database
+	 * @param	string		$msg		Message
+	 */
+	function onUserAfterDelete($user, $success, $msg)
+	{
+		if (!$success) {
+			return false;
+		}
+
+		$userId	= JArrayHelper::getValue($user, 'id', 0, 'int');
+
+		if ($userId)
+		{
+			try
+			{
+				$db = JFactory::getDbo();
+                                //Dev Rafi
+                                //Modification statrts here
+                                $query = "Delete From #__user_data Where user_id = $userId ";
+                                $db->setQuery($query);
+//				$db->setQuery(
+//					'DELETE FROM #__user_profiles WHERE user_id = '.$userId .
+//					" AND profile_key LIKE 'profile.%'"
+//				);
+
+				if (!$db->query()) {
+					throw new Exception($db->getErrorMsg());
+				}
+                                //Dev Rafi
+                                //Delete account token details
+                                $token_query = "Delete From #__com_tmd_registration_record Where user_id = $userId";
+                                $db->setQuery($token_query);
+                                $db->query();
+                                //Dev Rafi
+                                //Modification ends here
+			}
+			catch (JException $e)
+			{
+				$this->_subject->setError($e->getMessage());
+				return false;
+			}
+		}
+
+		return true;
+	}
+}

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/archmage/!svn/ver/3/trunk/tellmemd/plugins/authentication/ldap
+END
+ldap.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/archmage/!svn/ver/3/trunk/tellmemd/plugins/authentication/ldap/ldap.xml
+END
+ldap.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/archmage/!svn/ver/3/trunk/tellmemd/plugins/authentication/ldap/ldap.php
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/archmage/!svn/ver/3/trunk/tellmemd/plugins/authentication/ldap/index.html
+END

@@ -1,0 +1,155 @@
+<?php
+
+/* * *****************************************************************************
+ * Developer        :   Mohamed Rafi
+ * Developer Email  :   rafi@archmage.lk, rafiitfac@gmail.com
+ * Copyright        :   Archmage Software.
+ * Licence          :   GNU/GPL
+ * Prduct           :   TellMeMD - Medical Question and Answer System
+ * Date             :   27 July 2011
+ * ***************************************************************************** */
+
+//give no direct access
+defined( '_JEXEC' ) or die( 'Restricted access' );
+
+class TellMeMDHelper
+{
+    static function addSubMenu($controller)
+    {
+        JSubMenuHelper::addEntry(JText::_('COM_TELLMEMD_ALERTS'), 'index.php?option=com_tellmemd&controller=alert', $controller == 'alert');
+        JSubMenuHelper::addEntry(JText::_('COM_TELLMEMD_WEBSITE'), 'index.php?option=com_tellmemd&controller=website', $controller == 'website');
+        JSubMenuHelper::addEntry(JText::_('COM_TELLMEMD_DISPUTES'), 'index.php?option=com_tellmemd&controller=dispute', $controller == 'dispute');
+        JSubMenuHelper::addEntry(JText::_('COM_TELLMEMD_CASES'), 'index.php?option=com_tellmemd&controller=cases', $controller == 'cases');
+        JSubMenuHelper::addEntry(JText::_('COM_TELLMEMD_DOCTORS'), 'index.php?option=com_tellmemd&controller=doctors', $controller == 'doctors');
+        JSubMenuHelper::addEntry(JText::_('COM_TELLMEMD_REPORTS'), 'index.php?option=com_tellmemd&controller=report', $controller == 'report');
+        JSubMenuHelper::addEntry(JText::_('COM_TELLMEMD_ACCOUNT'), 'index.php?option=com_tellmemd&controller=account', $controller == 'account');
+        JSubMenuHelper::addEntry(JText::_('COM_TELLMEMD_NOTICES'), 'index.php?option=com_tellmemd&controller=notice', $controller == 'notice');
+    }
+    
+    function createList($name, $current_value, &$items, $first = 0, $class = '', $extra='')
+    {
+        $html = "\n".'<select name="'.$name.'" id="'.$name.'" class="'.$class.'" size="1" '.$extra.'>';
+        
+        if($items == NULL)
+            return;
+        
+        foreach ($items as $key => $value)
+        {
+            if ($key < $first)
+                continue;
+            
+            $selected = '';
+            
+            if($current_value === $key)
+                $selected = 'selected = "selected"';
+            
+            $html .= "\n".'<option value="'.$key.'"'.$selected.'>'.$value.'</option>';
+        }
+        
+        $html .= '</select>'."\n";
+        
+        return $html;
+    }
+    
+    function make_list($name, $current_value, &$items, $first = 0, $extra='')
+{
+	$html = "\n".'<select name="'.$name.'" id="'.$name.'" class="input" size="1" '.$extra.'>';
+	if ($items == null)
+		return '';
+	foreach ($items as $key => $value)
+		{
+		if (strncmp($key,"OPTGROUP_START",14) == 0)
+			{
+			$html .= "\n".'<optgroup label="'.$value.'">';
+			continue;
+			}
+		if (strncmp($key,"OPTGROUP_END",12) == 0)
+			{
+			$html .= "\n".'</optgroup>';
+			continue;
+			}
+		if ($key < $first)					// skip unwanted entries
+			{
+			continue;
+			}
+		$selected = '';
+
+		if ($current_value == $key)
+			$selected = ' selected="selected"';
+		$html .= "\n".'<option value="'.$key.'"'.$selected.'>'.$value.'</option>';
+		}
+	$html .= '</select>'."\n";
+
+	return $html;
+}
+    
+    function createRadio($name, $current_value, $items = array(), $option='')
+    {
+        
+        $html = '';
+        if($items == NULL)
+            return '';
+
+        foreach ($items as $key => $value)
+        {
+            $checked = '';
+            
+            if($current_value == $key)
+                $checked = ' checked = "checked" ';
+            
+            $html .= "\n".'<input type="radio" name="'.$name.'" value="'.$key.'" '.$checked.$option.' ><span>'.$value.'</span>';
+            
+            if(count($items)> 1)
+                $html .= '<br/>';
+        }
+        
+        return $html;
+    }
+    
+    function createCheckBox($name, $current_value, $value, $label='', $extra='', $right=false)
+    {
+        $html = '';
+	if (($label != '') and (!$right))
+		$html .= "\n".'<label for="'.$name.'">'.$label.' '.'</label>';
+	if ($current_value)
+		$checked = 'checked="checked" ';
+	else
+		$checked = '';
+	$html .= '<input type="checkbox" name="'.$name.'" value="'.$value.'" '.$checked.' '.$extra.' />'."\n";
+	if (($label != '') and ($right))
+		$html .= "\n".'<label for="'.$name.'">'.' '.$label.'</label>';
+	return $html;
+    }
+    
+    function getComplexityArray($option = '')
+    {
+        if($option)
+            $complex_array = array($option, JText::_('COM_TELLMEMD_COMPLEX_SIMPLE'), JText::_('COM_TELLMEMD_COMPLEX_MODERATE'), JText::_('COM_TELLMEMD_COMPLEX_COMPLEX'));
+        else
+            $complex_array = array( 1 => JText::_('COM_TELLMEMD_COMPLEX_SIMPLE'), JText::_('COM_TELLMEMD_COMPLEX_MODERATE'), JText::_('COM_TELLMEMD_COMPLEX_COMPLEX'));
+        
+        return $complex_array;
+    }
+    
+    function getMediumArray($option = '')
+    {
+        if($option)
+            $medium_array = array($option, 'Form Submit', 'Live Chat Session', 'Skype Call');
+        else
+            $medium_array = array(1 => 'Form Submit', 'Live Chat Session', 'Skype Call');
+        
+        return $medium_array;
+    }
+    
+    function getPriorityArray($option = '')
+    {
+        if($option)
+            $priority_array = array($option, 'Low', 'Medium', 'High');
+        else
+            $priority_array = array(1 => 'Low', 'Medium', 'High');
+        
+        return $priority_array;
+    }
+}
+
+?>

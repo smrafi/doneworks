@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<!-- $Id: profile.xml 20156 2011-01-07 13:10:16Z eddieajau $ -->
+<form>
+	<fields name="profile">
+		<fieldset name="profile"
+			label="PLG_USER_PROFILE_SLIDER_LABEL"
+		>
+<!--                    Dev Rafi - custom fields has been added from here-->
+
+                        <field
+				name="title"
+				type="list"
+				id="title"
+				description="Title of the user"
+				label="Title"
+			>
+                            <option value="0">Select Title</option>
+                            <option value="1">Mr.</option>
+                            <option value="2">Ms.</option>
+                            <option value="3">Mrs.</option>
+                        </field>
+
+                        <field
+				name="first_name"
+				type="text"
+				id="first_name"
+				description="First Name of the user"
+				filter="string"
+				label="First Name"
+				message="Type your first name at here"
+				size="30"
+			/>
+                        
+                        <field
+				name="last_name"
+				type="text"
+				id="last_name"
+				description="Last Name of the user"
+				filter="string"
+				label="Last Name"
+				message="Type your last name at here"
+				size="30"
+			/>
+                        
+                        <field
+				name="other_name"
+				type="text"
+				id="other_name"
+				description="Other Name of the user"
+				filter="string"
+				label="Other Name"
+				message="Type your other name at here"
+				size="30"
+			/>
+                        
+                        <field
+				name="gender"
+				type="list"
+				id="gender"
+				description="Gender of the user"
+				label="Gender"
+			>
+                            <option value="0">Select Gender</option>
+                            <option value="1">Male</option>
+                            <option value="2">Female</option>
+                        </field>
+                        
+                        <field
+				name="nationality"
+				type="text"
+				id="nationality"
+				description="Nationality of the user"
+				filter="string"
+				label="Nationality"
+				message=""
+				size="30"
+			/>
+                        
+                        <field
+				name="martial_status"
+				type="list"
+				id="martial_status"
+				description="Martial status of the user"
+				label="Martial Status"
+			>
+                            <option value="0">Select status</option>
+                            <option value="1">Single</option>
+                            <option value="2">Married</option>
+                        </field>
+                        
+                        <field
+                                name="date_birth"
+                                type="calendar"
+                                label="PLG_USER_PROFILE_FIELD_DOB_LABEL"
+                                description="PLG_USER_PROFILE_FIELD_DOB_DESC"
+                         />
+                        
+			<field
+				name="address1"
+				type="text"
+				id="address1"
+				description="PLG_USER_PROFILE_FIELD_ADDRESS1_DESC"
+				filter="string"
+				label="PLG_USER_PROFILE_FIELD_ADDRESS1_LABEL"
+				message="PLG_USER_PROFILE_FIELD_ADDRESS1_MESSAGE"
+				size="30"
+			/>
+
+			<field
+				name="address2"
+				type="text"
+				id="address2"
+				description="PLG_USER_PROFILE_FIELD_ADDRESS2_DESC"
+				filter="string"
+				label="PLG_USER_PROFILE_FIELD_ADDRESS2_LABEL"
+				message="PLG_USER_PROFILE_FIELD_ADDRESS1_MESSAGE"
+				size="30"
+			/>
+
+			<field
+				name="city"
+				type="text"
+				id="city"
+				description="PLG_USER_PROFILE_FIELD_CITY_DESC"
+				filter="string"
+				label="PLG_USER_PROFILE_FIELD_CITY_LABEL"
+				message="PLG_USER_PROFILE_FIELD_CITY_MESSAGE"
+				size="30"
+			/>
+
+			<field
+				name="region"
+				type="text"
+				id="region"
+				description="PLG_USER_PROFILE_FIELD_REGION_DESC"
+				filter="string"
+				label="PLG_USER_PROFILE_FIELD_REGION_LABEL"
+				message="PLG_USER_PROFILE_FIELD_REGION_MESSAGE"
+				size="30"
+			/>
+
+			<field
+				name="country"
+				type="text"
+				id="country"
+				description="PLG_USER_PROFILE_FIELD_COUNTRY_DESC"
+				filter="string"
+				label="PLG_USER_PROFILE_FIELD_COUNTRY_LABEL"
+				message="PLG_USER_PROFILE_FIELD_COUNTRY_MESSAGE"
+				size="30"
+			/>
+
+			<field
+				name="post_zip"
+				type="text"
+				id="postal_code"
+				description="PLG_USER_PROFILE_FIELD_POSTAL_CODE_DESC"
+				filter="string"
+				label="PLG_USER_PROFILE_FIELD_POSTAL_CODE_LABEL"
+				message="PLG_USER_PROFILE_FIELD_POSTAL_CODE_MESSAGE"
+				size="30"
+			/>
+                        
+                        <field
+				name="mobile_phone"
+				type="tel"
+				id="mobile_phone"
+				description="Mobile Number of the user"
+				filter="string"
+				label="Mobile Phone"
+				message=""
+				size="30"
+			/>
+                        
+                        <field
+				name="work_phone"
+				type="tel"
+				id="work_phone"
+				description="Work number of the user"
+				filter="string"
+				label="Work Phone"
+				message=""
+				size="30"
+			/>
+                                                
+                        <field
+				name="designation"
+				type="textarea"
+                                id="designation"
+				description="Designation of user"
+				label="Designation"
+				message=""
+				cols="30"
+				rows="5"
+				filter="safehtml"
+			/>
+                        
+                        <field
+				name="employment"
+				type="textarea"
+                                id="employment"
+				description="Employment of user"
+				label="Employment"
+				message=""
+				cols="30"
+				rows="5"
+				filter="safehtml"
+			/>
+                        
+                        <field
+				name="paypal_email"
+				type="text"
+                                id="paypal_email"
+				description="Paypal Email of the user"
+				filter="string"
+				label="Paypal Email"
+				message=""
+				size="30"
+			/>
+                        
+                        <field
+				name="skype_id"
+				type="text"
+                                id="skype_id"
+				description="Skype ID of the user"
+				filter="string"
+				label="Skype ID"
+				message=""
+				size="30"
+			/>
+
+			<field
+				name="phone"
+				type="tel"
+				id="phone"
+				description="PLG_USER_PROFILE_FIELD_PHONE_DESC"
+				filter="string"
+				label="PLG_USER_PROFILE_FIELD_PHONE_LABEL"
+				message="PLG_USER_PROFILE_FIELD_PHONE_MESSAGE"
+				size="30"
+			/>
+
+			<field
+				name="website"
+				type="url"
+				id="website"
+				description="PLG_USER_PROFILE_FIELD_WEB_SITE_DESC"
+				filter="string"
+				label="PLG_USER_PROFILE_FIELD_WEB_SITE_LABEL"
+				message="PLG_USER_PROFILE_FIELD_WEB_SITE_MESSAGE"
+				size="30"
+			/>
+			<field
+				name="favoritebook"
+				type="text"
+				description="PLG_USER_PROFILE_FIELD_FAVORITE_BOOK_DESC"
+				filter="string"
+				label="PLG_USER_PROFILE_FIELD_FAVORITE_BOOK_LABEL"
+				message="PLG_USER_PROFILE_FIELD_FAVORITE_BOOK_MESSAGE"
+				size="30"
+			/>
+			<field
+				name="aboutme"
+				type="textarea"
+				description="PLG_USER_PROFILE_FIELD_ABOUT_ME_DESC"
+				label="PLG_USER_PROFILE_FIELD_ABOUT_ME_LABEL"
+				message="PLG_USER_PROFILE_FIELD_ABOUT_ME_MESSAGE"
+				cols="30"
+				rows="5"
+				filter="safehtml"
+			/>
+			<field
+					name="tos"
+					type="radio"
+					label="PLG_USER_PROFILE_FIELD_TOS_LABEL"
+					description="PLG_USER_PROFILE_FIELD_TOS_DESC">
+					<option	value="1">PLG_USER_PROFILE_OPTION_AGREE</option>
+			</field>
+			
+		</fieldset>
+	</fields>
+</form>

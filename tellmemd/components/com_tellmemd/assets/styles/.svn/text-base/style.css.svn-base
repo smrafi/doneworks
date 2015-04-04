@@ -1,0 +1,30 @@
+/* 
+    Document   : style.css
+    Created on : Sep 16, 2011, 5:31:28 PM
+    Author     : Mohamed Rafi
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+.drug-yes .radio-inner-wrapper h4{
+    color:#fff;
+    font-size:14px;
+    font-weight:bold;
+    color:#fff;
+    font-family:Arial, Helvetica, sans-serif;
+    margin-top:5px;
+    padding-left: 30px;
+}
+.drug-yes .radio-inner-wrapper .inner-checkbox{
+    margin-left: 40px;
+    margin-top: 5px;
+}
+input#template_file{
+    height: 30px;
+    margin-top: 15px;
+    opacity: 0;
+    position: absolute;
+    width: 10px;
+    cursor: pointer;
+}
+

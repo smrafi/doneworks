@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/archmage/!svn/ver/3/trunk/tellmemd/administrator/components/com_banners/sql
+END
+uninstall.mysql.utf8.sql
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/archmage/!svn/ver/3/trunk/tellmemd/administrator/components/com_banners/sql/uninstall.mysql.utf8.sql
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/archmage/!svn/ver/3/trunk/tellmemd/administrator/components/com_banners/sql/index.html
+END
+install.mysql.utf8.sql
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/archmage/!svn/ver/3/trunk/tellmemd/administrator/components/com_banners/sql/install.mysql.utf8.sql
+END

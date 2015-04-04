@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/archmage/!svn/ver/3/trunk/tellmemd/libraries/joomla/installer/adapters
+END
+package.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/archmage/!svn/ver/3/trunk/tellmemd/libraries/joomla/installer/adapters/package.php
+END
+template.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/archmage/!svn/ver/3/trunk/tellmemd/libraries/joomla/installer/adapters/template.php
+END
+plugin.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/archmage/!svn/ver/3/trunk/tellmemd/libraries/joomla/installer/adapters/plugin.php
+END
+file.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/archmage/!svn/ver/3/trunk/tellmemd/libraries/joomla/installer/adapters/file.php
+END
+component.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/archmage/!svn/ver/3/trunk/tellmemd/libraries/joomla/installer/adapters/component.php
+END
+language.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/archmage/!svn/ver/3/trunk/tellmemd/libraries/joomla/installer/adapters/language.php
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/archmage/!svn/ver/3/trunk/tellmemd/libraries/joomla/installer/adapters/index.html
+END
+library.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/archmage/!svn/ver/3/trunk/tellmemd/libraries/joomla/installer/adapters/library.php
+END
+module.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/archmage/!svn/ver/3/trunk/tellmemd/libraries/joomla/installer/adapters/module.php
+END

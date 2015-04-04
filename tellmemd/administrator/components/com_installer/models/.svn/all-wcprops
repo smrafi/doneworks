@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/archmage/!svn/ver/3/trunk/tellmemd/administrator/components/com_installer/models
+END
+extension.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/archmage/!svn/ver/3/trunk/tellmemd/administrator/components/com_installer/models/extension.php
+END
+discover.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/archmage/!svn/ver/3/trunk/tellmemd/administrator/components/com_installer/models/discover.php
+END
+update.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/archmage/!svn/ver/3/trunk/tellmemd/administrator/components/com_installer/models/update.php
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/archmage/!svn/ver/3/trunk/tellmemd/administrator/components/com_installer/models/index.html
+END
+install.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/archmage/!svn/ver/3/trunk/tellmemd/administrator/components/com_installer/models/install.php
+END
+manage.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/archmage/!svn/ver/3/trunk/tellmemd/administrator/components/com_installer/models/manage.php
+END
+warnings.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/archmage/!svn/ver/3/trunk/tellmemd/administrator/components/com_installer/models/warnings.php
+END

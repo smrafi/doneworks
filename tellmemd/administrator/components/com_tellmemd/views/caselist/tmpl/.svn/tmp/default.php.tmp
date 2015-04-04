@@ -1,0 +1,48 @@
+<?php
+
+/* * *****************************************************************************
+ * Developer        :   Mohamed Rafi
+ * Developer Email  :   rafi@archmage.lk, rafiitfac@gmail.com
+ * Copyright        :   Archmage Software.
+ * Licence          :   GNU/GPL
+ * Prduct           :   TellMeMD - Medical Question and Answer System
+ * Date             :   27 July 2011
+ * ***************************************************************************** */
+
+//give no direct access
+defined( '_JEXEC' ) or die( 'Restricted access' );
+?>
+
+<form action="index.php" method="post" name="adminForm">
+    <input type="hidden" name="option" value="<?php echo OPTIOIN_NAME; ?>" />
+    <input type="hidden" name="task" value="" />
+    <input type="hidden" name="boxchecked" value="0" />
+    <input type="hidden" name="controller" value="cases" />
+    
+    <table class="adminlist">
+        <thead>
+            <tr>
+                <th width="50"><?php echo JText::_('COM_TELLMEMD_CASEID'); ?></th>
+		<th width="20"><input type="checkbox" name="toggle" value="" onclick="checkAll(<?php //echo $numrows; ?>);" /></th>
+                
+                <th class="title" nowrap="nowrap"><?php echo JText::_('COM_TELLMEMD_DATE'); ?></th>
+                <th class="title" nowrap="nowrap"><?php echo JText::_('COM_TELLMEMD_SUBJECT'); ?></th>
+                <th class="title" nowrap="nowrap"><?php echo JText::_('COM_TELLMEMD_DISPUTE_TYPE'); ?></th>
+                <th class="title" nowrap="nowrap"><?php echo JText::_('COM_TELLMEMD_CATEGORY'); ?></th>
+                <th class="title" nowrap="nowrap"><?php echo JText::_('COM_TELLMEMD_STATUS'); ?></th>
+                <th class="title" nowrap="nowrap"><?php echo JText::_('COM_TELLMEMD_PRICE'); ?></th>
+                <th class="title" nowrap="nowrap"><?php echo JText::_('COM_TELLMEMD_PATIENT'); ?></th>
+                <th class="title" nowrap="nowrap"><?php echo JText::_('COM_TELLMEMD_LAST_DOCTOR'); ?></th>
+                <th class="title" nowrap="nowrap"><?php echo JText::_('DL1'); ?></th>
+                <th class="title" nowrap="nowrap"><?php echo JText::_('DL2'); ?></th>
+                <th class="title" nowrap="nowrap"><?php echo JText::_('COM_TELLMEMD_CASE_TYPE'); ?></th>
+                <th class="title" nowrap="nowrap"><?php echo JText::_('COM_TELLMEMD_ANSWER_MEDIUM'); ?></th>
+                <th class="title" nowrap="nowrap"><?php echo JText::_('COM_TELLMEMD_URGENCY_LEVEL'); ?></th>
+                <th class="title" nowrap="nowrap"><?php echo JText::_('COM_TELLMEMD_LEVEL_DETAILS'); ?></th>
+                <th class="title" nowrap="nowrap"><?php echo JText::_('FB1'); ?></th>
+                <th class="title" nowrap="nowrap"><?php echo JText::_('FB2'); ?></th>
+            </tr>
+        </thead>
+    </table>
+    
+</form>

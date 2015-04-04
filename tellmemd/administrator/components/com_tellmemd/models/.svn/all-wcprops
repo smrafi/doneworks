@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/archmage/!svn/ver/239/trunk/tellmemd/administrator/components/com_tellmemd/models
+END
+labcase.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/archmage/!svn/ver/141/trunk/tellmemd/administrator/components/com_tellmemd/models/labcase.php
+END
+socialhistory.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/archmage/!svn/ver/133/trunk/tellmemd/administrator/components/com_tellmemd/models/socialhistory.php
+END
+labtest.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/archmage/!svn/ver/137/trunk/tellmemd/administrator/components/com_tellmemd/models/labtest.php
+END
+medicationhistory.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/archmage/!svn/ver/135/trunk/tellmemd/administrator/components/com_tellmemd/models/medicationhistory.php
+END
+surgery.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/archmage/!svn/ver/136/trunk/tellmemd/administrator/components/com_tellmemd/models/surgery.php
+END
+disputes.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/archmage/!svn/ver/237/trunk/tellmemd/administrator/components/com_tellmemd/models/disputes.php
+END
+patientsetting.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/archmage/!svn/ver/127/trunk/tellmemd/administrator/components/com_tellmemd/models/patientsetting.php
+END
+docsetting.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/archmage/!svn/ver/125/trunk/tellmemd/administrator/components/com_tellmemd/models/docsetting.php
+END
+pendingpayments.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/archmage/!svn/ver/239/trunk/tellmemd/administrator/components/com_tellmemd/models/pendingpayments.php
+END
+question.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/archmage/!svn/ver/139/trunk/tellmemd/administrator/components/com_tellmemd/models/question.php
+END
+incomeandexpenses.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/archmage/!svn/ver/238/trunk/tellmemd/administrator/components/com_tellmemd/models/incomeandexpenses.php
+END
+case.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/archmage/!svn/ver/254/trunk/tellmemd/administrator/components/com_tellmemd/models/case.php
+END
+doctors.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/archmage/!svn/ver/167/trunk/tellmemd/administrator/components/com_tellmemd/models/doctors.php
+END
+category.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/archmage/!svn/ver/137/trunk/tellmemd/administrator/components/com_tellmemd/models/category.php
+END
+payment.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/archmage/!svn/ver/144/trunk/tellmemd/administrator/components/com_tellmemd/models/payment.php
+END
+allergyhistory.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/archmage/!svn/ver/135/trunk/tellmemd/administrator/components/com_tellmemd/models/allergyhistory.php
+END
+condition.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/archmage/!svn/ver/136/trunk/tellmemd/administrator/components/com_tellmemd/models/condition.php
+END
+common.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/archmage/!svn/ver/140/trunk/tellmemd/administrator/components/com_tellmemd/models/common.php
+END

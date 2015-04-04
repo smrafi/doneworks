@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/archmage/!svn/ver/3/trunk/tellmemd/libraries/joomla/cache/storage
+END
+eaccelerator.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/archmage/!svn/ver/3/trunk/tellmemd/libraries/joomla/cache/storage/eaccelerator.php
+END
+xcache.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/archmage/!svn/ver/3/trunk/tellmemd/libraries/joomla/cache/storage/xcache.php
+END
+file.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/archmage/!svn/ver/3/trunk/tellmemd/libraries/joomla/cache/storage/file.php
+END
+cachelite.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/archmage/!svn/ver/3/trunk/tellmemd/libraries/joomla/cache/storage/cachelite.php
+END
+wincache.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/archmage/!svn/ver/3/trunk/tellmemd/libraries/joomla/cache/storage/wincache.php
+END
+memcache.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/archmage/!svn/ver/3/trunk/tellmemd/libraries/joomla/cache/storage/memcache.php
+END
+apc.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/archmage/!svn/ver/3/trunk/tellmemd/libraries/joomla/cache/storage/apc.php
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/archmage/!svn/ver/3/trunk/tellmemd/libraries/joomla/cache/storage/index.html
+END

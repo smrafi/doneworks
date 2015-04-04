@@ -1,0 +1,106 @@
+10
+
+dir
+253
+http://subversion.assembla.com/svn/archmage/trunk/tellmemd/administrator/components/com_tellmemd/views
+http://subversion.assembla.com/svn/archmage
+
+
+
+2011-10-23T15:09:55.079837Z
+252
+saraniptha
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+8a48209c-dbe4-4c4e-8fb6-5bbbdc89018d
+
+accounts
+dir
+
+notice
+dir
+
+conditionlist
+dir
+
+patientsettings
+dir
+
+incomeandexpense
+dir
+
+docsettings
+dir
+
+newcategory
+dir
+
+newdoctors
+dir
+
+labtestlist
+dir
+
+surgerylist
+dir
+
+generalsettings
+dir
+
+newcondition
+dir
+
+alertlist
+dir
+
+caselist
+dir
+
+reportlist
+dir
+
+newlabtest
+dir
+
+disputelist
+dir
+
+doctorslist
+dir
+
+settinglist
+dir
+
+coresettings
+dir
+
+categorylist
+dir
+
+newsurgery
+dir
+
+case
+dir
+
+noticelist
+dir
+
+dispute
+dir
+
+pendingpaymentlist
+dir
+

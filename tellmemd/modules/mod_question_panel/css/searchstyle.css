@@ -1,0 +1,62 @@
+/* 
+    Document   : searchstyle
+    Created on : Oct 4, 2010, 1:26:54 PM
+    Author     : arachmage
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+table.search
+{
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+td.spacer
+{
+    
+}
+
+<input class="inputbox" type="text" name="startdate" id="startdate" size="25" maxlength="25" value="" />
+                    <input type="reset" class="button" value="..." onclick="return showCalendar('startdate','%Y-%m-%d');" />
+
+
+.booking_mod_left{
+color:#FF0000;
+padding-left:20px;
+padding-top:20px;
+}
+
+<!--table.search
+{
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+td.text
+{
+    color: #FFFFFF;
+}
+
+td.button
+{
+    padding-left: 120px;
+    padding-top: 8px;
+}
+
+td.date
+{
+    width: 200px;
+}
+
+tr.spacer
+{
+    margin-bottom: 5px;
+}
+</style>
+-->

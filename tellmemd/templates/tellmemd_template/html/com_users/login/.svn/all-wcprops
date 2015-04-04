@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/archmage/!svn/ver/188/trunk/tellmemd/templates/tellmemd_template/html/com_users/login
+END
+default_login.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/archmage/!svn/ver/188/trunk/tellmemd/templates/tellmemd_template/html/com_users/login/default_login.php
+END
+default.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/archmage/!svn/ver/66/trunk/tellmemd/templates/tellmemd_template/html/com_users/login/default.xml
+END
+default_logout.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/archmage/!svn/ver/66/trunk/tellmemd/templates/tellmemd_template/html/com_users/login/default_logout.php
+END
+default.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/archmage/!svn/ver/66/trunk/tellmemd/templates/tellmemd_template/html/com_users/login/default.php
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/archmage/!svn/ver/66/trunk/tellmemd/templates/tellmemd_template/html/com_users/login/index.html
+END

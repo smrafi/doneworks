@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/archmage/!svn/ver/3/trunk/tellmemd/libraries/phputf8/utils
+END
+validation.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/archmage/!svn/ver/3/trunk/tellmemd/libraries/phputf8/utils/validation.php
+END
+patterns.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/archmage/!svn/ver/3/trunk/tellmemd/libraries/phputf8/utils/patterns.php
+END
+specials.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/archmage/!svn/ver/3/trunk/tellmemd/libraries/phputf8/utils/specials.php
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/archmage/!svn/ver/3/trunk/tellmemd/libraries/phputf8/utils/index.html
+END
+position.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/archmage/!svn/ver/3/trunk/tellmemd/libraries/phputf8/utils/position.php
+END
+bad.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/archmage/!svn/ver/3/trunk/tellmemd/libraries/phputf8/utils/bad.php
+END
+unicode.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/archmage/!svn/ver/3/trunk/tellmemd/libraries/phputf8/utils/unicode.php
+END
+ascii.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/archmage/!svn/ver/3/trunk/tellmemd/libraries/phputf8/utils/ascii.php
+END

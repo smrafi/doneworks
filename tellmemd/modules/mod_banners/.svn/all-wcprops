@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/archmage/!svn/ver/3/trunk/tellmemd/modules/mod_banners
+END
+helper.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/archmage/!svn/ver/3/trunk/tellmemd/modules/mod_banners/helper.php
+END
+mod_banners.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/archmage/!svn/ver/3/trunk/tellmemd/modules/mod_banners/mod_banners.xml
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/archmage/!svn/ver/3/trunk/tellmemd/modules/mod_banners/index.html
+END
+mod_banners.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/archmage/!svn/ver/3/trunk/tellmemd/modules/mod_banners/mod_banners.php
+END

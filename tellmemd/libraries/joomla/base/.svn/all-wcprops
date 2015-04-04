@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/archmage/!svn/ver/3/trunk/tellmemd/libraries/joomla/base
+END
+tree.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/archmage/!svn/ver/3/trunk/tellmemd/libraries/joomla/base/tree.php
+END
+adapter.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/archmage/!svn/ver/3/trunk/tellmemd/libraries/joomla/base/adapter.php
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/archmage/!svn/ver/3/trunk/tellmemd/libraries/joomla/base/index.html
+END
+observable.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/archmage/!svn/ver/3/trunk/tellmemd/libraries/joomla/base/observable.php
+END
+adapterinstance.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/archmage/!svn/ver/3/trunk/tellmemd/libraries/joomla/base/adapterinstance.php
+END
+node.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/archmage/!svn/ver/3/trunk/tellmemd/libraries/joomla/base/node.php
+END
+object.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/archmage/!svn/ver/3/trunk/tellmemd/libraries/joomla/base/object.php
+END
+observer.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/archmage/!svn/ver/3/trunk/tellmemd/libraries/joomla/base/observer.php
+END

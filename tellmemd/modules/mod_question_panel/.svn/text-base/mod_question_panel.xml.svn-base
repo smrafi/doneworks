@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<install type="module" version="1.6.0" method="upgrade" client="site">
+    <name>TellmeMD Question Panel</name>
+    <creationDate>August 2011</creationDate>
+    <author>Harsha Nayanajith - Archmage Software</author>
+    <developer>Harsha Nayanajith</developer>
+    <developerEmail>harsha@archmage.lk</developerEmail>
+    <copyright>Archmage Software</copyright>
+    <authorEmail>harsha@archmage.lk</authorEmail>
+    <authorUrl>http://www.archmage.lk</authorUrl>
+    <license>Archmage Software (Pvt) Ltd.</license>
+    <version>1.0</version>
+    <description>
+       Question Panel for TellmeMD - for more information contact harsha@archmage.lk
+    </description>
+
+    <files>
+        <filename module="mod_question_panel">mod_question_panel.php</filename>
+        <filename>helper.php</filename>
+        <filename>index.html</filename>
+        <folder>tmpl</folder>
+        <folder>images</folder>
+        <folder>css</folder>
+    </files>
+	
+	<config>
+  	<fields name="params">
+		<fieldset name="basic" label="Module Parameters">
+        	<field name="moduleclass_sfx" type="text" default="" label="Module Class Suffix" description="Parameter module class suffix"></field>
+    	</fieldset>
+	</fields>
+	</config>
+
+</install>

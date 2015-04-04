@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/archmage/!svn/ver/3/trunk/tellmemd/libraries/joomla/filesystem/archive
+END
+gzip.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/archmage/!svn/ver/3/trunk/tellmemd/libraries/joomla/filesystem/archive/gzip.php
+END
+zip.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/archmage/!svn/ver/3/trunk/tellmemd/libraries/joomla/filesystem/archive/zip.php
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/archmage/!svn/ver/3/trunk/tellmemd/libraries/joomla/filesystem/archive/index.html
+END
+bzip2.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/archmage/!svn/ver/3/trunk/tellmemd/libraries/joomla/filesystem/archive/bzip2.php
+END
+tar.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/archmage/!svn/ver/3/trunk/tellmemd/libraries/joomla/filesystem/archive/tar.php
+END

@@ -1,0 +1,150 @@
+/* 
+    Document   : register
+    Created on : Aug 5, 2011, 5:25:51 PM
+    Author     : Mohamed Rafi
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+/*.registration{
+    width: 600px;
+}*/
+.registration div#registration-inner{
+	margin-top:0px;
+	} 
+#registration-inner{
+    margin: 0 80px;
+}
+.registration span.star{
+    color: red;
+    padding-left: 5px;
+}
+.left-inputbox{
+    float: left;
+}
+.right-inputbox{
+    float: right;
+}
+#extra-input-div{
+    display: none;
+}
+span.invalid{
+    color: #FF0000;
+}
+/*#user-terms-div, #user-captcha-div{
+    float: left;
+}*/
+#user-captcha-div{
+	margin-top:25px;
+	}
+#captcha-div-inner{
+	}
+/*Changes By Harsha*/
+.registration div#registration-inner{
+	border:none;
+	}
+.brown_wrapper{
+	background-color:#363636;
+	border-radius:15px;
+	padding:15px;
+	}
+.blue_line{
+	border-radius:15px;
+	padding:15px;
+	border:1px solid #3e8bb8;
+	}
+div#user-types span#doctors-div{
+	margin-right:20px;
+	}
+div#user-types span#doctors-div input, div#user-types span#patients-div input{
+	margin-right:5px;
+	}
+div#user-type-div{
+/*	text-align:center;*/
+/*	border-radius:15px;*/
+/*	padding:10px;*/
+/*	border:1px solid #D3D3D3;*/
+	color:#fff;
+/*	width:200px;*/
+	margin-left: auto;
+    margin-right: auto;
+	}
+span#doctors-div, span#patients-div{
+/*	color:#FFF;*/
+	font-weight:bold;
+	font-size:13px;
+	}
+div#doctors-div input.required, div#patients-div input.required{
+	margin-right:10px;
+	}
+div#patients-div input#patients-input{
+	margin-left:3px;
+	}
+span#doctors-div span, span#patients-div span{
+	color:#0099FF;
+	font-weight:bold;
+	font-size:14px;
+	}
+div#user-input-div{
+	margin-top:25px;
+	}
+.left-label{
+	margin-bottom:5px;
+	margin-top:5px;
+	}
+.left-label label{
+/*	color:#fff;*/
+	padding-bottom:10px;
+	}
+.right-input input{
+	height:20px;
+	}
+div#terms-innner{
+	padding-top:30px;
+	}
+div#terms-innner span{
+/*	color:#fff;*/
+	}
+div#terms-innner span a.link{
+	font-family: "Myriad Pro";
+    font-size: 12px;
+	font-weight:normal;
+	}
+div#captcha-field{
+	margin-bottom:10px;
+	float:left;
+	}
+div#register-button{
+/*	float:right;*/
+	margin-top:15px;
+	}
+div#captcha-field span{
+	color:#0099FF;
+	font-weight:bold;
+	font-size:15px;
+	}
+div#captcha-field input#captchavalue{
+	width:30px;
+	margin-left:15px;
+	}
+div#register-button button#account-register{
+/*	height:60px;
+	width:130px;*/
+	background-color:#1195C0;
+	border-radius:10px;
+	border:none;
+	color:#fff;
+	font-size:18px;
+	font-weight:bold;
+	cursor:pointer;
+	padding:10px 20px;
+	text-shadow: 1px 1px #6B6B6B;
+	}
+div#register-button button#account-register:hover{
+	background-color:#42baff;
+	}

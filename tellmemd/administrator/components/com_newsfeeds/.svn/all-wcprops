@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/archmage/!svn/ver/3/trunk/tellmemd/administrator/components/com_newsfeeds
+END
+access.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/archmage/!svn/ver/3/trunk/tellmemd/administrator/components/com_newsfeeds/access.xml
+END
+newsfeeds.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/archmage/!svn/ver/3/trunk/tellmemd/administrator/components/com_newsfeeds/newsfeeds.xml
+END
+config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/archmage/!svn/ver/3/trunk/tellmemd/administrator/components/com_newsfeeds/config.xml
+END
+controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/archmage/!svn/ver/3/trunk/tellmemd/administrator/components/com_newsfeeds/controller.php
+END
+newsfeeds.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/archmage/!svn/ver/3/trunk/tellmemd/administrator/components/com_newsfeeds/newsfeeds.php
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/archmage/!svn/ver/3/trunk/tellmemd/administrator/components/com_newsfeeds/index.html
+END

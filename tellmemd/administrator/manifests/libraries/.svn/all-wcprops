@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/archmage/!svn/ver/3/trunk/tellmemd/administrator/manifests/libraries
+END
+joomla.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/archmage/!svn/ver/3/trunk/tellmemd/administrator/manifests/libraries/joomla.xml
+END
+phpmailer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/archmage/!svn/ver/3/trunk/tellmemd/administrator/manifests/libraries/phpmailer.xml
+END
+simplepie.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/archmage/!svn/ver/3/trunk/tellmemd/administrator/manifests/libraries/simplepie.xml
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/archmage/!svn/ver/3/trunk/tellmemd/administrator/manifests/libraries/index.html
+END
+phputf8.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/archmage/!svn/ver/3/trunk/tellmemd/administrator/manifests/libraries/phputf8.xml
+END

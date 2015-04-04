@@ -1,0 +1,190 @@
+; $Id: en-GB.com_tellmemd.sys.ini 27 July 2011 Mohamed Rafi $
+; Archmage Software
+; Copyright (C) Archmage Software Pvt Ltd. All rights reserved.
+; License GNU General Public License version 2 or later; see LICENSE.txt, see LICENSE.php
+; Note : All ini files need to be saved as UTF-8
+
+COM_TELLMEMD="Tellme Medical Doctor"
+COM_TELLMEMD_ALERTS="Alerts"
+COM_TELLMEMD_WEBSITE="Manage Website"
+COM_TELLMEMD_DISPUTES="Disputes"
+COM_TELLMEMD_CASES="Cases"
+COM_TELLMEMD_DOCTORS="New Doctors"
+COM_TELLMEMD_REPORTS="Reports"
+COM_TELLMEMD_ACCOUNT="Manage Account"
+COM_TELLMEMD_NOTICES="Notices"
+
+;following has been already created
+;these will be changed to standard later
+MANAGE_ALERTS = Manage Alerts
+FLAG = Flag
+FROM = From
+ACTION = Action
+MANAGE_WEBSITE = Manage Website
+WEBSITE_SETTINGS = Website Settings
+LABORATORY_TESTS = Laboratory Tests
+DOCTOR_SETTINGS = Doctor Settings
+PATIENT_SETTINGS = Patient Settings
+GENERAL_SETTINGS = General Settings
+DATE = Date
+SUBJECT = Subject
+TYPE = Type
+CATEGORIES = Categories
+HELP = Help
+BACK = Back
+
+;New standard language names will be used here after
+
+COM_TELLMEMD_CONDITIONS = Medical Conditions
+COM_TELLMEMD_SURGERIES = Surgeries
+
+;Categories
+COM_TELLMEMD_MANAGE_CATS = Manage Categories
+COM_TELLMEMD_CATID = Cat ID
+COM_TELLMEMD_DATE = Date
+COM_TELLMEMD_CATNAME = Category Name
+COM_TELLMEMD_CATDESC = Category Description
+COM_TELLMEMD_NO_OF_DOCS = No. of Doctors
+COM_TELLMEMD_NO_OF_CASES = No. of Cases
+COM_TELLMEMD_TOTAL_EARNINGS = Total Earnings
+COM_TELLMEMD_CATEGORY = Category
+COM_TELLMEMD_COMPLEXITY = Complexity
+COM_TELLMEMD_NEW_CATEGORY = New Category
+COM_TELLMEMD_EDIT_CATEGORY = Edit Category
+COM_TELLMEMD_FILTER_DESC = Filter by Description
+COM_TELLMEMD_PUBLISH = Published
+
+;Disputes
+COM_TELLMEMD_MANAGE_DISPUTES = Manage Disputes
+COM_TELLMEMD_CASEID = Case ID
+COM_TELLMEMD_SUBJECT = Subject
+COM_TELLMEMD_DISPUTE_TYPE = Dispute Type
+COM_TELLMEMD_DOCTOR = Doctor
+COM_TELLMEMD_PATIENT = Patient
+COM_TELLMEMD_CASE_TYPE = Case Type
+COM_TELLMEMD_ANSWER_MEDIUM = Answer Medium
+COM_TELLMEMD_URGENCY_LEVEL = Urgency Level
+COM_TELLMEMD_LEVEL_DETAILS = Level of Details
+COM_TELLMEMD_AWARD_DOCTOR = Award Doctor
+COM_TELLMEMD_AWARD_PATIENT = Award Patient
+COM_TELLMEMD_REFUND_HALF = Refund Half
+COM_TELLMEMD_REFUND_PATIENT = Refund Patient
+
+;Cases
+COM_TELLMEMD_MANAGE_CASES = Manage Cases
+COM_TELLMEMD_STATUS = Status
+COM_TELLMEMD_PRICE = Price
+COM_TELLMEMD_LAST_DOCTOR = Last Doctor
+COM_TELLMEMD_EDIT_CASES = Edit Cases
+COM_TELLMEMD_DATE_ADDED = Date Added
+COM_TELLMEMD_SUBJECT = Subject
+COM_TELLMEMD_DEADLINE_TIME = Deadline Time
+COM_TELLMEMD_DEADLINE_ONE = Deadline 1
+COM_TELLMEMD_DEADLINE_TWO = Deadline 2
+COM_TELLMEMD_QUESTIONS = Questions
+COM_TELLMEMD_LABTEST = Lab Test
+COM_TELLMEMD_LAB_REPORT = Lab Report
+
+
+;DOCTORS
+COM_TELLMEMD_MANAGE_NEW_DOCTORS = Manage New Doctors
+COM_TELLMEMD_EDIT_NEW_DOCTORS = Edit New Doctors
+COM_TELLMEMD_APPROVE = Approve
+COM_TELLMEMD_DISAPPROVE = Disapprove
+COM_TELLMEMD_HELP = Help
+COM_TELLMEMD_FULL_NAME = Full Name
+COM_TELLMEMD_DOB = Date of Birth
+COM_TELLMEMD_MED_QUALIF = Medical Qualifications
+COM_TELLMEMD_EXPERTISE = Main Area of Expertise
+COM_TELLMEMD_DISIGNATION = Designation
+COM_TELLMEMD_CURR_EMPLO = Current Employment
+COM_TELLMEMD_FILTER_QUALIY = Filter by Qualification
+
+;Reports
+COM_TELLMEMD_VIEW_REPORTS = View Reports
+COM_TELLMEMD_PENDING_REPORT = Pending Payment Report
+COM_TELLMEMD_EXPENSE_REPORT = Income and Expense Report
+COM_TELLMEMD_GOOGLE_ANALYTICS_REPORT = Google Analytics Report
+
+;Account
+COM_TELLMEMD_MANAGE_ACCOUNT = Manage Accounts
+COM_TELLMEMD_MANAGE_NOTICES = Manage Notices
+COM_TELLMEMD_MANAGE_DOCTOR_SETTINGS = Manage Doctor Settings
+COM_TELLMEMD_MANAGE_PATIENT_SETTINGS =  Manage Patient Settings
+COM_TELLMEMD_MANAGE_GENERAL_SETTINGS = Manage General Settings
+
+;Doctor settings
+COM_TELLMEMD_SCENARIO = Scenario
+COM_TELLMEMD_NUMLOCKS = Number of Locks
+COM_TELLMEMD_CASE_ACTION_WITH_DOCTOR = Case Action is with Doctor
+COM_TELLMEMD_CASE_ACTION_NOT_WITH_DOCTOR = Case Action is not with Doctor
+COM_TELLMEMD_CASE_ASSIGNED_TO_DOCTOR = Case is Assigned to Doctor
+COM_TELLMEMD_URGENCY_LEVEL = Urgency Level
+COM_TELLMEMD_TIME_LIMIT = Doctor Time Limit
+COM_TELLMEMD_NUMRELOCKS = Number of RELOCKS
+COM_TELLMEMD_LOW = Low
+COM_TELLMEMD_MEDIUM = Medium
+COM_TELLMEMD_HIGH = High
+
+;Patient Settings
+COM_TELLMEMD_SPECIFIC_DOCTOR_SELECTION = Specific Doctor Selection Feature
+COM_TELLMEMD_CASE_TIME_LIMIT = Case Time Limit
+COM_TELLMEMD_NEW_DOC_TIME_LIMIT = Request for New Doctor Time Limit
+COM_TELLMEMD_PRICE_INC_PERCENTAGE = Price Increment Percentage
+COM_TELLMEMD_LEVEL_DETAIL = Level of Detail
+COM_TELLMEMD_MEDIUM_ANSWER = Medium of Answer
+COM_TELLMEMD_WORDS_DIVIDE_FACOTR = Words Divide Factor
+COM_TELLMEMD_LAB_TEST_COMPLEXITY = Lab Test Complexity
+COM_TELLMEMD_MAX_PRICE_PERCENTAGE = Maximum Price Percentage
+COM_TELLMEMD_MIN_PRICE_PERCENTAGE = Minimum Price Percentage
+COM_TELLMEMD_MEDIUM_FORM_SUBMIT = Form Submit
+COM_TELLMEMD_MEDIUM_CHAT = Internal Chat Session
+COM_TELLMEMD_MEDIUM_SKYPE = Skype Chat Call
+COM_TELLMEMD_COMPLEX_SIMPLE = Simple
+COM_TELLMEMD_COMPLEX_MODERATE = Moderate
+COM_TELLMEMD_COMPLEX_COMPLEX = Complex
+
+;Lab tests
+COM_TELLMEMD_MANAGE_LABTESTS = Manage Laboratory Tests
+COM_TELLMEMD_TESTID = LAB ID
+COM_TELLMEMD_TEST_NAME = Test Name
+COM_TELLMEMD_TEST_DESC = Test Descriptioin
+COM_TELLMEMD_SELECT_COMPLEXITY = Select a complexity;
+COM_TELLMEMD_SELECT_CATEGORY = Select a category
+COM_TELLMEMD_NEW_LABTEST = New Laboratory Test
+COM_TELLMEMD_EDIT_LABTEST = Edit Laboratory Test
+COM_TELLMEMD_LABTEST_FILE = Lab Test File
+
+;Condtions
+COM_TELLMEMD_MANAGE_CONDTIONS = Manage Medical Conditions
+COM_TELLMEMD_NEW_CONDTION = New Medical Condition
+COM_TELLMEMD_EDIT_CONDTION = Edit Medical Condition
+COM_TELLMEMD_CONDITION_NAME = Medical Condition Name
+
+;Surgeries
+COM_TELLMEMD_MANAGE_SURGERY = Manage Surgeries
+COM_TELLMEMD_NEW_SURGERY = New Surgery
+COM_TELLMEMD_EDIT_SURGERY = Edit Surgery
+COM_TELLMEMD_SURGERY_NAME = Surgery Name
+
+;Erros
+COM_TELLMEMD_NOT_FILLED_ERROR = Some fields have not been filled.
+COM_TELLMEMD_CATNAME_NOT_FILLED_ERROR = Category Name should be entered
+COM_TELLMEMD_CATDESC_NOT_FILLED_ERROR = Category Description should be entered
+COM_TELLMEMD_SELECT_CAT_ERROR = Category is not selected.
+COM_TELLMEMD_SELECT_COMPLEX_ERROR = Complexity is not selected
+COM_TELLMEMD_TESTNAME_NOT_FILLED_ERROR = Lab test name is not entered
+COM_TELLMEMD_TESTDESC_NOT_FILLED_ERROR = Test description is not entered
+COM_TELLMEMD_FILE_SIZE_ERROR = File size can not be exceeded than 2MB
+COM_TELLMEMD_FILE_EXT_ERROR = file format can not be accepted
+COM_TELLMEMD_CONDITION_NAME_NOT_FILLED_ERROR = Medical Condition Name should be entered
+COM_TELLMEMD_SURGERY_NAME_NOT_FILLED_ERROR = Surgery name should be entered
+COM_TELLMEMD_SUBJECT_NOT_FILLED_ERROR = Subject should be entered
+
+;Messages
+COM_TELLMEMD_TASK_SAVED = Data saved successfully.
+COM_TELLMEMD_TASK_DELETED = Delete operation was done successfully.
+COM_TELLMEMD_LABTEST_SAVED = Lab test is saved
+COM_TELLMEMD_CATEGORY_SAVED = Category saved successfully.
+COM_TELLMEMD_CONDITION_SAVED = Condition saved successfully.
+COM_TELLMEMD_SURGERY_SAVED = Surgery saved successfully.

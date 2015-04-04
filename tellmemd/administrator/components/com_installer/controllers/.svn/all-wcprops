@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/archmage/!svn/ver/3/trunk/tellmemd/administrator/components/com_installer/controllers
+END
+discover.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/archmage/!svn/ver/3/trunk/tellmemd/administrator/components/com_installer/controllers/discover.php
+END
+update.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/archmage/!svn/ver/3/trunk/tellmemd/administrator/components/com_installer/controllers/update.php
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/archmage/!svn/ver/3/trunk/tellmemd/administrator/components/com_installer/controllers/index.html
+END
+install.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/archmage/!svn/ver/3/trunk/tellmemd/administrator/components/com_installer/controllers/install.php
+END
+manage.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/archmage/!svn/ver/3/trunk/tellmemd/administrator/components/com_installer/controllers/manage.php
+END

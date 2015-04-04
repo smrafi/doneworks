@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/archmage/!svn/ver/3/trunk/tellmemd/libraries/joomla/installer
+END
+librarymanifest.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/archmage/!svn/ver/3/trunk/tellmemd/libraries/joomla/installer/librarymanifest.php
+END
+extension.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/archmage/!svn/ver/3/trunk/tellmemd/libraries/joomla/installer/extension.php
+END
+installer.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/archmage/!svn/ver/3/trunk/tellmemd/libraries/joomla/installer/installer.php
+END
+helper.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/archmage/!svn/ver/3/trunk/tellmemd/libraries/joomla/installer/helper.php
+END
+packagemanifest.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/archmage/!svn/ver/3/trunk/tellmemd/libraries/joomla/installer/packagemanifest.php
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/archmage/!svn/ver/3/trunk/tellmemd/libraries/joomla/installer/index.html
+END

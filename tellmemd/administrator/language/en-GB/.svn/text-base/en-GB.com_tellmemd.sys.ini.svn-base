@@ -1,0 +1,15 @@
+; $Id: en-GB.com_tellmemd.sys.ini 27 July 2011 Mohamed Rafi $
+; Archmage Software
+; Copyright (C) Archmage Software Pvt Ltd. All rights reserved.
+; License GNU General Public License version 2 or later; see LICENSE.txt, see LICENSE.php
+; Note : All ini files need to be saved as UTF-8
+
+COM_TELLMEMD="Tellme Medical Doctor"
+COM_TELLMEMD_ALERTS="Alerts"
+COM_TELLMEMD_WEBSITE="Manage Website"
+COM_TELLMEMD_DISPUTES="Disputes"
+COM_TELLMEMD_CASES="Cases"
+COM_TELLMEMD_DOCTORS="New Doctors"
+COM_TELLMEMD_REPORTS="Reports"
+COM_TELLMEMD_ACCOUNT="Manage Account"
+COM_TELLMEMD_NOTICES="Notices"

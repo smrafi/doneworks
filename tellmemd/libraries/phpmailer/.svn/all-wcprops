@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/archmage/!svn/ver/3/trunk/tellmemd/libraries/phpmailer
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/archmage/!svn/ver/3/trunk/tellmemd/libraries/phpmailer/LICENSE
+END
+phpmailer.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/archmage/!svn/ver/3/trunk/tellmemd/libraries/phpmailer/phpmailer.php
+END
+smtp.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/archmage/!svn/ver/3/trunk/tellmemd/libraries/phpmailer/smtp.php
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/archmage/!svn/ver/3/trunk/tellmemd/libraries/phpmailer/index.html
+END

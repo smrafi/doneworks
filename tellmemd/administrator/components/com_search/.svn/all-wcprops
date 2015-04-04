@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/archmage/!svn/ver/3/trunk/tellmemd/administrator/components/com_search
+END
+config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/archmage/!svn/ver/3/trunk/tellmemd/administrator/components/com_search/config.xml
+END
+search.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/archmage/!svn/ver/3/trunk/tellmemd/administrator/components/com_search/search.xml
+END
+controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/archmage/!svn/ver/3/trunk/tellmemd/administrator/components/com_search/controller.php
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/archmage/!svn/ver/3/trunk/tellmemd/administrator/components/com_search/index.html
+END
+search.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/archmage/!svn/ver/3/trunk/tellmemd/administrator/components/com_search/search.php
+END
