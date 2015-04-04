@@ -1,0 +1,153 @@
+/* 
+    Document   : style
+    Created on : Mar 23, 2011, 4:29:30 PM
+    Author     : arachmage
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+/*following to cover popup boxes*/
+ #backgroundPopup{
+display:none;
+position:fixed;
+_position:absolute; /* hack for internet explorer 6*/
+height:100%;
+width:100%;
+top:0;
+left:0;
+background:#000000;
+border:1px solid #cecece;
+z-index:1;
+}
+
+#popupContact{
+display:none;
+position:fixed;
+_position:absolute; /* hack for internet explorer 6*/
+height:384px;
+width:390px;
+background:#FFFFFF;
+border:2px solid #cecece;
+z-index:2;
+padding:12px;
+font-size:13px;
+overflow-y : scroll;
+}
+
+#popupContactClose{
+font-size:14px;
+line-height:14px;
+right:6px;
+top:4px;
+position:absolute;
+color:#000000;
+font-weight:700;
+display:block;
+cursor: pointer;
+}
+
+#ajaxMessage
+{
+    color: #000000;
+}
+
+/**********************************/
+
+#backgroundPopup_error{
+display:none;
+position:fixed;
+_position:absolute; /* hack for internet explorer 6*/
+height:100%;
+width:100%;
+top:0;
+left:0;
+background:#000000;
+border:1px solid #cecece;
+z-index:1;
+}
+
+#popupContact_error{
+display:none;
+position:fixed;
+_position:absolute; /* hack for internet explorer 6*/
+height:60px;
+width:450px;
+background:#FFFFFF;
+border:2px solid #cecece;
+z-index:2;
+padding:12px;
+font-size:13px;
+}
+
+#popupContactClose_error{
+font-size:14px;
+line-height:14px;
+right:6px;
+top:4px;
+position:absolute;
+color:#000000;
+font-weight:700;
+display:block;
+cursor: pointer;
+}
+
+/*to cover list from photo page*/
+ul.thumbs {
+	clear: both;
+	margin: 0;
+	padding: 0;
+}
+ul.thumbs li {
+	float: left;
+	padding: 0;
+	margin: 15px 10px 15px 30px;
+	list-style: none;
+}
+a.thumb {
+    border: 1px solid #ccc;
+	padding: 2px;
+	display: block;
+
+}
+ul.thumbs li.selected a.thumb {
+	background: #000;
+}
+a.thumb:focus {
+	outline: none;
+}
+ul.thumbs img {
+	border: none;
+	display: block;
+}
+
+#photobox
+{
+    display: none;
+    margin-left: 15px;
+}
+
+#errimg img
+{
+    width: 24px;
+    height: auto;
+}
+
+#errmsg
+{
+    color: red;
+    font-size: 12px;
+    font-weight: 400;
+    padding-left: 10px;
+}
+
+#tfrntable
+{
+    display: none;
+}
+
+
